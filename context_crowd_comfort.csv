@@ -1,0 +1,1001 @@
+Day,Hour,Weekend,Weather,Temperature,Humidity,Cloudiness,Event,Holiday,Festival,Season,Offer,Footfall,CrowdDensity,Ratings,Cuisine,Traffic,Parking,ParkingDistance_m,NearbyAttractions,AirQuality_AQI,User_Max_Crowd,User_Noise_Tolerance,User_Preferred_Temp,User_Preferred_Humidity,User_Accessibility,User_Seating,Comfort
+Saturday,17,1,Normal,27.6,55.2,Overcast,0,0,0,Monsoon,1,38,Medium,3.6,Bakery,Low,Available,179.4,Office,62,37,Low,29.0,63.1,Yes,Booth,Moderate
+Monday,20,0,Normal,25.6,54.9,Overcast,0,0,0,Monsoon,0,42,High,4.8,Italian,Medium,Full,37.7,Cinema,144,21,High,23.9,58.9,No,Booth,Overloaded
+Monday,22,0,Hot,29.3,38.9,Overcast,1,0,0,Monsoon,0,47,High,3.7,Cafe,Medium,Limited,131.9,School,106,32,High,27.7,56.6,No,Indoor,Noisy
+Saturday,16,1,Normal,30.0,65.3,Partly Cloudy,0,1,0,Summer,1,37,Medium,4.5,Italian,Low,Available,80.2,Park,121,44,Low,22.3,68.2,No,Outdoor,Moderate
+Wednesday,20,0,Hot,29.2,75.5,Partly Cloudy,0,0,0,Summer,1,38,Medium,4.2,Bakery,Medium,Available,84.7,Office,119,43,High,28.2,31.7,No,Indoor,Noisy
+Tuesday,15,0,Rainy,27.2,86.4,Cloudy,0,0,0,Summer,1,33,Medium,4.6,Cafe,Low,Available,98.3,Park,54,53,Medium,23.0,45.1,Yes,Booth,Noisy
+Tuesday,15,0,Hot,27.3,85.5,Cloudy,0,0,0,Summer,0,25,Medium,4.3,Chinese,Low,Available,163.3,Cinema,176,32,Low,22.7,43.4,No,Window,Noisy
+Tuesday,14,0,Hot,20.1,63.8,Sunny,0,0,0,Winter,0,26,Medium,4.8,Bakery,Low,Full,184.3,Mall,162,38,High,24.7,40.4,Yes,Outdoor,Noisy
+Saturday,21,1,Overcast,28.3,36.1,Overcast,0,0,0,Monsoon,0,50,High,3.6,Chinese,Low,Available,67.7,None,163,37,Low,22.4,50.6,Yes,Booth,Overloaded
+Monday,19,0,Hot,20.2,47.2,Partly Cloudy,0,0,0,Monsoon,1,32,Medium,3.9,SouthIndian,Medium,Full,111.7,Mall,122,55,Low,24.0,55.9,Yes,Outdoor,Noisy
+Saturday,17,1,Rainy,27.9,62.1,Cloudy,0,0,0,Monsoon,1,46,High,5.0,SouthIndian,Low,Full,72.1,Mall,150,37,High,23.6,52.0,No,Booth,Overloaded
+Saturday,12,1,Rainy,24.1,50.6,Sunny,0,0,0,Winter,0,35,Medium,3.7,Cafe,Low,Available,68.5,Cinema,91,48,Low,27.5,33.9,No,Window,Moderate
+Friday,13,0,Normal,34.7,54.7,Sunny,0,0,0,Summer,0,22,Medium,4.4,Chinese,Medium,Available,190.2,Office,64,26,Low,28.6,38.2,No,Booth,Moderate
+Monday,21,0,Cloudy,20.3,53.0,Overcast,0,0,0,Summer,0,36,Medium,4.7,Chinese,Medium,Limited,107.2,Office,164,41,Low,24.8,34.3,Yes,Window,Moderate
+Friday,11,0,Hot,32.2,59.1,Overcast,0,0,0,Summer,1,24,Medium,4.3,Bakery,High,Available,83.4,Park,85,11,High,28.3,56.2,Yes,Outdoor,Noisy
+Thursday,21,0,Normal,30.1,66.5,Sunny,0,0,0,Summer,1,41,High,4.5,Bakery,Low,Available,175.5,Mall,153,23,High,23.8,60.4,Yes,Booth,Noisy
+Monday,22,0,Normal,32.1,32.2,Overcast,0,1,0,Monsoon,0,49,High,4.8,Chinese,High,Available,140.8,Office,155,17,High,28.6,31.6,No,Window,Overloaded
+Monday,9,0,Hot,33.6,46.5,Overcast,0,0,0,Monsoon,0,23,Medium,3.7,Cafe,Medium,Available,142.1,Park,83,45,Medium,25.7,40.9,No,Booth,Moderate
+Monday,12,0,Normal,21.6,38.6,Cloudy,0,0,0,Summer,0,21,Medium,4.4,Italian,Low,Available,185.5,Park,85,10,Low,24.8,51.4,Yes,Indoor,Moderate
+Tuesday,22,0,Normal,21.4,66.5,Cloudy,0,0,0,Monsoon,0,39,Medium,4.3,Cafe,Medium,Available,125.0,Cinema,138,31,Medium,29.2,64.0,No,Outdoor,Moderate
+Tuesday,15,0,Normal,22.2,71.6,Cloudy,0,1,0,Winter,1,36,Medium,4.6,Chinese,Medium,Limited,135.6,None,54,22,Low,22.8,58.2,No,Indoor,Moderate
+Friday,11,0,Cloudy,22.9,32.3,Partly Cloudy,0,0,0,Monsoon,1,27,Medium,4.6,SouthIndian,Low,Available,119.1,Mall,192,52,High,26.3,36.3,Yes,Booth,Moderate
+Friday,20,0,Rainy,27.9,83.4,Overcast,0,0,0,Monsoon,1,44,High,4.3,Italian,Low,Limited,99.2,Mall,73,59,Low,23.1,62.8,Yes,Indoor,Overloaded
+Monday,15,0,Normal,32.2,49.9,Cloudy,0,0,0,Winter,0,25,Medium,4.3,Chinese,Medium,Available,27.3,None,175,22,Low,22.6,33.3,No,Booth,Moderate
+Friday,17,0,Normal,24.0,44.3,Cloudy,0,0,0,Summer,0,33,Medium,5.0,SouthIndian,Medium,Available,103.0,Cinema,171,48,High,22.2,64.0,No,Outdoor,Moderate
+Tuesday,17,0,Rainy,26.0,74.7,Sunny,0,0,0,Winter,1,33,Medium,3.7,SouthIndian,Low,Available,75.1,Park,148,35,High,23.3,33.8,No,Indoor,Moderate
+Saturday,18,1,Normal,25.6,85.3,Cloudy,0,0,0,Monsoon,1,41,High,4.8,FastFood,Low,Available,108.2,None,62,20,Low,26.8,63.2,No,Indoor,Overloaded
+Saturday,14,1,Hot,26.1,83.8,Sunny,0,1,0,Summer,0,37,Medium,4.5,SouthIndian,Medium,Available,130.0,Office,91,38,High,25.3,61.3,Yes,Outdoor,Noisy
+Saturday,13,1,Normal,28.5,31.2,Overcast,0,0,0,Summer,0,27,Medium,3.7,Chinese,Medium,Full,57.8,Office,194,26,High,29.1,44.9,No,Window,Noisy
+Friday,8,0,Normal,34.9,79.0,Sunny,0,0,0,Summer,0,21,Medium,4.4,Chinese,High,Available,61.0,None,67,37,High,27.5,41.8,Yes,Window,Overloaded
+Thursday,15,0,Normal,23.4,48.2,Cloudy,0,0,0,Monsoon,0,31,Medium,4.6,Italian,Low,Limited,61.5,Office,117,35,Low,27.9,56.5,Yes,Outdoor,Moderate
+Tuesday,21,0,Normal,30.3,46.8,Partly Cloudy,0,0,0,Monsoon,1,37,Medium,4.9,Cafe,High,Available,64.9,Office,55,37,Low,25.8,65.3,Yes,Window,Noisy
+Thursday,13,0,Hot,32.7,59.5,Partly Cloudy,0,0,0,Monsoon,1,28,Medium,4.7,Cafe,Low,Available,107.6,School,151,19,Low,25.0,58.4,Yes,Indoor,Moderate
+Friday,10,0,Hot,29.8,71.8,Overcast,0,0,0,Summer,0,18,Low,4.4,Bakery,Low,Limited,69.5,Mall,184,15,Low,26.9,51.5,Yes,Outdoor,Calm
+Wednesday,15,0,Rainy,32.9,35.9,Cloudy,1,0,0,Summer,0,40,High,3.8,Cafe,Medium,Available,182.1,Mall,186,32,Low,28.9,64.8,No,Outdoor,Noisy
+Sunday,11,1,Normal,31.4,82.1,Overcast,0,0,0,Monsoon,0,24,Medium,3.6,Italian,Low,Full,182.4,School,117,47,Low,23.3,51.7,Yes,Indoor,Overloaded
+Sunday,13,1,Normal,21.4,38.1,Sunny,0,0,0,Monsoon,1,29,Medium,3.7,Chinese,Low,Available,117.5,Mall,67,14,Low,28.0,51.4,Yes,Indoor,Moderate
+Monday,20,0,Normal,25.7,88.5,Overcast,0,1,0,Monsoon,0,46,High,4.8,FastFood,High,Available,76.2,Cinema,99,43,Low,26.2,69.7,No,Window,Overloaded
+Sunday,12,1,Rainy,28.3,56.6,Partly Cloudy,1,1,0,Monsoon,0,51,High,4.3,Chinese,High,Available,68.2,Park,100,25,Low,23.0,41.9,No,Outdoor,Overloaded
+Sunday,13,1,Rainy,20.8,79.5,Overcast,0,0,0,Winter,0,33,Medium,3.9,Chinese,Low,Available,166.9,Mall,101,18,Low,28.3,30.3,No,Window,Noisy
+Tuesday,12,0,Normal,20.1,46.2,Sunny,0,1,0,Winter,0,36,Medium,3.7,FastFood,Low,Available,108.4,School,166,54,Low,24.1,60.5,No,Window,Moderate
+Saturday,22,1,Rainy,22.6,55.0,Cloudy,0,0,0,Summer,0,56,High,3.5,FastFood,High,Available,88.2,None,109,40,Low,28.7,34.4,No,Indoor,Overloaded
+Thursday,17,0,Normal,27.5,68.7,Overcast,1,0,0,Winter,0,39,Medium,4.3,Cafe,Low,Limited,60.1,Cinema,72,11,Low,27.9,43.1,No,Window,Moderate
+Wednesday,19,0,Normal,26.5,41.3,Sunny,0,1,0,Monsoon,0,40,High,4.1,SouthIndian,Low,Limited,90.5,Park,83,12,High,28.6,52.3,No,Indoor,Noisy
+Wednesday,22,0,Normal,31.8,42.7,Partly Cloudy,0,0,1,Monsoon,1,41,High,4.9,Cafe,Low,Available,135.2,Office,130,13,High,22.5,32.3,No,Window,Noisy
+Tuesday,12,0,Hot,28.5,79.4,Cloudy,0,0,0,Winter,1,30,Medium,3.9,Cafe,Low,Available,156.0,Mall,141,27,Medium,25.1,42.4,Yes,Outdoor,Noisy
+Tuesday,16,0,Normal,32.9,74.5,Overcast,1,0,0,Winter,0,40,High,4.2,SouthIndian,Low,Limited,179.2,School,93,35,Medium,23.3,42.2,Yes,Outdoor,Noisy
+Sunday,8,1,Normal,21.4,75.6,Overcast,1,0,0,Monsoon,0,34,Medium,3.8,Chinese,High,Available,36.5,Office,101,36,Medium,26.5,35.3,No,Indoor,Overloaded
+Wednesday,16,0,Normal,27.9,82.0,Partly Cloudy,0,0,0,Summer,0,28,Medium,3.9,Chinese,Low,Available,156.3,Cinema,138,37,Medium,28.4,63.5,No,Indoor,Noisy
+Monday,11,0,Rainy,20.6,79.3,Overcast,0,0,0,Winter,0,24,Medium,4.8,Cafe,Medium,Limited,66.1,Mall,152,16,Low,23.6,30.0,Yes,Window,Noisy
+Monday,9,0,Normal,23.2,60.9,Partly Cloudy,0,0,0,Winter,0,19,Low,3.9,Bakery,Medium,Full,140.5,Mall,77,29,Low,22.9,61.8,Yes,Outdoor,Comfortable
+Thursday,11,0,Rainy,33.0,39.5,Partly Cloudy,0,0,0,Summer,1,33,Medium,4.4,Cafe,Low,Full,78.7,School,169,31,Low,25.9,37.1,No,Indoor,Noisy
+Monday,19,0,Normal,33.3,48.7,Cloudy,0,0,0,Summer,1,31,Medium,4.2,Italian,Medium,Limited,113.1,Cinema,189,50,High,26.0,67.1,No,Booth,Moderate
+Wednesday,14,0,Normal,27.1,60.4,Partly Cloudy,0,0,0,Winter,0,33,Medium,4.5,Bakery,Medium,Available,71.0,Cinema,70,47,High,24.9,66.6,No,Booth,Moderate
+Sunday,15,1,Rainy,20.7,38.1,Partly Cloudy,0,0,1,Winter,0,41,High,3.7,FastFood,Low,Limited,161.6,None,168,11,High,26.5,49.9,No,Booth,Noisy
+Wednesday,16,0,Normal,21.1,81.1,Partly Cloudy,1,0,0,Winter,1,34,Medium,3.7,Chinese,Medium,Available,120.5,None,52,58,High,24.9,55.5,Yes,Outdoor,Noisy
+Friday,20,0,Normal,33.9,82.8,Overcast,0,0,1,Winter,0,38,Medium,3.5,Italian,Low,Limited,42.9,Office,102,14,High,28.7,49.2,Yes,Window,Noisy
+Wednesday,11,0,Normal,33.5,31.7,Partly Cloudy,1,0,0,Summer,1,27,Medium,3.7,Chinese,Medium,Limited,147.7,Mall,92,60,High,28.7,63.3,No,Booth,Moderate
+Sunday,19,1,Normal,28.5,41.6,Partly Cloudy,0,0,0,Monsoon,1,46,High,4.6,Cafe,Low,Limited,176.5,Park,76,17,Medium,29.3,50.8,Yes,Outdoor,Noisy
+Monday,15,0,Normal,20.5,80.0,Partly Cloudy,0,0,0,Winter,0,25,Medium,3.9,Bakery,Low,Available,131.3,None,70,13,High,25.7,61.0,Yes,Window,Noisy
+Saturday,18,1,Normal,33.9,80.2,Partly Cloudy,0,0,1,Winter,1,42,High,4.3,Chinese,Medium,Full,49.1,School,91,38,Medium,28.0,68.4,Yes,Window,Overloaded
+Thursday,19,0,Normal,24.7,45.0,Overcast,0,0,0,Winter,0,36,Medium,4.5,Bakery,Medium,Available,160.1,Cinema,50,47,Low,29.1,55.5,No,Outdoor,Moderate
+Friday,15,0,Hot,34.4,57.4,Partly Cloudy,1,0,0,Winter,1,32,Medium,3.8,Chinese,Low,Full,167.8,Office,147,41,Low,25.1,41.3,No,Outdoor,Noisy
+Monday,15,0,Normal,28.8,85.1,Sunny,0,0,0,Winter,0,25,Medium,4.2,FastFood,Low,Available,44.8,None,78,52,High,27.6,64.8,Yes,Indoor,Noisy
+Thursday,20,0,Normal,31.3,72.3,Sunny,0,0,0,Monsoon,1,42,High,3.9,Italian,Medium,Available,133.0,None,106,39,Low,29.4,60.0,Yes,Outdoor,Noisy
+Monday,8,0,Hot,30.7,46.4,Sunny,0,0,0,Summer,0,19,Low,3.7,Chinese,Medium,Available,104.4,None,158,17,Medium,22.7,61.0,No,Window,Calm
+Friday,9,0,Rainy,26.0,79.4,Cloudy,0,0,1,Summer,1,31,Medium,4.4,Bakery,High,Available,56.7,Mall,110,26,Low,26.1,34.8,No,Window,Overloaded
+Wednesday,12,0,Hot,21.2,60.3,Sunny,0,0,0,Monsoon,0,23,Medium,4.1,Italian,Medium,Limited,102.0,Park,181,12,Medium,25.1,47.4,Yes,Indoor,Moderate
+Sunday,11,1,Hot,22.4,68.1,Sunny,0,0,1,Summer,1,32,Medium,3.9,Cafe,Low,Available,61.4,Office,131,11,Medium,24.9,35.2,Yes,Outdoor,Moderate
+Saturday,14,1,Normal,23.6,37.4,Cloudy,0,1,0,Monsoon,1,41,High,4.1,Chinese,High,Full,118.0,Park,83,57,Low,24.4,41.8,No,Indoor,Overloaded
+Friday,19,0,Cloudy,32.5,31.8,Overcast,0,0,0,Monsoon,1,36,Medium,4.7,SouthIndian,High,Full,112.1,School,169,51,Medium,24.3,37.2,Yes,Window,Overloaded
+Sunday,11,1,Normal,25.8,52.3,Overcast,0,0,0,Summer,0,33,Medium,4.2,SouthIndian,Medium,Limited,37.8,Mall,176,26,Low,28.1,54.4,No,Booth,Moderate
+Wednesday,12,0,Normal,33.4,65.6,Cloudy,0,0,0,Winter,1,28,Medium,4.7,Chinese,Medium,Available,125.1,Mall,189,47,High,24.0,58.6,Yes,Booth,Moderate
+Friday,18,0,Cloudy,25.0,40.7,Overcast,1,0,0,Monsoon,0,44,High,3.7,Chinese,Medium,Available,58.0,Cinema,196,25,Low,27.2,47.4,Yes,Indoor,Noisy
+Tuesday,17,0,Cloudy,31.3,82.2,Cloudy,0,0,0,Monsoon,0,33,Medium,3.9,Cafe,Low,Limited,193.6,Cinema,138,44,High,25.5,35.8,No,Booth,Noisy
+Saturday,13,1,Rainy,22.1,65.2,Partly Cloudy,0,0,0,Winter,0,35,Medium,3.7,Cafe,High,Available,164.5,Office,146,59,Medium,25.5,33.0,Yes,Booth,Noisy
+Monday,15,0,Rainy,34.8,51.0,Overcast,0,0,0,Winter,1,31,Medium,4.1,FastFood,Low,Available,196.9,Cinema,81,45,Medium,29.8,37.3,No,Booth,Moderate
+Monday,16,0,Hot,30.9,39.8,Cloudy,0,0,0,Summer,0,36,Medium,4.4,Italian,High,Limited,10.6,School,98,14,High,27.5,42.2,No,Outdoor,Noisy
+Saturday,16,1,Normal,27.5,83.7,Partly Cloudy,0,0,0,Monsoon,1,42,High,3.6,FastFood,Low,Available,45.9,Mall,105,55,Low,26.8,32.6,No,Outdoor,Overloaded
+Tuesday,13,0,Normal,34.6,74.9,Partly Cloudy,0,0,0,Summer,1,24,Medium,4.5,Chinese,Low,Available,187.5,Park,164,46,High,23.5,41.4,No,Outdoor,Moderate
+Sunday,14,1,Normal,20.8,71.3,Sunny,0,0,0,Winter,0,35,Medium,4.5,Bakery,Low,Available,186.3,None,69,58,Low,23.8,54.5,No,Outdoor,Moderate
+Wednesday,19,0,Normal,26.6,47.1,Cloudy,0,0,0,Monsoon,0,31,Medium,4.2,Cafe,Low,Limited,96.4,School,189,54,High,25.3,51.3,Yes,Booth,Comfortable
+Monday,16,0,Hot,32.6,53.2,Cloudy,0,0,0,Winter,0,27,Medium,4.9,FastFood,Medium,Available,198.3,School,125,55,High,22.1,61.8,Yes,Window,Moderate
+Sunday,13,1,Rainy,25.1,39.8,Sunny,1,0,0,Winter,1,46,High,4.0,SouthIndian,Low,Full,120.9,Park,128,50,Low,27.2,34.5,Yes,Indoor,Overloaded
+Tuesday,13,0,Hot,31.5,64.3,Overcast,0,1,0,Summer,1,35,Medium,3.7,Cafe,Low,Available,62.6,Cinema,117,54,Medium,25.0,59.3,Yes,Window,Moderate
+Sunday,19,1,Cloudy,34.3,87.9,Cloudy,0,0,0,Summer,0,42,High,4.8,Bakery,Low,Available,117.8,None,62,27,Medium,25.6,67.5,No,Indoor,Overloaded
+Monday,15,0,Normal,26.0,81.4,Partly Cloudy,1,1,0,Summer,0,35,Medium,4.2,Italian,Low,Limited,47.8,Office,93,46,Medium,23.0,66.7,No,Outdoor,Noisy
+Thursday,12,0,Hot,31.6,68.8,Cloudy,0,0,0,Winter,0,23,Medium,3.5,FastFood,Medium,Available,19.7,Mall,198,10,High,23.4,52.7,No,Window,Moderate
+Wednesday,12,0,Normal,20.4,70.7,Sunny,0,0,1,Summer,0,33,Medium,3.7,Chinese,Low,Available,91.3,None,132,30,High,23.1,64.5,No,Booth,Moderate
+Thursday,12,0,Rainy,24.1,46.1,Cloudy,0,1,0,Monsoon,0,36,Medium,4.3,Italian,High,Available,196.5,Mall,62,25,Low,29.1,64.6,Yes,Window,Noisy
+Saturday,11,1,Rainy,34.9,54.6,Overcast,0,0,0,Winter,1,36,Medium,4.8,SouthIndian,Low,Available,123.1,None,86,52,Low,22.9,33.6,Yes,Booth,Moderate
+Sunday,9,1,Normal,27.4,31.2,Sunny,0,0,0,Winter,0,25,Medium,3.8,FastFood,Medium,Available,100.5,Cinema,151,55,Medium,24.4,64.5,Yes,Window,Moderate
+Wednesday,19,0,Normal,25.3,76.8,Sunny,0,0,0,Summer,0,41,High,4.9,Chinese,High,Limited,83.5,Mall,125,14,Medium,23.2,47.9,Yes,Indoor,Overloaded
+Tuesday,11,0,Normal,34.1,76.1,Partly Cloudy,0,0,0,Winter,1,24,Medium,4.3,Chinese,Medium,Available,32.7,None,180,30,Medium,23.7,63.0,Yes,Window,Noisy
+Wednesday,13,0,Normal,26.5,30.5,Cloudy,0,0,0,Monsoon,0,26,Medium,4.3,Cafe,Low,Available,44.4,School,61,60,High,25.3,46.3,Yes,Window,Moderate
+Wednesday,9,0,Normal,30.2,84.7,Sunny,1,0,0,Summer,1,25,Medium,3.8,Bakery,Medium,Available,78.7,Office,74,21,Medium,23.1,54.4,Yes,Outdoor,Noisy
+Tuesday,19,0,Rainy,29.9,68.8,Overcast,0,1,1,Monsoon,1,56,High,3.7,Bakery,Low,Available,162.2,Office,160,12,High,28.6,69.1,No,Outdoor,Overloaded
+Saturday,16,1,Normal,21.3,66.1,Overcast,0,0,0,Summer,1,41,High,4.5,Italian,Medium,Limited,20.4,Office,120,26,Low,24.7,41.1,Yes,Window,Noisy
+Wednesday,20,0,Rainy,29.3,30.5,Overcast,0,0,0,Summer,0,40,High,4.3,Bakery,Low,Limited,171.0,Office,122,49,Low,27.2,57.6,Yes,Booth,Overloaded
+Saturday,19,1,Cloudy,32.0,45.1,Partly Cloudy,0,0,0,Winter,0,36,Medium,4.2,Cafe,Low,Limited,62.7,None,63,48,Low,27.6,33.9,No,Booth,Moderate
+Saturday,10,1,Normal,30.7,78.3,Overcast,0,0,0,Winter,0,28,Medium,4.8,Bakery,Low,Full,114.2,Mall,110,42,Low,24.1,36.4,No,Outdoor,Overloaded
+Saturday,11,1,Hot,21.2,48.3,Partly Cloudy,1,0,0,Summer,0,33,Medium,3.7,SouthIndian,Medium,Available,61.0,None,165,12,High,23.2,57.9,Yes,Booth,Moderate
+Monday,11,0,Hot,22.3,88.0,Overcast,0,0,0,Monsoon,0,27,Medium,4.7,Italian,Low,Limited,158.9,Office,102,47,Low,27.4,34.4,Yes,Outdoor,Noisy
+Friday,19,0,Hot,30.7,68.6,Cloudy,1,0,0,Monsoon,0,45,High,4.5,Chinese,Medium,Available,185.9,Office,114,29,Medium,28.8,52.0,Yes,Indoor,Noisy
+Saturday,15,1,Normal,29.5,55.4,Overcast,0,0,0,Summer,0,34,Medium,4.9,Cafe,Low,Limited,140.5,Office,76,51,Medium,27.1,32.3,Yes,Window,Moderate
+Tuesday,12,0,Normal,31.1,52.6,Overcast,0,0,1,Monsoon,1,30,Medium,3.6,Italian,Low,Available,48.9,Office,151,48,Low,29.6,65.0,Yes,Booth,Moderate
+Friday,19,0,Normal,24.8,50.9,Partly Cloudy,1,0,0,Monsoon,1,41,High,4.8,SouthIndian,Medium,Available,179.3,Office,170,41,Low,26.3,46.9,Yes,Booth,Noisy
+Saturday,17,1,Rainy,21.6,45.1,Cloudy,0,0,0,Winter,0,41,High,4.2,Cafe,High,Available,117.6,School,186,35,Medium,25.9,30.8,Yes,Outdoor,Overloaded
+Tuesday,20,0,Hot,20.1,58.0,Cloudy,0,0,0,Summer,1,41,High,4.9,Cafe,Low,Limited,11.9,Park,77,60,Medium,29.9,57.5,No,Outdoor,Noisy
+Tuesday,16,0,Rainy,24.6,70.6,Partly Cloudy,0,1,0,Winter,0,38,Medium,4.4,Cafe,Low,Available,74.1,Mall,86,48,Medium,29.6,36.7,Yes,Window,Moderate
+Thursday,17,0,Normal,25.4,79.5,Cloudy,0,0,0,Monsoon,0,29,Medium,3.8,FastFood,Low,Limited,128.6,None,168,43,High,26.9,30.1,No,Window,Noisy
+Thursday,12,0,Hot,24.0,53.8,Overcast,0,0,0,Winter,1,29,Medium,4.6,Chinese,Low,Limited,62.7,Park,177,41,High,27.9,30.2,No,Outdoor,Moderate
+Wednesday,9,0,Normal,22.0,36.1,Overcast,1,0,0,Monsoon,0,21,Medium,4.3,Cafe,Medium,Limited,91.7,Office,181,50,Medium,29.4,67.4,No,Window,Moderate
+Saturday,21,1,Hot,22.8,60.7,Cloudy,1,1,0,Monsoon,1,59,High,4.5,FastFood,Low,Available,53.8,Cinema,93,24,Medium,23.2,59.9,Yes,Window,Noisy
+Saturday,11,1,Hot,26.7,69.7,Overcast,1,0,0,Monsoon,0,37,Medium,3.9,Bakery,High,Available,127.5,Office,97,51,Low,23.9,51.6,Yes,Indoor,Noisy
+Friday,12,0,Normal,28.3,80.6,Cloudy,0,0,0,Monsoon,1,22,Medium,4.5,Italian,Low,Available,118.4,Mall,69,14,Medium,24.5,37.7,Yes,Booth,Noisy
+Tuesday,11,0,Cloudy,26.1,52.5,Partly Cloudy,0,1,0,Monsoon,1,32,Medium,4.4,Chinese,Medium,Available,60.7,Mall,53,22,Low,28.6,45.8,Yes,Outdoor,Moderate
+Saturday,13,1,Rainy,20.4,68.8,Partly Cloudy,0,0,0,Winter,0,41,High,4.4,Cafe,Medium,Available,115.0,None,91,39,High,22.7,64.9,Yes,Outdoor,Noisy
+Wednesday,10,0,Rainy,25.3,66.5,Partly Cloudy,0,0,0,Monsoon,1,29,Medium,4.4,FastFood,High,Available,169.7,None,73,47,Low,26.8,30.2,Yes,Outdoor,Noisy
+Sunday,12,1,Rainy,21.4,47.9,Sunny,0,0,0,Winter,0,36,Medium,4.7,Cafe,Low,Available,38.8,Office,175,38,Medium,27.5,55.3,No,Outdoor,Moderate
+Sunday,8,1,Cloudy,29.0,36.5,Overcast,0,0,0,Monsoon,0,30,Medium,3.6,FastFood,Low,Available,115.2,School,200,53,Medium,24.1,43.1,Yes,Window,Moderate
+Sunday,19,1,Rainy,24.9,33.8,Partly Cloudy,0,0,0,Summer,1,46,High,3.5,Chinese,Medium,Limited,70.2,None,187,17,High,23.6,37.2,No,Indoor,Overloaded
+Monday,16,0,Normal,25.8,89.3,Cloudy,0,0,0,Summer,0,35,Medium,4.6,Bakery,Low,Available,51.8,School,96,36,Medium,24.7,39.8,Yes,Indoor,Noisy
+Tuesday,10,0,Normal,24.4,68.4,Cloudy,0,0,0,Monsoon,0,21,Medium,3.8,SouthIndian,Low,Limited,163.1,None,76,34,Medium,23.9,51.2,Yes,Outdoor,Moderate
+Sunday,12,1,Normal,25.8,81.7,Partly Cloudy,0,1,0,Monsoon,1,35,Medium,4.5,Cafe,Medium,Available,166.8,Park,99,48,Medium,23.1,39.4,Yes,Window,Noisy
+Monday,8,0,Normal,21.3,45.7,Partly Cloudy,0,0,0,Monsoon,0,19,Low,4.2,Chinese,Low,Limited,48.6,Office,116,45,Low,29.7,58.4,No,Booth,Calm
+Sunday,8,1,Normal,33.5,72.7,Partly Cloudy,1,0,0,Summer,0,30,Medium,4.5,FastFood,Low,Available,127.1,None,182,57,Low,29.9,67.4,Yes,Outdoor,Moderate
+Wednesday,16,0,Normal,33.6,83.5,Cloudy,0,0,0,Winter,0,33,Medium,4.0,Bakery,High,Available,191.3,Mall,157,28,Low,29.6,52.1,Yes,Window,Overloaded
+Thursday,12,0,Rainy,34.7,47.9,Sunny,1,0,1,Winter,0,42,High,3.8,Chinese,Low,Available,27.3,Office,93,16,High,29.8,36.5,Yes,Booth,Noisy
+Wednesday,19,0,Normal,28.6,39.0,Partly Cloudy,0,0,0,Summer,0,33,Medium,4.7,Chinese,Low,Limited,150.7,Park,196,36,Medium,23.5,46.7,No,Outdoor,Moderate
+Monday,10,0,Normal,22.5,75.9,Cloudy,1,0,0,Winter,0,25,Medium,4.9,FastFood,Medium,Available,195.9,Park,189,34,Medium,24.9,62.4,Yes,Booth,Noisy
+Tuesday,18,0,Normal,25.7,84.0,Cloudy,0,0,0,Monsoon,1,39,Medium,4.7,Chinese,Low,Available,61.2,Mall,137,16,Medium,22.5,36.8,No,Outdoor,Noisy
+Friday,21,0,Hot,22.1,78.3,Partly Cloudy,0,0,0,Monsoon,0,44,High,3.7,Chinese,Medium,Available,102.4,Office,175,19,Low,26.3,61.1,No,Window,Overloaded
+Saturday,20,1,Normal,24.5,78.1,Overcast,0,0,1,Monsoon,0,48,High,4.8,FastFood,Low,Limited,28.2,School,162,23,High,23.8,60.7,Yes,Outdoor,Overloaded
+Wednesday,15,0,Cloudy,27.4,66.0,Cloudy,1,1,0,Winter,0,37,Medium,4.6,Bakery,Low,Available,170.6,Mall,109,41,Low,24.1,32.5,No,Indoor,Moderate
+Tuesday,9,0,Cloudy,20.9,69.6,Overcast,0,0,0,Winter,1,17,Low,4.1,Cafe,Low,Full,52.0,Cinema,159,28,High,23.6,48.0,Yes,Indoor,Moderate
+Saturday,21,1,Rainy,26.5,70.8,Overcast,0,0,0,Winter,0,51,High,5.0,SouthIndian,Low,Available,97.3,Office,109,13,Low,28.5,51.4,No,Outdoor,Overloaded
+Thursday,8,0,Rainy,26.3,73.3,Sunny,0,0,0,Monsoon,1,29,Medium,4.9,Chinese,Low,Full,41.5,None,188,41,Medium,28.5,47.3,No,Outdoor,Noisy
+Thursday,17,0,Normal,27.3,69.3,Cloudy,0,0,0,Winter,1,35,Medium,3.6,Bakery,Low,Limited,43.0,Park,112,40,Low,23.9,62.9,Yes,Outdoor,Moderate
+Saturday,12,1,Rainy,21.2,89.8,Sunny,0,0,0,Monsoon,0,31,Medium,3.9,FastFood,Low,Limited,51.9,Mall,79,46,Medium,22.6,60.3,No,Window,Noisy
+Thursday,15,0,Hot,23.8,45.6,Partly Cloudy,0,0,0,Winter,0,30,Medium,3.6,Bakery,Medium,Limited,30.4,Mall,181,27,High,28.7,67.3,No,Indoor,Moderate
+Tuesday,15,0,Cloudy,23.7,55.1,Sunny,0,1,0,Winter,0,36,Medium,4.6,FastFood,Medium,Limited,55.4,Office,95,25,Medium,28.8,64.3,No,Window,Moderate
+Wednesday,15,0,Normal,29.4,53.3,Partly Cloudy,1,0,0,Summer,0,36,Medium,4.2,Italian,Low,Limited,68.6,Office,189,24,Low,26.2,37.1,No,Outdoor,Moderate
+Tuesday,13,0,Hot,28.9,32.1,Overcast,0,1,1,Summer,0,32,Medium,4.1,Bakery,Medium,Available,120.1,Mall,131,21,Medium,25.2,52.2,Yes,Indoor,Moderate
+Tuesday,10,0,Rainy,22.9,72.5,Cloudy,1,0,0,Summer,0,31,Medium,4.4,SouthIndian,Low,Available,123.9,Office,154,58,High,25.0,65.6,Yes,Indoor,Moderate
+Saturday,8,1,Normal,21.6,64.3,Sunny,1,0,0,Summer,0,31,Medium,3.5,FastFood,Low,Limited,83.5,Park,57,30,High,27.8,65.3,Yes,Booth,Moderate
+Friday,12,0,Normal,24.6,41.4,Cloudy,0,0,0,Winter,0,22,Medium,3.8,FastFood,Medium,Available,50.5,Mall,136,37,Medium,25.0,50.1,Yes,Booth,Moderate
+Friday,21,0,Normal,34.2,73.6,Overcast,0,1,0,Summer,0,45,High,3.7,Bakery,Low,Limited,29.1,Park,108,21,High,25.7,65.7,No,Outdoor,Noisy
+Wednesday,15,0,Normal,25.0,43.3,Overcast,0,0,0,Winter,0,27,Medium,4.2,FastFood,Medium,Available,25.6,Office,196,23,Medium,27.8,56.9,Yes,Booth,Moderate
+Saturday,9,1,Normal,29.3,62.1,Overcast,0,0,0,Monsoon,0,25,Medium,3.7,FastFood,Medium,Full,145.4,None,165,57,Low,29.3,65.3,Yes,Indoor,Noisy
+Friday,21,0,Cloudy,32.1,77.1,Overcast,0,0,0,Summer,0,42,High,4.5,Bakery,Low,Available,94.1,Office,55,54,High,26.5,38.2,No,Outdoor,Overloaded
+Thursday,9,0,Normal,24.9,84.4,Overcast,0,0,0,Monsoon,0,22,Medium,4.3,Bakery,High,Available,150.4,School,176,42,High,24.1,62.6,Yes,Booth,Overloaded
+Friday,14,0,Hot,25.0,70.3,Overcast,0,0,0,Winter,1,24,Medium,3.8,Chinese,High,Available,83.1,None,200,52,Low,24.6,46.3,Yes,Booth,Noisy
+Thursday,15,0,Rainy,32.2,60.4,Sunny,0,0,0,Winter,1,37,Medium,4.2,SouthIndian,Low,Limited,126.9,Cinema,189,47,Medium,25.6,59.9,Yes,Indoor,Moderate
+Wednesday,9,0,Normal,32.9,80.7,Cloudy,0,0,0,Winter,0,16,Low,4.5,Bakery,High,Available,82.2,None,159,48,High,26.7,50.2,No,Window,Noisy
+Tuesday,17,0,Normal,34.6,80.4,Sunny,0,0,0,Summer,0,32,Medium,3.8,Cafe,Low,Full,112.8,Cinema,153,28,Low,29.2,55.4,Yes,Window,Overloaded
+Tuesday,18,0,Normal,22.0,82.6,Overcast,0,0,0,Winter,0,37,Medium,4.6,SouthIndian,Low,Available,61.6,None,80,47,Medium,28.4,65.3,Yes,Indoor,Noisy
+Friday,18,0,Normal,24.8,40.9,Partly Cloudy,1,0,0,Monsoon,0,45,High,4.2,Bakery,Low,Limited,177.5,Cinema,166,46,Medium,24.1,68.5,Yes,Window,Noisy
+Thursday,8,0,Rainy,34.2,35.9,Partly Cloudy,1,0,0,Winter,0,27,Medium,4.3,Italian,Low,Available,103.4,Cinema,172,17,High,28.2,66.5,No,Booth,Moderate
+Monday,10,0,Normal,23.0,37.7,Overcast,0,0,0,Winter,0,24,Medium,4.7,Bakery,Medium,Limited,160.0,Cinema,65,49,Low,29.2,60.0,Yes,Outdoor,Moderate
+Sunday,10,1,Normal,24.7,45.5,Overcast,1,0,0,Summer,0,34,Medium,3.6,Bakery,Medium,Available,109.5,School,153,38,Medium,27.1,60.7,No,Outdoor,Moderate
+Monday,20,0,Normal,34.5,78.5,Overcast,0,0,0,Winter,1,33,Medium,3.5,Chinese,Low,Available,71.2,Park,177,10,High,29.6,37.1,No,Indoor,Noisy
+Sunday,17,1,Normal,34.5,75.8,Cloudy,0,0,0,Monsoon,1,35,Medium,4.9,Italian,Medium,Available,104.8,Office,110,14,Low,24.9,48.2,No,Booth,Noisy
+Monday,12,0,Normal,24.4,41.0,Cloudy,0,0,0,Monsoon,0,24,Medium,3.6,SouthIndian,Low,Full,127.0,Cinema,153,55,Medium,23.9,39.9,Yes,Window,Comfortable
+Tuesday,9,0,Rainy,30.4,70.8,Sunny,0,0,0,Summer,1,26,Medium,3.5,Chinese,Low,Available,169.3,Cinema,182,26,High,25.0,52.1,No,Indoor,Moderate
+Saturday,11,1,Hot,27.4,50.1,Cloudy,0,0,0,Summer,0,25,Medium,3.7,Chinese,Low,Available,125.2,None,87,20,High,25.8,68.6,Yes,Indoor,Moderate
+Tuesday,9,0,Rainy,28.6,35.4,Overcast,0,0,0,Monsoon,0,26,Medium,3.5,FastFood,Low,Available,80.9,Cinema,53,37,High,28.9,34.3,Yes,Outdoor,Comfortable
+Sunday,16,1,Normal,23.6,51.3,Cloudy,0,0,1,Winter,0,45,High,4.7,Cafe,Low,Limited,143.7,Office,143,52,High,25.1,68.9,Yes,Indoor,Noisy
+Saturday,20,1,Normal,25.6,74.7,Partly Cloudy,1,1,0,Monsoon,1,53,High,4.4,Italian,Low,Available,124.2,Park,50,18,High,29.4,37.6,No,Indoor,Noisy
+Thursday,14,0,Rainy,32.2,48.4,Partly Cloudy,0,0,0,Summer,0,29,Medium,4.8,SouthIndian,Medium,Available,142.8,Park,146,11,Medium,26.8,56.6,Yes,Indoor,Moderate
+Friday,17,0,Normal,25.9,77.3,Overcast,0,0,0,Summer,0,29,Medium,4.0,FastFood,High,Available,81.8,Office,188,23,Low,26.0,61.6,Yes,Outdoor,Overloaded
+Monday,17,0,Hot,21.7,49.9,Cloudy,0,0,0,Monsoon,0,33,Medium,4.5,Italian,Medium,Full,159.7,Cinema,86,39,Medium,29.7,38.0,No,Outdoor,Noisy
+Thursday,20,0,Rainy,28.5,45.6,Cloudy,0,0,0,Summer,1,41,High,4.9,Italian,Low,Limited,49.4,Park,71,13,High,22.5,39.0,Yes,Window,Overloaded
+Thursday,17,0,Cloudy,28.9,47.6,Sunny,0,0,1,Monsoon,1,43,High,4.6,FastFood,Low,Full,69.7,School,93,42,Medium,23.7,54.4,No,Outdoor,Overloaded
+Friday,11,0,Cloudy,28.2,81.1,Sunny,0,0,0,Monsoon,0,19,Low,4.3,Chinese,Low,Full,87.0,School,96,39,Low,24.2,34.0,Yes,Outdoor,Noisy
+Thursday,20,0,Normal,30.2,58.2,Partly Cloudy,0,0,1,Monsoon,1,39,Medium,3.8,SouthIndian,Medium,Limited,57.3,School,107,44,High,22.6,51.6,No,Outdoor,Moderate
+Friday,16,0,Rainy,28.3,82.0,Overcast,0,0,0,Winter,1,39,Medium,3.8,Bakery,Medium,Available,65.2,Cinema,139,20,Low,24.7,50.3,No,Outdoor,Noisy
+Wednesday,14,0,Normal,34.3,65.0,Partly Cloudy,0,0,1,Winter,1,32,Medium,4.7,Chinese,Medium,Available,53.9,Office,133,16,High,25.0,68.8,No,Window,Moderate
+Friday,15,0,Normal,26.9,86.7,Overcast,0,0,0,Winter,0,35,Medium,4.3,Chinese,Low,Limited,124.1,None,90,15,Medium,26.3,44.0,Yes,Booth,Noisy
+Sunday,22,1,Overcast,30.6,34.3,Overcast,0,0,1,Monsoon,0,61,Very High,4.0,Bakery,Medium,Available,99.2,Mall,72,36,High,29.3,37.5,No,Indoor,Overloaded
+Monday,15,0,Rainy,26.6,83.4,Overcast,0,0,0,Summer,0,31,Medium,4.8,FastFood,Medium,Available,14.6,Office,150,13,High,26.6,59.5,No,Indoor,Noisy
+Saturday,12,1,Normal,24.4,60.0,Overcast,0,0,0,Monsoon,0,32,Medium,4.8,Bakery,Medium,Available,187.7,Park,143,20,High,29.4,59.1,No,Outdoor,Moderate
+Saturday,21,1,Rainy,30.4,82.0,Cloudy,0,0,0,Summer,1,51,High,4.7,Chinese,Medium,Available,56.4,School,53,52,High,29.5,32.5,No,Booth,Overloaded
+Monday,17,0,Cloudy,32.3,52.9,Overcast,0,0,0,Winter,0,29,Medium,4.2,Italian,High,Available,142.5,Park,135,52,High,29.3,49.1,No,Indoor,Noisy
+Saturday,14,1,Normal,31.9,47.9,Cloudy,1,0,0,Monsoon,0,39,Medium,4.4,Italian,Medium,Limited,95.9,Cinema,188,52,Low,24.5,58.3,No,Indoor,Moderate
+Friday,12,0,Normal,26.1,33.2,Overcast,0,0,0,Monsoon,0,27,Medium,4.8,Chinese,Medium,Limited,162.0,Park,164,11,Medium,22.7,60.6,No,Booth,Moderate
+Sunday,17,1,Hot,27.5,81.3,Cloudy,0,0,0,Winter,0,33,Medium,4.4,Bakery,Medium,Full,83.9,Mall,76,50,High,24.7,67.6,No,Indoor,Overloaded
+Wednesday,17,0,Hot,29.5,38.2,Cloudy,0,0,0,Monsoon,0,33,Medium,3.7,Cafe,Medium,Available,75.6,Cinema,117,52,High,28.1,30.8,No,Outdoor,Moderate
+Sunday,8,1,Rainy,23.6,42.0,Partly Cloudy,0,0,0,Monsoon,1,33,Medium,4.3,Italian,Low,Available,82.4,Mall,153,50,High,26.8,68.1,Yes,Booth,Moderate
+Saturday,17,1,Hot,29.9,54.6,Partly Cloudy,0,0,0,Monsoon,0,40,High,3.7,FastFood,High,Limited,103.3,None,195,26,High,24.6,49.3,Yes,Booth,Overloaded
+Wednesday,19,0,Hot,30.7,64.2,Sunny,1,0,0,Winter,1,45,High,4.2,Bakery,Medium,Full,147.6,Office,88,16,Medium,29.5,45.4,Yes,Indoor,Overloaded
+Monday,9,0,Rainy,31.8,84.4,Partly Cloudy,0,0,0,Summer,0,21,Medium,3.6,FastFood,High,Full,182.7,Mall,68,44,High,26.6,56.0,Yes,Window,Overloaded
+Wednesday,20,0,Rainy,21.1,57.5,Partly Cloudy,0,0,0,Summer,0,43,High,4.3,SouthIndian,Medium,Available,27.0,Office,183,15,Low,25.2,46.9,Yes,Booth,Overloaded
+Thursday,11,0,Rainy,34.9,49.0,Overcast,0,0,0,Monsoon,0,26,Medium,3.5,Bakery,Medium,Limited,58.4,None,94,25,Medium,28.8,55.2,No,Window,Moderate
+Tuesday,18,0,Normal,27.2,72.9,Sunny,0,1,0,Summer,0,37,Medium,4.7,Cafe,Low,Full,53.4,None,68,33,Low,23.5,44.8,Yes,Booth,Noisy
+Thursday,11,0,Normal,26.0,76.7,Partly Cloudy,0,0,0,Summer,1,23,Medium,3.9,Cafe,Low,Limited,79.7,Cinema,196,53,Medium,28.8,53.3,Yes,Indoor,Noisy
+Monday,12,0,Normal,27.6,59.3,Partly Cloudy,0,0,1,Summer,0,30,Medium,4.7,Italian,Low,Available,199.4,Mall,85,54,High,23.9,30.3,Yes,Booth,Moderate
+Saturday,18,1,Normal,33.8,67.9,Cloudy,0,1,0,Summer,0,41,High,4.1,Chinese,High,Available,100.9,Cinema,133,58,Medium,25.6,66.0,Yes,Indoor,Overloaded
+Saturday,9,1,Normal,30.4,40.6,Sunny,1,0,0,Monsoon,1,29,Medium,4.0,Chinese,Medium,Available,42.0,Park,195,49,Low,29.8,51.5,Yes,Booth,Moderate
+Wednesday,10,0,Cloudy,28.2,68.1,Sunny,1,0,0,Winter,0,26,Medium,4.8,FastFood,Medium,Available,172.2,Park,151,46,Medium,23.1,34.0,Yes,Booth,Moderate
+Friday,11,0,Normal,31.9,30.3,Sunny,0,1,0,Winter,1,33,Medium,3.7,SouthIndian,Low,Available,132.6,None,166,42,Medium,24.9,56.2,No,Outdoor,Moderate
+Sunday,10,1,Normal,25.4,46.4,Cloudy,0,0,0,Winter,0,28,Medium,3.9,FastFood,Medium,Full,123.8,Cinema,60,48,Low,27.7,40.7,No,Booth,Noisy
+Tuesday,16,0,Normal,33.4,75.7,Sunny,0,0,0,Monsoon,0,31,Medium,4.3,SouthIndian,Low,Limited,163.9,None,192,42,High,29.9,60.8,Yes,Window,Noisy
+Friday,9,0,Normal,28.1,40.1,Sunny,1,0,0,Monsoon,0,28,Medium,3.9,Italian,Medium,Limited,170.7,None,186,59,Medium,24.1,54.8,Yes,Outdoor,Moderate
+Monday,10,0,Hot,29.6,75.9,Cloudy,0,0,0,Summer,0,27,Medium,4.3,Bakery,Medium,Full,196.0,Office,118,47,Medium,25.1,48.7,No,Window,Overloaded
+Sunday,8,1,Normal,21.3,59.4,Sunny,0,0,0,Winter,0,24,Medium,4.4,Bakery,Medium,Available,79.3,Mall,110,38,Low,29.5,47.8,Yes,Indoor,Moderate
+Saturday,14,1,Hot,31.5,75.8,Sunny,0,0,0,Monsoon,1,29,Medium,4.0,Italian,Low,Limited,154.5,Cinema,160,19,High,24.3,46.4,Yes,Indoor,Noisy
+Wednesday,15,0,Hot,29.9,35.3,Overcast,1,0,0,Summer,0,36,Medium,4.4,SouthIndian,Low,Full,27.1,Office,188,17,High,30.0,48.4,No,Window,Noisy
+Sunday,19,1,Cloudy,25.3,66.9,Partly Cloudy,0,0,0,Winter,0,40,High,4.3,Chinese,Medium,Available,184.0,Cinema,123,15,Low,29.6,50.1,Yes,Outdoor,Noisy
+Saturday,17,1,Normal,29.7,68.0,Sunny,0,0,0,Monsoon,0,38,Medium,4.8,Italian,Low,Limited,27.6,Office,189,38,Low,27.2,34.4,No,Booth,Moderate
+Friday,15,0,Normal,20.7,54.2,Cloudy,0,0,0,Summer,0,28,Medium,4.4,Cafe,Medium,Limited,142.1,Office,54,11,Low,26.7,68.8,No,Outdoor,Moderate
+Friday,12,0,Hot,34.8,87.9,Overcast,0,0,0,Winter,1,22,Medium,4.9,Bakery,Low,Available,19.5,Office,90,56,Low,24.0,46.8,No,Outdoor,Noisy
+Tuesday,8,0,Normal,30.2,53.0,Partly Cloudy,0,0,0,Winter,0,25,Medium,5.0,Chinese,Low,Limited,25.1,Mall,82,44,Low,29.2,64.1,Yes,Window,Moderate
+Tuesday,11,0,Normal,26.0,32.3,Partly Cloudy,0,0,0,Monsoon,0,24,Medium,4.5,Cafe,Low,Available,187.1,Cinema,59,42,Medium,29.5,55.7,No,Booth,Moderate
+Wednesday,12,0,Normal,31.3,42.0,Overcast,0,0,0,Summer,0,28,Medium,3.5,Chinese,Low,Available,96.1,Cinema,134,50,High,28.5,51.6,Yes,Indoor,Moderate
+Sunday,19,1,Hot,34.5,52.4,Cloudy,0,0,0,Winter,1,45,High,4.1,Bakery,Low,Limited,65.7,Cinema,58,47,Medium,24.4,42.0,No,Booth,Noisy
+Tuesday,12,0,Hot,26.5,30.8,Partly Cloudy,0,0,1,Monsoon,1,26,Medium,3.8,Cafe,Medium,Available,173.1,Mall,108,28,Medium,24.5,56.4,Yes,Booth,Moderate
+Friday,19,0,Hot,20.2,49.3,Partly Cloudy,0,0,0,Summer,0,36,Medium,4.8,FastFood,Low,Available,62.9,Office,188,52,High,24.5,37.1,No,Outdoor,Moderate
+Sunday,21,1,Normal,23.9,80.0,Partly Cloudy,0,0,0,Winter,0,46,High,3.6,SouthIndian,Low,Available,184.0,Cinema,160,42,High,27.7,57.0,No,Outdoor,Overloaded
+Friday,15,0,Normal,27.7,41.4,Sunny,0,0,0,Monsoon,0,26,Medium,3.8,SouthIndian,Medium,Full,53.5,Cinema,114,11,High,22.4,69.6,Yes,Indoor,Noisy
+Monday,9,0,Normal,27.8,70.6,Sunny,1,0,0,Winter,0,30,Medium,4.7,Bakery,Medium,Available,69.2,Mall,179,14,High,26.5,62.9,Yes,Outdoor,Moderate
+Friday,18,0,Rainy,28.7,67.6,Overcast,0,0,0,Summer,0,36,Medium,4.0,Bakery,Medium,Full,108.9,School,124,44,Low,23.8,36.0,No,Outdoor,Overloaded
+Wednesday,11,0,Normal,28.6,44.9,Overcast,0,0,0,Monsoon,0,29,Medium,4.6,Chinese,Low,Available,54.0,Cinema,83,35,Medium,28.2,45.6,No,Booth,Comfortable
+Thursday,22,0,Normal,26.7,71.6,Cloudy,0,0,0,Monsoon,0,44,High,4.9,Cafe,High,Available,27.5,Cinema,126,26,Low,23.8,44.7,Yes,Indoor,Overloaded
+Monday,12,0,Normal,25.9,50.7,Cloudy,1,0,0,Winter,0,36,Medium,3.6,FastFood,High,Available,19.9,Mall,136,29,Medium,29.7,68.1,Yes,Indoor,Noisy
+Monday,20,0,Hot,31.6,37.7,Overcast,0,0,0,Summer,1,42,High,4.2,Bakery,Low,Available,134.4,School,181,44,Low,27.4,46.0,No,Window,Noisy
+Wednesday,20,0,Normal,28.8,53.0,Cloudy,0,0,0,Monsoon,0,41,High,4.7,Bakery,Medium,Available,159.0,School,191,18,High,22.1,45.4,Yes,Window,Noisy
+Sunday,18,1,Rainy,27.5,65.3,Partly Cloudy,0,0,0,Summer,0,46,High,4.3,FastFood,Low,Available,191.2,School,66,20,Low,26.3,36.8,Yes,Indoor,Overloaded
+Sunday,17,1,Normal,25.2,40.0,Partly Cloudy,0,0,0,Summer,0,39,Medium,4.4,SouthIndian,Low,Limited,188.9,Cinema,71,58,High,27.5,64.8,Yes,Booth,Moderate
+Wednesday,18,0,Hot,20.4,79.4,Cloudy,0,0,1,Winter,0,39,Medium,4.8,Italian,Low,Limited,43.4,Office,122,17,Medium,23.0,53.0,Yes,Window,Noisy
+Tuesday,20,0,Normal,21.6,47.9,Cloudy,0,0,0,Summer,0,39,Medium,4.7,FastFood,Medium,Available,114.1,Office,138,38,Low,29.5,33.8,No,Outdoor,Moderate
+Monday,22,0,Hot,26.2,47.4,Overcast,0,0,0,Winter,0,45,High,4.0,Cafe,Medium,Available,189.0,Mall,165,32,Low,28.6,42.9,Yes,Outdoor,Noisy
+Tuesday,11,0,Normal,34.4,73.7,Overcast,1,0,0,Summer,0,27,Medium,3.6,SouthIndian,Medium,Available,180.0,Park,189,43,Medium,29.4,38.2,Yes,Indoor,Moderate
+Friday,14,0,Cloudy,21.7,65.8,Cloudy,1,0,0,Winter,1,35,Medium,4.1,Italian,Medium,Available,54.9,Park,179,42,Medium,23.1,54.7,No,Booth,Moderate
+Monday,9,0,Overcast,34.1,50.3,Partly Cloudy,0,0,0,Winter,1,26,Medium,4.6,SouthIndian,High,Full,163.5,Office,167,57,Medium,23.0,53.7,Yes,Window,Overloaded
+Monday,16,0,Normal,22.1,83.3,Sunny,0,0,0,Monsoon,0,33,Medium,4.9,Italian,Low,Limited,47.1,Office,59,24,High,24.9,65.6,Yes,Window,Noisy
+Saturday,11,1,Normal,24.7,89.7,Cloudy,0,0,0,Winter,0,25,Medium,4.8,Italian,Low,Limited,145.4,Office,162,46,Medium,26.4,36.5,No,Window,Noisy
+Thursday,18,0,Normal,26.8,50.6,Overcast,0,0,0,Monsoon,0,38,Medium,4.2,Chinese,Low,Available,22.8,None,73,38,Low,22.7,43.0,No,Indoor,Moderate
+Sunday,10,1,Rainy,23.1,84.1,Overcast,1,0,0,Winter,0,36,Medium,3.7,SouthIndian,Low,Available,29.3,None,141,42,Medium,29.5,54.1,Yes,Outdoor,Noisy
+Monday,22,0,Overcast,27.2,51.6,Cloudy,0,1,0,Summer,1,49,High,4.6,Chinese,Low,Full,165.3,Mall,95,33,Medium,24.2,56.8,No,Booth,Overloaded
+Sunday,12,1,Hot,27.1,41.3,Overcast,0,1,0,Monsoon,0,36,Medium,3.7,SouthIndian,Low,Available,44.0,Cinema,110,38,Medium,23.3,55.1,No,Outdoor,Moderate
+Friday,21,0,Hot,26.6,86.9,Partly Cloudy,0,0,0,Summer,0,43,High,4.2,SouthIndian,Low,Available,33.6,Office,189,10,Medium,24.9,30.4,Yes,Booth,Overloaded
+Sunday,10,1,Normal,30.5,85.1,Overcast,1,0,0,Summer,0,35,Medium,3.8,FastFood,High,Limited,97.9,Cinema,152,44,High,29.8,47.8,Yes,Booth,Overloaded
+Tuesday,9,0,Normal,24.8,54.2,Sunny,0,1,0,Summer,1,25,Medium,4.0,Bakery,Low,Limited,154.6,Park,164,21,Low,24.2,41.9,Yes,Booth,Moderate
+Tuesday,8,0,Rainy,24.5,43.7,Sunny,0,0,0,Summer,0,30,Medium,4.2,Chinese,Low,Available,147.4,Mall,149,13,High,29.2,35.5,No,Window,Moderate
+Saturday,10,1,Cloudy,32.2,73.6,Partly Cloudy,0,0,0,Monsoon,0,33,Medium,4.7,Bakery,Low,Limited,39.0,Park,172,11,High,25.5,64.5,Yes,Booth,Moderate
+Thursday,20,0,Rainy,21.7,37.9,Overcast,0,1,0,Summer,0,51,High,4.8,Italian,High,Limited,187.1,None,100,26,Low,29.2,30.9,Yes,Booth,Overloaded
+Friday,12,0,Normal,32.7,74.0,Overcast,0,1,0,Winter,0,33,Medium,3.8,Bakery,Low,Limited,56.7,None,188,44,Medium,28.4,40.7,Yes,Indoor,Moderate
+Tuesday,17,0,Hot,29.7,65.4,Cloudy,0,0,0,Winter,0,34,Medium,4.9,SouthIndian,Medium,Available,11.7,Cinema,97,12,Medium,24.1,49.0,No,Booth,Moderate
+Wednesday,19,0,Cloudy,30.2,40.1,Sunny,1,0,1,Summer,0,49,High,3.5,Chinese,Low,Available,172.5,Mall,56,36,Medium,28.8,60.6,No,Outdoor,Noisy
+Friday,21,0,Normal,22.5,52.0,Cloudy,0,0,0,Summer,0,34,Medium,4.7,SouthIndian,Low,Full,155.6,None,165,40,High,27.2,46.5,No,Window,Noisy
+Sunday,17,1,Hot,34.8,69.0,Cloudy,0,0,0,Winter,0,38,Medium,3.8,Bakery,Medium,Limited,107.5,School,120,30,Low,27.4,53.6,Yes,Window,Moderate
+Friday,22,0,Normal,23.7,32.2,Overcast,0,1,0,Winter,0,51,High,4.4,Cafe,Medium,Available,13.9,Park,147,40,Low,22.4,69.9,Yes,Outdoor,Noisy
+Thursday,12,0,Cloudy,22.6,82.6,Sunny,0,0,0,Winter,0,28,Medium,4.1,FastFood,Low,Available,105.9,Office,69,52,Low,26.0,32.5,Yes,Indoor,Noisy
+Tuesday,15,0,Normal,22.4,45.3,Cloudy,1,0,0,Summer,0,30,Medium,4.5,Italian,Low,Available,20.8,None,66,15,High,27.1,47.5,Yes,Window,Moderate
+Friday,9,0,Normal,28.4,62.1,Overcast,0,0,0,Winter,0,18,Low,3.5,Cafe,Low,Full,35.6,School,168,21,High,23.3,54.7,Yes,Booth,Moderate
+Sunday,15,1,Cloudy,34.4,32.9,Partly Cloudy,0,0,0,Monsoon,1,33,Medium,4.2,SouthIndian,Low,Full,19.2,School,176,22,High,27.2,49.4,Yes,Indoor,Noisy
+Saturday,19,1,Normal,23.5,89.7,Sunny,0,1,0,Summer,0,48,High,4.1,SouthIndian,Low,Available,39.6,Mall,186,34,High,28.5,52.5,No,Booth,Overloaded
+Saturday,12,1,Normal,26.1,69.7,Overcast,1,0,0,Winter,0,38,Medium,4.1,Bakery,Medium,Limited,35.1,Mall,176,46,Low,22.2,52.1,Yes,Window,Moderate
+Tuesday,19,0,Normal,22.8,69.2,Partly Cloudy,0,0,0,Winter,0,32,Medium,3.7,Italian,Low,Available,173.7,Mall,148,15,Medium,26.2,53.8,Yes,Window,Moderate
+Saturday,14,1,Normal,29.6,31.2,Cloudy,0,1,0,Summer,1,42,High,4.6,SouthIndian,Low,Available,168.5,Mall,188,29,Low,28.4,42.3,Yes,Indoor,Noisy
+Wednesday,12,0,Normal,26.5,71.4,Cloudy,1,1,0,Monsoon,0,35,Medium,4.3,Italian,High,Available,119.0,None,88,48,High,29.0,57.2,Yes,Booth,Noisy
+Thursday,16,0,Rainy,20.4,55.0,Cloudy,0,0,0,Winter,0,35,Medium,3.7,Cafe,Medium,Limited,63.1,None,197,35,High,28.6,40.2,Yes,Indoor,Moderate
+Saturday,16,1,Normal,29.2,52.8,Partly Cloudy,0,1,0,Winter,1,37,Medium,3.7,FastFood,Low,Limited,56.7,Mall,161,15,High,23.8,44.1,Yes,Indoor,Moderate
+Saturday,15,1,Overcast,23.0,62.8,Partly Cloudy,0,0,0,Monsoon,0,45,High,4.4,Italian,Medium,Available,43.3,None,179,58,Medium,25.6,54.7,No,Booth,Noisy
+Wednesday,15,0,Normal,28.9,58.5,Cloudy,0,0,0,Summer,1,26,Medium,4.9,FastFood,Low,Available,30.9,Mall,177,51,Low,25.6,52.8,Yes,Outdoor,Moderate
+Thursday,9,0,Normal,25.8,39.2,Cloudy,0,0,0,Summer,0,25,Medium,4.0,Bakery,Low,Available,57.2,Mall,89,52,Medium,26.6,46.2,No,Outdoor,Moderate
+Friday,17,0,Cloudy,30.6,71.7,Partly Cloudy,0,0,0,Winter,1,30,Medium,4.0,Italian,Medium,Available,131.6,School,83,15,Medium,25.2,33.0,Yes,Window,Moderate
+Thursday,8,0,Hot,23.1,67.8,Overcast,0,0,0,Summer,0,17,Low,4.9,Chinese,Medium,Limited,153.4,Office,131,20,Low,24.6,50.4,Yes,Outdoor,Calm
+Monday,22,0,Rainy,31.3,48.1,Sunny,0,0,0,Monsoon,0,41,High,3.9,Italian,Low,Limited,22.7,None,182,42,Low,23.5,62.1,Yes,Indoor,Overloaded
+Tuesday,14,0,Hot,32.1,69.7,Cloudy,0,0,1,Summer,1,38,Medium,3.6,FastFood,Low,Limited,81.7,None,197,41,Low,25.7,62.1,No,Outdoor,Moderate
+Tuesday,19,0,Normal,20.9,69.7,Partly Cloudy,0,0,0,Winter,1,36,Medium,3.5,Italian,High,Available,10.1,Cinema,100,53,High,22.9,63.9,No,Window,Noisy
+Monday,13,0,Normal,21.5,46.2,Overcast,0,0,0,Summer,0,28,Medium,4.1,FastFood,Medium,Available,97.5,Mall,176,47,Medium,29.3,34.5,Yes,Outdoor,Moderate
+Wednesday,17,0,Hot,33.1,66.3,Overcast,0,0,0,Winter,0,35,Medium,4.6,FastFood,Low,Limited,161.8,Mall,59,27,Medium,27.2,48.5,No,Booth,Moderate
+Monday,12,0,Rainy,22.8,38.2,Overcast,0,0,0,Monsoon,1,29,Medium,4.7,Chinese,Low,Limited,138.7,None,186,60,High,22.4,41.6,No,Window,Comfortable
+Friday,8,0,Normal,24.9,79.8,Cloudy,0,1,0,Monsoon,0,23,Medium,4.3,Bakery,Low,Limited,85.1,Office,131,20,High,28.1,48.3,No,Window,Noisy
+Friday,9,0,Hot,26.9,36.3,Partly Cloudy,0,0,0,Winter,1,19,Low,3.6,Cafe,Low,Available,112.9,Park,184,48,Low,27.6,67.7,No,Window,Calm
+Tuesday,11,0,Normal,23.9,73.1,Sunny,0,0,0,Summer,0,21,Medium,4.7,Cafe,Low,Limited,86.7,Mall,50,52,Medium,28.5,43.7,Yes,Indoor,Moderate
+Friday,18,0,Normal,32.9,37.1,Partly Cloudy,0,0,0,Monsoon,0,39,Medium,4.8,Bakery,Medium,Limited,109.8,Park,152,37,Low,28.5,45.9,No,Booth,Moderate
+Tuesday,21,0,Normal,27.9,36.8,Partly Cloudy,0,0,0,Summer,1,41,High,3.9,FastFood,Low,Available,192.8,Cinema,97,45,High,29.5,53.3,No,Outdoor,Noisy
+Monday,21,0,Normal,29.6,36.4,Overcast,0,0,0,Summer,1,37,Medium,3.6,Bakery,High,Limited,189.2,None,110,42,Medium,22.5,62.3,No,Outdoor,Noisy
+Monday,17,0,Hot,29.0,41.9,Sunny,0,1,0,Winter,0,43,High,3.6,SouthIndian,Low,Limited,77.2,School,144,19,High,29.4,34.3,Yes,Window,Noisy
+Saturday,17,1,Rainy,29.2,42.0,Cloudy,1,0,0,Summer,0,45,High,4.2,SouthIndian,High,Available,125.0,Mall,63,39,High,24.9,45.2,No,Window,Overloaded
+Saturday,8,1,Hot,28.8,45.8,Cloudy,0,0,0,Winter,1,23,Medium,3.9,FastFood,Medium,Available,146.5,None,118,56,Medium,27.2,61.1,Yes,Booth,Moderate
+Monday,20,0,Rainy,25.2,61.4,Overcast,1,0,0,Winter,0,52,High,4.0,SouthIndian,Low,Limited,152.4,None,57,58,Medium,27.3,51.3,Yes,Window,Overloaded
+Tuesday,18,0,Normal,32.7,42.1,Cloudy,0,1,0,Summer,0,41,High,4.4,Cafe,Medium,Available,152.8,Cinema,142,35,Low,22.4,40.6,No,Outdoor,Noisy
+Monday,21,0,Normal,29.3,72.2,Partly Cloudy,0,1,0,Summer,0,43,High,4.8,Chinese,Low,Limited,109.5,Mall,149,47,Low,22.2,42.6,No,Booth,Noisy
+Monday,12,0,Normal,32.2,47.7,Overcast,1,1,0,Monsoon,0,35,Medium,5.0,FastFood,High,Available,87.5,None,147,52,High,23.2,61.7,Yes,Window,Noisy
+Sunday,17,1,Normal,30.6,32.4,Sunny,0,0,0,Winter,0,33,Medium,3.7,FastFood,Low,Available,105.6,Office,134,40,Medium,28.9,36.7,No,Booth,Comfortable
+Wednesday,8,0,Normal,24.5,59.8,Partly Cloudy,0,0,1,Summer,0,22,Medium,4.1,FastFood,Medium,Full,104.9,School,166,52,High,23.4,55.6,No,Indoor,Comfortable
+Monday,20,0,Hot,29.2,42.5,Sunny,1,0,0,Summer,0,46,High,4.5,Bakery,Low,Available,162.9,School,195,50,Medium,23.0,62.2,Yes,Outdoor,Noisy
+Friday,20,0,Normal,21.3,86.0,Sunny,0,0,0,Summer,1,35,Medium,4.5,Bakery,Low,Limited,49.3,Park,59,13,Medium,24.5,65.0,Yes,Window,Noisy
+Tuesday,10,0,Normal,22.0,49.8,Partly Cloudy,1,1,0,Monsoon,0,33,Medium,3.6,Cafe,High,Available,124.0,None,57,27,Medium,24.6,43.1,Yes,Window,Noisy
+Wednesday,15,0,Cloudy,21.8,30.2,Sunny,0,0,0,Monsoon,1,28,Medium,4.9,FastFood,Low,Available,79.8,Mall,81,12,Low,27.3,36.8,No,Window,Moderate
+Saturday,16,1,Rainy,24.6,70.3,Overcast,1,0,1,Summer,1,49,High,3.8,FastFood,Medium,Available,66.7,Cinema,92,47,Medium,29.6,63.4,Yes,Outdoor,Noisy
+Thursday,18,0,Normal,22.7,84.4,Overcast,1,0,0,Summer,1,41,High,4.6,FastFood,Low,Available,124.8,None,121,32,Medium,23.0,69.5,Yes,Booth,Overloaded
+Tuesday,15,0,Rainy,30.4,80.1,Partly Cloudy,0,1,0,Summer,0,42,High,4.7,SouthIndian,Low,Available,88.4,School,188,24,High,22.2,36.6,No,Outdoor,Overloaded
+Friday,22,0,Normal,27.7,70.1,Cloudy,0,0,0,Monsoon,0,42,High,4.8,Cafe,Low,Available,81.4,School,95,55,Low,24.4,35.6,No,Booth,Noisy
+Tuesday,12,0,Normal,26.3,38.9,Sunny,0,0,1,Monsoon,1,35,Medium,4.8,Chinese,Medium,Available,81.0,School,137,17,Low,29.7,48.3,Yes,Indoor,Moderate
+Saturday,10,1,Normal,22.1,35.4,Partly Cloudy,0,0,0,Summer,0,32,Medium,4.2,FastFood,Low,Full,69.8,Office,145,26,High,27.5,45.9,No,Window,Noisy
+Friday,17,0,Rainy,25.8,60.7,Sunny,0,0,0,Monsoon,1,43,High,4.0,FastFood,Low,Limited,47.8,Mall,118,60,Low,23.0,41.6,No,Booth,Noisy
+Friday,14,0,Normal,22.8,73.4,Partly Cloudy,0,0,0,Summer,1,26,Medium,4.1,Chinese,Medium,Available,13.0,Cinema,114,15,Low,29.3,54.1,Yes,Outdoor,Moderate
+Thursday,18,0,Normal,29.5,36.1,Sunny,0,1,0,Monsoon,0,39,Medium,4.3,Italian,Medium,Available,92.8,Office,96,60,Medium,28.1,32.4,No,Outdoor,Comfortable
+Tuesday,21,0,Rainy,30.4,45.4,Cloudy,0,0,0,Summer,0,41,High,4.8,Bakery,Low,Limited,131.3,Cinema,184,47,Medium,26.2,63.6,Yes,Booth,Overloaded
+Sunday,15,1,Normal,29.7,43.9,Partly Cloudy,0,0,0,Monsoon,0,37,Medium,3.9,Cafe,Medium,Limited,38.0,None,150,37,Low,27.0,37.2,No,Window,Moderate
+Thursday,9,0,Overcast,35.0,89.3,Overcast,0,0,0,Summer,1,28,Medium,4.8,SouthIndian,High,Available,174.4,Cinema,167,17,High,22.7,51.4,No,Indoor,Overloaded
+Sunday,15,1,Normal,28.3,47.8,Cloudy,0,1,0,Monsoon,1,38,Medium,4.0,FastFood,Medium,Available,160.2,Cinema,150,32,High,29.9,40.1,Yes,Indoor,Moderate
+Thursday,13,0,Rainy,27.3,57.9,Overcast,0,1,0,Winter,1,41,High,4.3,Bakery,Low,Available,152.4,Park,100,37,Low,29.3,50.8,No,Indoor,Noisy
+Tuesday,14,0,Rainy,22.1,36.0,Cloudy,0,0,0,Summer,0,31,Medium,3.7,Cafe,Low,Available,133.3,School,85,12,High,23.6,60.8,No,Window,Moderate
+Monday,13,0,Overcast,24.7,40.5,Overcast,0,1,0,Summer,1,35,Medium,4.0,SouthIndian,Low,Available,67.4,Park,140,41,Low,23.6,30.0,Yes,Outdoor,Moderate
+Monday,13,0,Rainy,26.8,32.4,Cloudy,0,0,0,Winter,1,35,Medium,4.1,Italian,Low,Available,56.5,Cinema,125,45,Low,27.0,65.1,Yes,Window,Moderate
+Saturday,18,1,Normal,20.8,47.4,Sunny,1,1,0,Monsoon,0,50,High,4.9,Chinese,High,Available,13.1,Mall,97,51,High,24.8,52.9,No,Window,Overloaded
+Thursday,9,0,Normal,25.4,78.1,Overcast,0,0,1,Monsoon,0,31,Medium,4.2,SouthIndian,High,Full,53.1,Office,113,25,Medium,23.2,37.6,Yes,Booth,Overloaded
+Wednesday,21,0,Rainy,20.1,48.8,Sunny,0,0,0,Monsoon,0,41,High,3.6,Chinese,Medium,Limited,93.4,Office,84,21,Low,28.2,56.6,Yes,Window,Overloaded
+Thursday,10,0,Overcast,22.0,74.3,Partly Cloudy,0,0,0,Winter,0,23,Medium,4.9,FastFood,Medium,Limited,102.5,School,186,41,High,23.4,31.6,No,Outdoor,Moderate
+Thursday,13,0,Normal,32.2,35.7,Sunny,0,0,0,Monsoon,1,24,Medium,4.8,SouthIndian,Low,Available,98.6,Cinema,197,28,Medium,27.8,49.3,Yes,Indoor,Moderate
+Thursday,14,0,Normal,34.5,75.5,Overcast,0,0,0,Summer,1,27,Medium,4.3,Chinese,High,Available,98.4,Cinema,118,53,Medium,26.8,56.7,No,Booth,Overloaded
+Sunday,19,1,Hot,27.6,32.8,Cloudy,0,1,1,Summer,0,56,High,4.0,SouthIndian,Low,Available,177.7,Mall,150,54,Medium,23.5,51.6,No,Window,Noisy
+Saturday,15,1,Normal,27.4,81.1,Sunny,0,1,0,Monsoon,0,37,Medium,4.3,SouthIndian,Low,Full,98.0,School,106,45,Low,27.8,39.5,Yes,Outdoor,Overloaded
+Monday,12,0,Hot,30.3,69.8,Cloudy,0,0,0,Summer,1,21,Medium,3.7,Chinese,Low,Available,89.0,Park,99,45,Medium,28.8,53.8,No,Window,Moderate
+Saturday,18,1,Rainy,26.2,40.2,Partly Cloudy,0,1,0,Summer,0,54,High,4.6,FastFood,Low,Limited,19.8,Park,189,24,Low,28.3,48.9,No,Indoor,Overloaded
+Saturday,14,1,Hot,32.6,51.5,Partly Cloudy,1,0,0,Winter,0,35,Medium,4.7,Cafe,Medium,Available,190.1,Mall,196,31,Low,24.8,63.3,No,Indoor,Moderate
+Saturday,21,1,Hot,27.3,56.3,Overcast,0,0,0,Winter,1,43,High,3.6,SouthIndian,High,Limited,180.4,Cinema,76,56,Low,27.8,59.7,No,Outdoor,Overloaded
+Monday,20,0,Normal,21.2,67.3,Cloudy,1,0,0,Winter,1,38,Medium,3.9,FastFood,Low,Available,185.3,Park,137,34,Medium,29.7,34.2,No,Booth,Moderate
+Monday,16,0,Normal,20.5,82.7,Sunny,1,1,0,Winter,0,38,Medium,4.2,Bakery,Low,Available,66.1,Park,153,32,Medium,24.8,43.9,Yes,Indoor,Noisy
+Thursday,8,0,Rainy,31.4,35.6,Sunny,0,0,0,Summer,0,26,Medium,4.6,FastFood,Medium,Available,20.1,Mall,92,16,Low,29.1,69.4,Yes,Window,Moderate
+Saturday,15,1,Hot,24.4,78.9,Partly Cloudy,0,1,0,Summer,1,44,High,4.9,SouthIndian,Low,Limited,98.4,Mall,116,59,High,27.3,39.5,No,Booth,Overloaded
+Wednesday,9,0,Normal,24.1,41.0,Cloudy,0,0,0,Monsoon,0,19,Low,3.5,Bakery,High,Limited,83.4,Cinema,70,39,Low,23.7,36.0,Yes,Indoor,Comfortable
+Sunday,13,1,Hot,28.1,54.0,Cloudy,1,0,0,Monsoon,0,35,Medium,4.8,Bakery,Low,Available,134.2,Mall,133,47,High,23.9,68.4,No,Window,Moderate
+Sunday,12,1,Normal,22.5,87.7,Partly Cloudy,0,0,0,Monsoon,1,28,Medium,3.9,Chinese,High,Limited,92.3,Mall,97,52,High,23.4,61.5,No,Booth,Overloaded
+Monday,13,0,Rainy,26.9,46.3,Sunny,0,0,0,Winter,1,35,Medium,4.4,Chinese,High,Full,123.7,None,186,52,Medium,27.1,66.6,No,Booth,Overloaded
+Tuesday,9,0,Rainy,31.1,53.1,Partly Cloudy,1,1,0,Winter,0,35,Medium,4.0,SouthIndian,Low,Available,77.4,School,136,51,High,28.2,31.9,No,Indoor,Moderate
+Tuesday,20,0,Hot,31.5,81.0,Cloudy,0,0,0,Winter,0,37,Medium,4.9,Italian,Low,Limited,107.4,Office,173,35,Medium,25.5,38.5,No,Window,Noisy
+Tuesday,14,0,Normal,28.2,78.0,Sunny,1,0,0,Summer,0,31,Medium,3.6,SouthIndian,Medium,Available,100.7,Park,95,21,Low,27.6,57.2,No,Outdoor,Noisy
+Friday,21,0,Hot,21.7,68.9,Partly Cloudy,1,0,0,Summer,1,42,High,4.8,Italian,Medium,Available,187.5,School,137,28,Low,23.5,58.8,No,Booth,Noisy
+Thursday,16,0,Normal,21.7,77.8,Cloudy,0,0,0,Winter,1,31,Medium,4.1,Cafe,Low,Available,175.0,None,149,50,Low,26.2,60.4,Yes,Window,Noisy
+Tuesday,21,0,Normal,31.6,36.8,Cloudy,0,0,0,Winter,1,41,High,3.5,Bakery,Low,Limited,101.1,School,92,12,Medium,26.9,46.1,Yes,Window,Noisy
+Thursday,8,0,Normal,32.3,71.8,Overcast,0,0,1,Monsoon,1,30,Medium,4.1,SouthIndian,High,Limited,77.0,Mall,197,48,High,22.0,53.7,Yes,Outdoor,Noisy
+Tuesday,18,0,Normal,25.5,33.5,Overcast,1,0,0,Summer,1,36,Medium,4.2,Chinese,Low,Limited,46.8,School,93,36,High,24.9,64.8,Yes,Booth,Moderate
+Wednesday,21,0,Normal,32.3,86.5,Partly Cloudy,0,0,0,Summer,0,43,High,3.8,Chinese,High,Available,185.2,None,153,54,High,25.8,53.9,No,Indoor,Overloaded
+Thursday,16,0,Cloudy,20.6,39.6,Sunny,1,0,0,Winter,1,41,High,4.1,Italian,Low,Limited,41.5,Cinema,200,50,Low,27.5,55.8,Yes,Booth,Noisy
+Tuesday,15,0,Rainy,30.8,55.0,Sunny,0,0,0,Summer,1,38,Medium,4.5,Cafe,Low,Limited,198.5,School,106,28,Low,29.2,30.7,Yes,Booth,Moderate
+Sunday,14,1,Overcast,28.2,65.4,Overcast,0,0,0,Winter,1,36,Medium,4.3,FastFood,High,Available,37.7,Cinema,106,49,High,28.7,68.7,No,Indoor,Comfortable
+Monday,8,0,Rainy,34.8,78.1,Cloudy,1,0,1,Summer,1,39,Medium,4.5,Italian,High,Limited,145.1,Office,137,34,Medium,28.3,44.3,Yes,Booth,Overloaded
+Thursday,11,0,Normal,21.5,70.7,Overcast,0,0,0,Winter,0,19,Low,3.5,FastFood,Medium,Available,61.2,Park,185,34,High,23.8,41.7,No,Window,Calm
+Sunday,16,1,Hot,32.5,40.9,Partly Cloudy,0,0,0,Winter,0,42,High,4.6,FastFood,Low,Available,14.7,Park,144,44,Medium,23.8,52.3,No,Booth,Noisy
+Sunday,13,1,Normal,31.3,52.8,Overcast,0,0,0,Summer,0,34,Medium,4.9,Bakery,Medium,Full,51.6,Cinema,76,25,Low,25.4,60.7,No,Window,Noisy
+Sunday,17,1,Normal,24.5,51.5,Sunny,0,0,0,Summer,1,38,Medium,4.9,Bakery,Medium,Available,109.0,Mall,107,56,Low,26.1,37.7,Yes,Booth,Moderate
+Friday,20,0,Hot,35.0,31.7,Partly Cloudy,0,0,1,Monsoon,0,43,High,4.6,Bakery,Low,Limited,14.6,Office,179,26,Low,29.8,47.5,Yes,Booth,Noisy
+Monday,15,0,Cloudy,26.7,71.1,Sunny,0,0,1,Summer,1,31,Medium,4.0,Italian,Low,Limited,86.6,Park,77,49,Medium,25.8,51.7,Yes,Outdoor,Moderate
+Monday,18,0,Normal,25.2,80.3,Partly Cloudy,0,0,1,Summer,0,40,High,4.7,Cafe,High,Available,161.7,Office,193,37,Low,22.7,63.8,No,Booth,Overloaded
+Saturday,15,1,Normal,32.3,88.4,Cloudy,0,0,0,Summer,0,34,Medium,3.9,Italian,Low,Available,97.5,School,150,11,Medium,22.4,69.6,No,Outdoor,Noisy
+Friday,20,0,Normal,26.6,37.8,Overcast,1,0,0,Monsoon,0,43,High,4.6,Italian,Medium,Limited,128.1,Cinema,144,27,High,29.8,47.3,Yes,Booth,Noisy
+Sunday,8,1,Cloudy,34.9,85.2,Sunny,0,1,0,Summer,1,27,Medium,3.8,SouthIndian,Low,Available,64.1,Office,143,38,Medium,22.4,52.8,No,Indoor,Noisy
+Monday,11,0,Hot,31.6,36.8,Partly Cloudy,0,0,0,Summer,0,25,Medium,3.5,Cafe,Medium,Limited,19.7,School,56,42,Low,23.5,50.1,Yes,Window,Moderate
+Monday,12,0,Cloudy,23.6,54.7,Overcast,0,0,1,Summer,1,26,Medium,4.6,Chinese,Medium,Available,108.2,School,175,29,Medium,26.9,49.2,No,Window,Moderate
+Sunday,16,1,Normal,32.2,32.8,Sunny,1,0,0,Winter,0,44,High,4.4,FastFood,Low,Available,33.4,None,182,19,Low,28.3,58.8,No,Indoor,Noisy
+Sunday,10,1,Overcast,28.8,45.7,Cloudy,0,0,0,Winter,0,33,Medium,4.8,FastFood,Medium,Limited,93.3,Mall,117,14,Low,23.0,30.8,No,Window,Moderate
+Tuesday,22,0,Normal,25.3,48.9,Partly Cloudy,0,0,0,Summer,0,42,High,4.7,SouthIndian,High,Available,102.6,School,148,38,Medium,26.0,34.7,Yes,Indoor,Overloaded
+Tuesday,12,0,Normal,30.7,72.3,Sunny,0,0,0,Monsoon,0,30,Medium,4.9,FastFood,Low,Full,155.1,School,193,10,High,23.3,48.9,Yes,Indoor,Noisy
+Thursday,15,0,Cloudy,29.5,70.7,Sunny,0,0,0,Monsoon,1,34,Medium,4.6,Cafe,Low,Available,16.9,Office,133,19,High,28.8,46.6,Yes,Outdoor,Moderate
+Thursday,22,0,Rainy,22.5,76.1,Cloudy,0,0,1,Monsoon,0,55,High,4.7,FastFood,Low,Available,158.1,Cinema,54,45,High,25.0,55.7,Yes,Booth,Overloaded
+Thursday,19,0,Hot,22.1,64.6,Partly Cloudy,0,0,0,Summer,0,32,Medium,4.3,Bakery,High,Available,148.4,Park,132,31,Low,22.8,31.4,No,Booth,Noisy
+Tuesday,15,0,Hot,23.1,63.9,Overcast,0,0,0,Summer,1,28,Medium,4.9,SouthIndian,Low,Available,117.6,None,174,16,Low,25.9,34.5,No,Outdoor,Moderate
+Sunday,9,1,Normal,23.1,88.7,Sunny,1,0,0,Monsoon,0,34,Medium,4.9,Cafe,Low,Available,22.8,Mall,123,34,Low,23.2,60.0,No,Indoor,Noisy
+Thursday,8,0,Rainy,20.9,70.2,Partly Cloudy,0,0,0,Winter,0,23,Medium,3.9,Bakery,Low,Available,193.9,Cinema,116,19,High,22.8,47.1,No,Indoor,Moderate
+Monday,18,0,Hot,25.3,50.3,Partly Cloudy,0,0,0,Winter,0,31,Medium,5.0,SouthIndian,Low,Full,187.3,None,107,20,Medium,27.2,65.5,Yes,Window,Noisy
+Tuesday,17,0,Rainy,24.2,61.4,Cloudy,0,0,0,Winter,0,33,Medium,4.3,Chinese,High,Limited,81.8,Mall,51,32,Low,29.6,34.9,No,Window,Noisy
+Thursday,20,0,Normal,28.1,72.0,Sunny,0,0,0,Monsoon,1,33,Medium,4.1,FastFood,Low,Full,135.5,None,99,47,High,29.8,39.2,No,Indoor,Noisy
+Monday,11,0,Normal,24.9,35.7,Overcast,0,1,0,Monsoon,0,30,Medium,4.6,SouthIndian,Low,Available,93.6,Park,128,58,Low,23.8,66.8,Yes,Booth,Moderate
+Thursday,19,0,Rainy,30.6,69.7,Sunny,0,1,0,Winter,0,45,High,4.7,FastFood,Low,Limited,147.3,Mall,80,25,Medium,29.7,42.1,Yes,Booth,Overloaded
+Wednesday,10,0,Normal,24.3,44.9,Sunny,1,1,0,Monsoon,0,31,Medium,3.9,Bakery,Medium,Available,60.8,Park,181,50,Low,27.4,68.8,No,Indoor,Moderate
+Sunday,12,1,Rainy,24.0,50.7,Overcast,0,0,0,Monsoon,1,34,Medium,4.9,Bakery,Low,Available,37.0,Office,197,36,High,27.1,35.3,No,Window,Moderate
+Sunday,16,1,Normal,32.9,70.6,Partly Cloudy,0,1,1,Winter,0,52,High,4.2,SouthIndian,High,Limited,183.8,Office,69,27,Low,23.5,53.8,No,Outdoor,Overloaded
+Thursday,8,0,Rainy,34.8,53.1,Sunny,1,1,0,Monsoon,1,32,Medium,5.0,Chinese,Medium,Available,27.7,Park,78,44,Medium,22.7,31.7,Yes,Window,Moderate
+Wednesday,16,0,Normal,30.2,80.3,Partly Cloudy,0,0,0,Summer,0,29,Medium,3.9,SouthIndian,Medium,Available,82.9,Cinema,173,44,Low,28.9,49.4,Yes,Booth,Noisy
+Thursday,14,0,Normal,21.4,63.5,Cloudy,0,0,0,Monsoon,0,30,Medium,4.9,Cafe,Medium,Available,84.9,Cinema,173,18,Medium,27.3,56.6,Yes,Booth,Moderate
+Saturday,9,1,Cloudy,34.4,89.3,Partly Cloudy,0,1,0,Summer,0,36,Medium,3.9,Bakery,High,Available,18.0,Cinema,92,10,Low,28.7,68.2,No,Indoor,Overloaded
+Saturday,11,1,Normal,31.8,33.3,Overcast,1,1,0,Summer,0,36,Medium,4.5,SouthIndian,Medium,Full,67.6,Park,62,42,High,25.5,52.3,Yes,Window,Noisy
+Sunday,21,1,Overcast,33.8,68.6,Overcast,0,0,0,Winter,0,46,High,3.9,FastFood,Low,Limited,191.2,Cinema,100,46,Low,27.7,67.2,Yes,Indoor,Overloaded
+Friday,22,0,Normal,34.9,39.4,Cloudy,0,0,0,Winter,0,43,High,5.0,FastFood,Low,Available,47.0,School,183,60,High,24.1,62.7,Yes,Outdoor,Noisy
+Saturday,9,1,Overcast,33.0,80.9,Partly Cloudy,1,0,0,Monsoon,0,38,Medium,4.7,SouthIndian,Medium,Available,118.2,Mall,135,59,Medium,28.9,45.0,No,Outdoor,Noisy
+Saturday,15,1,Cloudy,21.9,81.1,Sunny,0,0,0,Monsoon,0,37,Medium,3.9,Chinese,Medium,Limited,89.3,Cinema,198,24,Low,28.2,42.0,Yes,Booth,Noisy
+Thursday,9,0,Normal,33.0,82.2,Cloudy,0,0,0,Summer,0,23,Medium,4.4,Italian,High,Limited,166.9,None,110,27,Medium,25.8,31.5,Yes,Window,Overloaded
+Tuesday,18,0,Rainy,23.7,34.5,Overcast,1,0,0,Winter,1,43,High,3.6,Cafe,Low,Available,38.8,Cinema,118,44,Low,24.6,35.7,No,Booth,Overloaded
+Tuesday,21,0,Normal,30.7,59.5,Partly Cloudy,0,0,0,Winter,0,37,Medium,3.9,SouthIndian,High,Available,113.9,Office,59,35,High,28.0,61.1,Yes,Outdoor,Noisy
+Wednesday,10,0,Hot,32.4,44.5,Overcast,0,0,0,Monsoon,0,19,Low,3.9,Cafe,Low,Available,58.5,Office,72,44,Low,23.0,34.7,No,Outdoor,Calm
+Tuesday,15,0,Rainy,31.4,88.2,Sunny,0,1,0,Summer,0,41,High,3.9,Bakery,Low,Available,184.1,Mall,143,54,Low,23.7,66.4,Yes,Indoor,Overloaded
+Monday,22,0,Overcast,30.1,33.0,Cloudy,0,0,0,Summer,0,49,High,4.5,Chinese,Low,Available,10.1,Mall,103,42,Low,29.8,54.5,No,Booth,Overloaded
+Friday,19,0,Normal,27.3,43.4,Cloudy,1,0,0,Winter,0,36,Medium,4.7,Chinese,Low,Available,22.6,School,150,24,Low,23.7,47.4,No,Booth,Moderate
+Saturday,12,1,Rainy,28.7,68.6,Overcast,1,0,0,Monsoon,0,42,High,3.5,Cafe,Low,Available,173.2,Mall,128,49,Medium,27.5,49.1,Yes,Booth,Noisy
+Friday,16,0,Hot,24.0,54.2,Cloudy,0,1,0,Monsoon,0,38,Medium,4.0,Chinese,Low,Available,60.4,Mall,72,12,Low,23.2,42.6,Yes,Outdoor,Moderate
+Monday,19,0,Normal,26.2,44.1,Partly Cloudy,0,0,0,Monsoon,0,35,Medium,4.5,SouthIndian,Medium,Available,101.7,Park,133,37,Medium,29.6,47.0,No,Indoor,Moderate
+Saturday,12,1,Normal,26.8,57.5,Partly Cloudy,1,0,1,Monsoon,0,43,High,4.8,Cafe,Low,Available,22.6,School,125,18,High,29.4,37.1,No,Booth,Noisy
+Wednesday,14,0,Hot,29.5,78.1,Overcast,0,0,0,Winter,0,24,Medium,4.8,FastFood,Low,Full,99.0,Cinema,166,26,Medium,26.1,67.6,Yes,Booth,Overloaded
+Monday,21,0,Normal,33.2,56.9,Overcast,0,0,0,Winter,0,41,High,4.2,Bakery,Medium,Available,196.4,Mall,77,35,High,27.1,37.2,No,Indoor,Noisy
+Monday,15,0,Normal,21.4,81.4,Cloudy,0,0,0,Monsoon,0,25,Medium,3.5,FastFood,Low,Available,185.7,Cinema,133,40,Low,28.0,54.4,No,Outdoor,Noisy
+Friday,15,0,Rainy,27.7,56.8,Overcast,0,1,0,Monsoon,0,38,Medium,3.5,Italian,Low,Available,103.8,Cinema,133,19,Low,24.3,43.3,No,Outdoor,Moderate
+Thursday,11,0,Rainy,24.2,37.1,Partly Cloudy,1,0,0,Winter,0,37,Medium,3.6,Italian,Medium,Limited,25.2,None,101,58,Medium,30.0,38.6,Yes,Outdoor,Moderate
+Friday,15,0,Rainy,34.0,59.8,Sunny,0,0,0,Summer,0,35,Medium,4.0,SouthIndian,Medium,Available,97.3,Mall,77,43,Medium,24.8,55.4,No,Booth,Moderate
+Sunday,16,1,Cloudy,25.5,69.2,Partly Cloudy,0,0,0,Winter,0,32,Medium,4.5,Chinese,Medium,Full,180.9,School,105,38,High,29.9,56.4,Yes,Booth,Noisy
+Friday,10,0,Normal,34.3,36.2,Cloudy,1,0,0,Monsoon,1,26,Medium,4.3,SouthIndian,Low,Available,127.2,None,94,48,High,28.9,47.6,Yes,Booth,Moderate
+Tuesday,14,0,Hot,24.9,54.7,Overcast,0,1,0,Monsoon,0,35,Medium,4.1,Cafe,Low,Full,196.1,None,143,46,Low,26.5,31.2,Yes,Window,Noisy
+Monday,11,0,Rainy,20.0,63.4,Overcast,0,0,1,Summer,0,29,Medium,4.4,SouthIndian,Medium,Available,171.6,School,104,14,High,27.7,50.0,Yes,Indoor,Moderate
+Friday,22,0,Rainy,31.6,30.0,Overcast,0,1,0,Winter,1,51,High,3.6,Chinese,Medium,Full,191.6,None,157,37,High,27.3,49.2,Yes,Indoor,Overloaded
+Monday,17,0,Normal,31.0,35.5,Cloudy,0,0,0,Monsoon,0,37,Medium,4.8,Chinese,Low,Available,59.0,Office,171,11,Medium,27.5,45.6,Yes,Booth,Moderate
+Sunday,16,1,Rainy,31.0,66.3,Sunny,0,0,0,Monsoon,0,42,High,4.3,SouthIndian,Low,Available,116.1,Cinema,184,49,High,28.9,51.6,No,Booth,Noisy
+Tuesday,19,0,Normal,26.9,67.1,Cloudy,0,0,0,Winter,0,33,Medium,4.9,SouthIndian,Medium,Available,178.9,Park,74,14,High,23.4,57.4,No,Window,Moderate
+Monday,22,0,Normal,30.0,48.3,Partly Cloudy,0,0,0,Summer,0,45,High,4.2,Cafe,High,Available,164.7,Park,110,15,Medium,29.7,43.0,Yes,Outdoor,Overloaded
+Friday,10,0,Hot,25.4,60.5,Sunny,0,0,0,Monsoon,1,26,Medium,3.9,Bakery,Low,Available,72.8,Office,159,29,High,25.2,53.9,No,Window,Moderate
+Monday,21,0,Normal,20.9,42.4,Overcast,0,0,0,Summer,0,38,Medium,4.7,SouthIndian,High,Full,136.3,Cinema,164,14,Medium,25.0,54.0,Yes,Indoor,Overloaded
+Saturday,9,1,Normal,28.0,70.3,Partly Cloudy,1,0,0,Summer,0,28,Medium,3.9,Bakery,Low,Limited,110.1,Office,131,23,Low,28.6,43.1,Yes,Booth,Moderate
+Sunday,12,1,Rainy,23.3,87.0,Overcast,0,0,0,Winter,0,41,High,4.2,Chinese,Medium,Available,136.9,Park,61,17,High,26.9,33.9,Yes,Booth,Overloaded
+Tuesday,20,0,Normal,26.4,51.8,Sunny,0,1,0,Monsoon,0,42,High,3.8,Chinese,Low,Available,168.7,None,54,47,Low,29.9,63.0,Yes,Outdoor,Noisy
+Thursday,20,0,Normal,23.2,33.3,Cloudy,0,0,0,Winter,1,34,Medium,3.8,Cafe,Medium,Available,122.1,Office,118,58,High,23.7,39.3,Yes,Booth,Moderate
+Monday,21,0,Normal,24.0,43.4,Partly Cloudy,0,0,0,Monsoon,1,34,Medium,4.8,Italian,Medium,Available,139.7,Cinema,88,56,High,27.2,39.0,No,Outdoor,Moderate
+Friday,14,0,Overcast,32.4,57.3,Cloudy,0,0,0,Monsoon,0,39,Medium,4.5,SouthIndian,Medium,Limited,163.2,None,77,25,Medium,29.2,30.2,Yes,Window,Moderate
+Tuesday,13,0,Normal,25.1,63.6,Partly Cloudy,0,0,0,Winter,0,29,Medium,3.8,Italian,Low,Limited,157.9,Mall,122,32,Medium,23.9,63.2,No,Outdoor,Comfortable
+Friday,22,0,Cloudy,28.7,67.2,Overcast,0,0,0,Winter,0,40,High,4.5,Bakery,Medium,Available,56.6,Park,72,52,High,29.2,68.8,No,Booth,Comfortable
+Friday,20,0,Normal,28.5,58.4,Overcast,0,0,0,Winter,0,33,Medium,3.8,SouthIndian,Low,Available,164.8,School,59,58,High,28.3,41.5,Yes,Booth,Moderate
+Monday,16,0,Normal,27.3,69.4,Cloudy,0,0,0,Monsoon,0,29,Medium,4.3,Chinese,Low,Available,92.4,Office,140,48,High,25.8,59.1,Yes,Indoor,Moderate
+Friday,12,0,Cloudy,25.2,73.0,Overcast,0,0,0,Monsoon,0,28,Medium,4.2,Bakery,Medium,Available,61.7,Office,95,50,Low,28.4,38.7,No,Window,Moderate
+Monday,21,0,Normal,30.2,36.8,Sunny,0,0,0,Summer,0,38,Medium,4.0,Italian,High,Limited,188.6,None,166,20,Medium,22.5,36.6,Yes,Window,Noisy
+Thursday,8,0,Cloudy,20.7,75.6,Sunny,0,0,0,Summer,1,15,Low,4.3,Bakery,Low,Limited,67.1,Mall,148,23,Medium,27.2,63.2,Yes,Indoor,Moderate
+Saturday,12,1,Normal,21.5,43.3,Sunny,0,0,0,Summer,1,36,Medium,3.8,Cafe,Low,Limited,194.8,Office,185,55,Low,26.3,66.0,No,Window,Moderate
+Friday,19,0,Normal,31.8,50.5,Sunny,0,0,0,Monsoon,0,41,High,4.9,FastFood,Low,Available,198.3,None,81,36,High,24.2,32.3,Yes,Outdoor,Noisy
+Friday,12,0,Rainy,26.9,79.8,Partly Cloudy,1,0,0,Monsoon,1,37,Medium,5.0,SouthIndian,Low,Full,19.7,Park,184,16,Medium,27.5,59.6,Yes,Outdoor,Overloaded
+Friday,21,0,Hot,21.9,87.9,Partly Cloudy,0,0,0,Summer,1,41,High,5.0,Italian,Medium,Available,122.4,Cinema,171,24,Medium,25.9,45.8,Yes,Indoor,Overloaded
+Wednesday,17,0,Normal,32.9,47.5,Sunny,1,0,1,Monsoon,0,43,High,3.5,SouthIndian,Low,Available,162.3,None,193,23,Medium,22.8,56.3,Yes,Booth,Noisy
+Wednesday,17,0,Normal,26.6,61.3,Partly Cloudy,0,0,0,Summer,1,36,Medium,4.8,Chinese,High,Available,59.0,School,65,40,Low,23.9,67.9,Yes,Indoor,Noisy
+Tuesday,18,0,Normal,20.0,72.1,Sunny,0,1,0,Summer,1,37,Medium,4.8,Cafe,Low,Available,166.6,None,83,56,Medium,25.9,67.2,Yes,Window,Moderate
+Saturday,15,1,Rainy,34.4,32.7,Cloudy,0,1,0,Summer,0,46,High,4.3,FastFood,Low,Available,115.5,Office,172,36,High,24.5,32.7,Yes,Booth,Noisy
+Saturday,21,1,Cloudy,23.0,39.8,Partly Cloudy,0,1,0,Winter,0,51,High,3.6,Cafe,High,Available,170.5,Cinema,51,10,Low,28.9,58.7,No,Indoor,Overloaded
+Wednesday,10,0,Cloudy,30.3,38.4,Sunny,0,1,0,Monsoon,0,29,Medium,3.9,Bakery,Low,Limited,51.6,Cinema,119,31,High,29.6,48.9,Yes,Booth,Moderate
+Tuesday,15,0,Hot,22.0,73.0,Sunny,1,0,0,Monsoon,0,32,Medium,3.7,Chinese,High,Available,191.7,None,142,21,High,28.2,66.9,Yes,Booth,Noisy
+Wednesday,16,0,Cloudy,29.7,73.3,Cloudy,0,0,0,Summer,0,32,Medium,4.3,Italian,Medium,Full,98.2,None,83,25,High,27.2,55.6,Yes,Indoor,Noisy
+Thursday,15,0,Rainy,22.4,36.4,Cloudy,0,0,0,Monsoon,0,39,Medium,3.7,Bakery,Low,Full,39.1,None,110,12,Low,24.6,55.3,No,Booth,Noisy
+Tuesday,13,0,Hot,34.0,66.7,Overcast,0,0,0,Summer,1,22,Medium,3.6,FastFood,High,Limited,28.7,None,181,26,Medium,22.1,48.5,Yes,Booth,Noisy
+Saturday,13,1,Rainy,24.1,41.3,Sunny,1,0,0,Summer,0,43,High,3.8,Italian,High,Available,113.0,School,184,30,Low,27.3,36.3,Yes,Outdoor,Overloaded
+Saturday,16,1,Normal,29.8,85.8,Overcast,0,0,0,Monsoon,0,34,Medium,4.4,Italian,Low,Available,79.0,Park,192,45,Medium,23.8,60.9,Yes,Outdoor,Noisy
+Wednesday,20,0,Normal,23.8,53.6,Partly Cloudy,0,0,1,Winter,0,38,Medium,4.7,Chinese,Medium,Available,151.1,School,139,42,High,25.1,51.4,No,Indoor,Comfortable
+Thursday,16,0,Normal,25.6,57.4,Sunny,1,0,1,Summer,1,37,Medium,4.5,SouthIndian,Low,Available,89.7,Office,152,16,Low,25.2,51.8,No,Indoor,Moderate
+Wednesday,14,0,Hot,33.6,76.9,Sunny,0,1,0,Winter,1,32,Medium,3.6,SouthIndian,Low,Available,72.9,Mall,91,35,Low,22.5,39.9,Yes,Booth,Noisy
+Sunday,15,1,Normal,22.5,73.0,Partly Cloudy,0,0,0,Monsoon,0,36,Medium,4.1,Cafe,Medium,Available,25.4,Office,85,31,High,28.3,43.9,Yes,Outdoor,Moderate
+Monday,22,0,Rainy,25.9,36.5,Cloudy,0,0,1,Summer,0,49,High,3.9,SouthIndian,Low,Limited,40.9,Park,134,59,Low,27.3,42.8,Yes,Indoor,Overloaded
+Monday,13,0,Normal,24.6,54.9,Sunny,0,0,0,Monsoon,0,30,Medium,3.5,Bakery,Medium,Full,101.4,None,192,54,Low,23.8,57.0,No,Booth,Noisy
+Thursday,21,0,Hot,30.5,85.6,Cloudy,1,0,0,Winter,1,49,High,4.4,Cafe,Low,Available,186.4,Office,159,11,Medium,28.6,52.2,Yes,Outdoor,Overloaded
+Friday,11,0,Rainy,23.5,80.2,Sunny,0,1,0,Monsoon,0,34,Medium,4.0,Cafe,High,Available,22.6,School,156,20,Medium,25.8,36.8,No,Outdoor,Overloaded
+Friday,19,0,Rainy,29.8,65.3,Overcast,0,1,0,Summer,0,51,High,5.0,SouthIndian,Medium,Available,69.7,None,64,33,Low,24.9,53.4,No,Indoor,Overloaded
+Monday,11,0,Normal,30.6,76.3,Cloudy,0,0,0,Winter,0,25,Medium,4.8,SouthIndian,Medium,Limited,179.0,None,133,27,Low,22.5,42.2,Yes,Outdoor,Noisy
+Monday,17,0,Normal,20.0,57.0,Overcast,0,0,0,Summer,0,32,Medium,4.1,Bakery,Low,Available,92.8,Cinema,199,58,Medium,27.8,57.3,Yes,Booth,Moderate
+Friday,14,0,Overcast,27.2,69.5,Sunny,0,0,0,Monsoon,1,35,Medium,4.9,Cafe,Low,Available,164.9,Park,179,29,High,28.3,43.9,No,Indoor,Moderate
+Tuesday,11,0,Hot,22.0,87.4,Overcast,0,0,0,Monsoon,1,20,Medium,3.9,Italian,High,Available,39.3,Office,156,41,High,22.4,58.5,Yes,Outdoor,Overloaded
+Friday,21,0,Rainy,23.4,38.1,Sunny,0,0,0,Winter,1,43,High,3.5,Chinese,Medium,Available,99.9,Mall,165,19,High,24.5,42.5,No,Booth,Overloaded
+Wednesday,20,0,Hot,30.2,59.9,Sunny,0,0,0,Summer,0,42,High,4.1,Bakery,Low,Available,15.8,School,187,26,Medium,26.5,46.2,Yes,Window,Noisy
+Tuesday,14,0,Hot,20.1,61.8,Overcast,0,0,0,Winter,1,31,Medium,3.9,Bakery,Low,Limited,188.1,School,163,17,Low,28.4,69.1,No,Outdoor,Moderate
+Wednesday,8,0,Normal,30.4,32.9,Sunny,0,1,0,Summer,0,24,Medium,3.7,SouthIndian,Low,Limited,32.5,Mall,121,49,High,29.5,43.1,Yes,Outdoor,Moderate
+Monday,13,0,Overcast,32.3,86.1,Partly Cloudy,1,0,0,Summer,1,37,Medium,4.4,Bakery,Medium,Available,54.8,Park,126,16,Low,27.3,44.7,No,Booth,Noisy
+Tuesday,19,0,Rainy,34.8,80.3,Sunny,0,0,0,Winter,1,45,High,3.7,Chinese,Medium,Available,177.0,Mall,92,37,Low,24.9,33.4,No,Indoor,Overloaded
+Wednesday,15,0,Normal,26.3,59.0,Sunny,0,1,0,Monsoon,1,37,Medium,3.8,Bakery,Medium,Limited,103.5,Park,85,30,Medium,25.4,32.7,No,Booth,Moderate
+Wednesday,19,0,Rainy,22.0,60.5,Partly Cloudy,0,0,0,Winter,0,46,High,4.0,Cafe,Medium,Limited,192.1,School,176,51,Medium,27.8,43.4,No,Indoor,Overloaded
+Tuesday,22,0,Normal,21.1,85.3,Cloudy,0,1,0,Winter,0,50,High,4.6,Italian,Low,Full,121.8,None,136,12,Low,22.6,32.1,Yes,Booth,Overloaded
+Thursday,20,0,Cloudy,25.7,40.6,Partly Cloudy,1,0,0,Winter,1,41,High,4.6,Bakery,High,Available,87.0,Park,180,22,High,26.5,64.1,Yes,Window,Overloaded
+Sunday,14,1,Hot,31.0,64.7,Partly Cloudy,0,0,0,Summer,0,30,Medium,4.7,FastFood,Medium,Available,171.4,Office,136,54,Medium,29.3,31.9,Yes,Window,Moderate
+Friday,14,0,Rainy,21.5,73.8,Partly Cloudy,1,0,0,Winter,0,42,High,4.6,Bakery,High,Limited,64.4,School,121,28,Medium,24.7,42.3,Yes,Outdoor,Overloaded
+Saturday,18,1,Normal,24.7,37.7,Partly Cloudy,1,0,0,Winter,0,43,High,4.9,Bakery,Low,Limited,126.0,School,188,27,Medium,25.4,33.7,No,Booth,Noisy
+Wednesday,20,0,Overcast,33.2,53.2,Cloudy,0,1,0,Monsoon,0,52,High,4.1,SouthIndian,High,Available,41.3,School,136,11,High,22.1,47.9,No,Window,Overloaded
+Friday,21,0,Normal,22.1,66.0,Sunny,0,0,0,Winter,0,43,High,4.4,Cafe,High,Available,40.2,Mall,200,60,Low,29.5,42.3,Yes,Outdoor,Overloaded
+Sunday,18,1,Cloudy,31.6,83.0,Overcast,1,1,0,Monsoon,1,55,High,4.5,SouthIndian,Low,Limited,72.2,Office,158,46,Medium,22.7,48.9,No,Indoor,Overloaded
+Saturday,10,1,Normal,31.3,60.2,Cloudy,0,0,0,Monsoon,1,30,Medium,3.7,Bakery,High,Available,81.6,Park,143,36,Low,27.8,60.6,Yes,Outdoor,Noisy
+Friday,15,0,Normal,22.0,53.1,Cloudy,0,0,0,Monsoon,0,34,Medium,4.6,Bakery,High,Available,25.7,Office,131,35,Medium,26.7,55.5,Yes,Outdoor,Noisy
+Monday,8,0,Normal,34.9,88.8,Sunny,1,1,0,Summer,0,33,Medium,4.5,Chinese,High,Limited,25.6,None,123,14,High,23.7,44.3,Yes,Indoor,Overloaded
+Saturday,10,1,Normal,22.1,85.0,Partly Cloudy,0,0,0,Summer,0,27,Medium,4.9,Cafe,Low,Available,161.3,None,95,40,Low,24.6,35.6,No,Outdoor,Noisy
+Sunday,16,1,Normal,28.0,75.7,Partly Cloudy,0,0,0,Summer,0,41,High,4.9,Italian,Low,Limited,11.6,School,178,58,Medium,26.4,47.5,Yes,Window,Overloaded
+Friday,17,0,Hot,20.1,46.4,Cloudy,0,0,0,Monsoon,0,29,Medium,5.0,Cafe,High,Available,112.7,School,82,57,Medium,24.9,51.2,No,Window,Noisy
+Wednesday,13,0,Normal,29.8,87.8,Overcast,0,0,0,Monsoon,0,26,Medium,4.3,Bakery,Low,Available,103.6,Cinema,127,40,High,23.5,59.7,Yes,Indoor,Noisy
+Saturday,21,1,Cloudy,26.6,88.2,Partly Cloudy,0,0,0,Summer,0,48,High,5.0,Chinese,Low,Available,27.5,None,80,57,Medium,25.8,59.3,No,Indoor,Overloaded
+Monday,9,0,Cloudy,30.8,57.2,Cloudy,0,0,1,Monsoon,0,29,Medium,4.4,Cafe,Medium,Available,194.3,Office,71,14,Low,22.0,34.5,Yes,Window,Moderate
+Tuesday,21,0,Hot,29.4,38.0,Overcast,0,0,0,Monsoon,0,40,High,4.6,Italian,Low,Full,163.5,School,159,59,High,23.1,61.6,No,Window,Overloaded
+Wednesday,21,0,Normal,22.3,54.8,Overcast,0,0,0,Summer,0,34,Medium,4.3,Chinese,High,Limited,133.1,Office,135,43,Medium,24.0,48.4,Yes,Booth,Noisy
+Monday,15,0,Rainy,26.2,72.0,Overcast,0,0,0,Summer,0,39,Medium,3.7,SouthIndian,Medium,Available,198.4,None,56,18,Medium,25.5,44.3,Yes,Booth,Moderate
+Monday,9,0,Rainy,30.3,74.9,Overcast,0,1,0,Monsoon,0,35,Medium,4.8,FastFood,High,Limited,10.4,Mall,84,54,Low,23.3,42.0,No,Indoor,Noisy
+Saturday,16,1,Normal,32.9,47.9,Cloudy,1,1,0,Summer,0,47,High,4.7,FastFood,Low,Limited,43.7,None,51,26,High,22.1,62.2,Yes,Booth,Noisy
+Friday,22,0,Normal,21.3,72.1,Cloudy,0,0,0,Winter,0,41,High,4.4,Cafe,Low,Full,35.4,Mall,60,48,High,27.0,52.8,No,Outdoor,Overloaded
+Tuesday,15,0,Rainy,21.5,81.6,Overcast,0,0,0,Monsoon,0,30,Medium,4.5,Italian,Low,Available,196.9,Park,60,44,Low,27.2,38.0,Yes,Indoor,Noisy
+Wednesday,8,0,Rainy,31.3,72.7,Partly Cloudy,1,0,0,Winter,0,29,Medium,4.3,Cafe,Medium,Available,79.7,Park,89,46,High,22.8,41.6,No,Window,Moderate
+Wednesday,19,0,Normal,28.8,86.1,Partly Cloudy,0,0,0,Monsoon,0,40,High,4.0,FastFood,Medium,Limited,140.3,School,128,58,Medium,27.8,66.1,Yes,Booth,Overloaded
+Friday,10,0,Cloudy,25.8,68.0,Cloudy,0,0,0,Summer,0,28,Medium,3.8,Chinese,Medium,Limited,167.1,Park,145,44,Medium,22.7,38.1,Yes,Outdoor,Moderate
+Tuesday,14,0,Normal,34.4,42.1,Overcast,0,0,0,Winter,0,27,Medium,4.4,FastFood,High,Available,77.9,School,108,50,High,24.5,43.3,No,Indoor,Noisy
+Saturday,21,1,Rainy,24.7,67.5,Overcast,0,1,0,Summer,0,51,High,4.9,Chinese,Low,Limited,118.7,School,200,12,High,29.5,49.5,Yes,Window,Overloaded
+Wednesday,18,0,Hot,22.1,47.4,Cloudy,0,0,1,Monsoon,0,41,High,4.0,SouthIndian,Medium,Available,17.7,Cinema,109,44,Low,26.6,51.4,Yes,Window,Noisy
+Tuesday,10,0,Rainy,24.2,50.7,Cloudy,0,0,0,Summer,1,29,Medium,4.7,SouthIndian,Medium,Limited,179.6,Cinema,68,44,High,28.0,38.9,Yes,Outdoor,Moderate
+Saturday,9,1,Hot,21.3,70.3,Cloudy,0,1,1,Winter,0,35,Medium,5.0,Bakery,Low,Available,72.7,Cinema,110,56,Medium,25.4,35.0,No,Window,Moderate
+Saturday,15,1,Rainy,28.3,88.9,Sunny,0,0,0,Winter,0,38,Medium,3.8,Bakery,Low,Limited,17.4,Cinema,83,10,Low,29.6,38.7,No,Outdoor,Noisy
+Sunday,20,1,Hot,29.0,69.0,Sunny,1,0,0,Summer,1,45,High,4.0,SouthIndian,Medium,Available,120.7,Mall,79,35,Medium,25.2,33.3,No,Window,Noisy
+Wednesday,12,0,Normal,29.1,87.5,Overcast,0,0,0,Monsoon,0,23,Medium,5.0,Chinese,Low,Available,197.8,Office,133,39,Low,26.3,61.5,No,Outdoor,Noisy
+Friday,13,0,Normal,31.7,60.2,Sunny,1,0,0,Monsoon,0,30,Medium,4.5,Italian,High,Available,126.7,None,131,45,Medium,27.2,57.5,Yes,Indoor,Noisy
+Thursday,17,0,Rainy,30.4,71.7,Partly Cloudy,0,1,0,Summer,1,47,High,4.2,FastFood,Low,Available,166.1,Mall,67,19,High,25.2,39.6,Yes,Outdoor,Noisy
+Wednesday,19,0,Rainy,32.7,49.3,Overcast,0,0,1,Monsoon,0,45,High,4.9,Chinese,High,Limited,46.5,School,103,16,Medium,26.5,55.8,No,Indoor,Overloaded
+Sunday,14,1,Rainy,29.9,36.9,Sunny,0,0,0,Summer,0,40,High,4.1,Italian,Low,Limited,42.3,Office,51,27,Medium,26.2,66.7,No,Booth,Noisy
+Monday,18,0,Hot,24.5,51.1,Overcast,0,1,0,Winter,0,36,Medium,3.6,Italian,Medium,Available,84.3,Cinema,132,15,Low,23.7,69.2,Yes,Indoor,Moderate
+Monday,9,0,Normal,27.8,58.8,Partly Cloudy,0,0,0,Winter,0,18,Low,4.3,SouthIndian,High,Available,198.8,None,137,38,High,23.3,47.1,Yes,Booth,Moderate
+Saturday,21,1,Rainy,27.6,64.2,Partly Cloudy,0,0,0,Summer,0,45,High,3.6,Cafe,Low,Full,30.4,Cinema,173,27,Low,25.9,31.5,No,Booth,Overloaded
+Thursday,13,0,Normal,31.2,70.0,Overcast,1,0,0,Monsoon,1,29,Medium,4.0,Cafe,Low,Available,122.7,Cinema,58,36,Medium,25.9,49.0,No,Indoor,Moderate
+Sunday,21,1,Rainy,24.4,55.0,Sunny,0,0,0,Winter,0,52,High,4.2,Bakery,Medium,Limited,126.9,Office,183,43,Medium,22.6,51.4,Yes,Booth,Overloaded
+Wednesday,18,0,Normal,20.8,74.9,Overcast,0,0,0,Summer,1,39,Medium,3.8,Bakery,Medium,Available,110.0,School,102,16,Low,26.8,37.0,Yes,Booth,Moderate
+Monday,21,0,Overcast,33.5,80.5,Partly Cloudy,0,0,0,Summer,0,47,High,4.7,Cafe,Low,Available,168.0,School,158,60,Medium,28.2,66.5,Yes,Window,Overloaded
+Monday,16,0,Normal,34.3,47.2,Sunny,0,1,0,Monsoon,1,42,High,3.8,FastFood,Low,Limited,64.0,None,192,24,Medium,23.1,32.7,No,Outdoor,Noisy
+Wednesday,14,0,Hot,27.4,80.8,Sunny,1,0,0,Summer,0,30,Medium,4.7,Italian,Low,Available,22.3,Office,96,30,Medium,27.2,61.8,Yes,Indoor,Noisy
+Sunday,13,1,Rainy,21.7,78.5,Cloudy,0,0,0,Monsoon,0,42,High,5.0,Chinese,Low,Available,125.2,Park,75,49,High,27.4,49.2,No,Window,Overloaded
+Tuesday,18,0,Normal,27.5,61.4,Overcast,0,0,0,Winter,0,31,Medium,4.9,Chinese,Medium,Available,59.4,Cinema,122,21,Low,22.2,49.0,No,Indoor,Moderate
+Saturday,19,1,Normal,28.9,31.5,Partly Cloudy,0,0,0,Monsoon,0,41,High,3.9,Cafe,Low,Limited,132.3,None,127,35,Medium,29.7,30.4,No,Indoor,Noisy
+Wednesday,22,0,Normal,27.9,38.7,Partly Cloudy,0,0,0,Monsoon,0,45,High,4.9,SouthIndian,Medium,Available,143.0,Mall,122,50,Medium,27.6,63.1,Yes,Booth,Noisy
+Tuesday,20,0,Normal,34.7,70.2,Overcast,0,1,0,Monsoon,1,42,High,4.5,Italian,Low,Available,28.3,None,183,34,Medium,29.7,47.4,Yes,Window,Noisy
+Saturday,15,1,Normal,34.8,42.0,Overcast,0,0,0,Monsoon,0,38,Medium,4.5,Chinese,Low,Available,125.2,None,184,26,High,26.3,42.6,Yes,Outdoor,Moderate
+Thursday,21,0,Normal,34.0,75.0,Partly Cloudy,0,0,1,Monsoon,1,44,High,4.4,Cafe,Medium,Full,140.9,School,148,44,Medium,25.8,32.5,No,Indoor,Overloaded
+Friday,16,0,Rainy,22.0,39.7,Partly Cloudy,0,0,0,Summer,0,35,Medium,4.7,Bakery,Low,Available,16.1,Mall,148,37,Medium,26.4,37.3,No,Window,Moderate
+Saturday,8,1,Normal,32.9,47.2,Overcast,0,0,0,Winter,0,24,Medium,4.0,Chinese,Low,Limited,171.9,School,200,49,Low,24.8,47.8,Yes,Indoor,Moderate
+Thursday,17,0,Hot,28.5,45.0,Overcast,0,0,0,Monsoon,1,28,Medium,3.7,Chinese,High,Available,136.4,None,175,52,Medium,28.7,42.2,Yes,Outdoor,Comfortable
+Friday,9,0,Hot,25.5,80.4,Sunny,0,0,0,Monsoon,0,16,Low,4.1,Bakery,High,Available,142.0,None,86,44,Medium,29.5,43.1,Yes,Booth,Noisy
+Monday,11,0,Cloudy,30.2,71.4,Cloudy,0,1,0,Winter,0,25,Medium,4.3,SouthIndian,Low,Available,164.0,Mall,177,49,Low,29.5,56.4,No,Indoor,Moderate
+Monday,18,0,Overcast,31.4,47.7,Partly Cloudy,0,0,0,Summer,1,37,Medium,3.7,SouthIndian,Low,Limited,78.2,School,106,25,Low,27.5,67.1,Yes,Indoor,Noisy
+Monday,18,0,Normal,34.3,75.2,Sunny,0,0,0,Monsoon,1,40,High,4.2,Cafe,High,Available,106.7,Office,158,54,High,29.2,59.2,Yes,Booth,Overloaded
+Saturday,22,1,Normal,31.6,31.9,Overcast,0,1,0,Monsoon,0,53,High,4.8,FastFood,Low,Limited,65.8,Office,164,47,Low,27.6,49.3,Yes,Indoor,Noisy
+Tuesday,12,0,Rainy,20.3,78.8,Cloudy,0,0,0,Winter,0,32,Medium,3.8,Chinese,High,Limited,144.1,Office,162,35,High,24.5,62.2,No,Outdoor,Overloaded
+Friday,11,0,Normal,21.0,36.1,Partly Cloudy,0,1,0,Monsoon,0,26,Medium,3.8,Bakery,Low,Available,86.2,Office,124,54,Low,22.9,50.5,Yes,Booth,Moderate
+Monday,19,0,Normal,23.9,82.1,Cloudy,0,0,0,Monsoon,1,33,Medium,4.2,Chinese,Low,Available,163.3,School,155,49,High,22.7,34.1,No,Window,Noisy
+Sunday,9,1,Normal,20.6,74.4,Sunny,1,0,0,Winter,1,29,Medium,3.8,Chinese,Medium,Limited,54.7,Office,88,45,Low,28.2,52.6,No,Indoor,Moderate
+Wednesday,14,0,Normal,20.9,81.9,Overcast,0,0,0,Summer,0,33,Medium,4.1,Chinese,High,Available,197.1,Cinema,51,38,High,24.6,34.3,No,Booth,Overloaded
+Friday,9,0,Normal,31.8,74.5,Sunny,0,1,0,Monsoon,1,29,Medium,4.6,Cafe,Medium,Available,68.8,School,83,29,Medium,23.5,47.0,No,Indoor,Moderate
+Friday,20,0,Normal,27.6,63.7,Cloudy,0,0,1,Winter,0,42,High,4.6,SouthIndian,Medium,Available,72.1,Cinema,143,42,Medium,29.6,49.1,No,Outdoor,Noisy
+Tuesday,18,0,Normal,29.4,44.3,Sunny,0,0,0,Summer,0,37,Medium,4.2,Cafe,Medium,Available,55.7,School,181,34,Low,27.4,41.7,No,Indoor,Moderate
+Thursday,19,0,Rainy,27.5,77.1,Sunny,0,0,0,Summer,0,40,High,3.7,FastFood,Low,Limited,38.3,None,92,46,Low,28.3,64.8,No,Indoor,Overloaded
+Tuesday,21,0,Normal,26.2,77.9,Overcast,0,0,0,Summer,0,36,Medium,4.8,Italian,Low,Available,39.5,Mall,144,29,Medium,27.1,49.9,Yes,Indoor,Noisy
+Monday,9,0,Cloudy,30.5,47.3,Overcast,0,0,0,Summer,1,26,Medium,4.8,Bakery,High,Limited,25.1,Park,123,54,High,23.5,59.4,No,Booth,Noisy
+Wednesday,15,0,Normal,21.2,69.9,Cloudy,0,0,0,Summer,1,27,Medium,3.5,Bakery,Medium,Available,121.7,None,103,15,High,23.0,47.7,No,Outdoor,Moderate
+Wednesday,10,0,Normal,28.0,85.6,Cloudy,1,0,0,Summer,1,28,Medium,3.8,Italian,Medium,Available,32.4,Office,67,30,Medium,22.4,45.2,No,Booth,Noisy
+Sunday,19,1,Rainy,29.2,53.3,Sunny,0,1,0,Summer,1,52,High,3.6,Italian,Low,Available,30.5,Office,184,31,High,23.0,36.5,Yes,Outdoor,Overloaded
+Sunday,12,1,Normal,24.2,87.4,Partly Cloudy,0,0,1,Monsoon,1,38,Medium,4.3,Italian,High,Available,95.3,Mall,105,47,Low,22.6,62.4,No,Outdoor,Overloaded
+Monday,22,0,Hot,24.6,88.5,Sunny,0,0,0,Winter,0,44,High,4.3,FastFood,Medium,Available,38.4,Mall,94,26,High,28.7,53.6,Yes,Booth,Overloaded
+Wednesday,8,0,Normal,27.7,48.8,Cloudy,1,0,0,Winter,1,27,Medium,4.1,Chinese,Medium,Full,24.0,Mall,189,30,High,28.2,32.6,Yes,Outdoor,Noisy
+Tuesday,8,0,Rainy,23.0,63.1,Sunny,0,1,0,Monsoon,1,26,Medium,4.1,Cafe,High,Available,156.4,None,77,52,Low,25.9,42.4,No,Window,Noisy
+Saturday,13,1,Normal,32.1,30.8,Overcast,0,1,0,Summer,0,40,High,3.7,Bakery,Low,Limited,140.7,Cinema,84,13,Low,25.0,38.4,Yes,Window,Noisy
+Tuesday,20,0,Normal,28.0,45.1,Sunny,0,0,0,Summer,0,41,High,4.5,Italian,Medium,Full,120.1,Park,98,17,Low,29.9,45.8,Yes,Window,Overloaded
+Saturday,8,1,Normal,25.9,67.2,Overcast,0,1,0,Summer,1,33,Medium,3.9,SouthIndian,High,Available,146.5,Cinema,66,17,Low,26.5,53.5,No,Indoor,Noisy
+Monday,12,0,Cloudy,29.5,76.9,Partly Cloudy,1,0,0,Summer,0,28,Medium,3.9,FastFood,Low,Available,92.7,Park,82,49,Low,25.6,53.0,Yes,Indoor,Noisy
+Wednesday,13,0,Rainy,32.5,82.2,Overcast,0,0,0,Winter,0,29,Medium,4.0,SouthIndian,Medium,Limited,33.3,None,101,18,Medium,29.4,65.5,Yes,Booth,Noisy
+Sunday,13,1,Overcast,30.2,79.8,Partly Cloudy,0,0,0,Monsoon,0,35,Medium,4.7,Bakery,Low,Available,132.4,Mall,86,56,High,25.8,55.2,No,Outdoor,Noisy
+Friday,14,0,Normal,21.0,84.7,Partly Cloudy,0,0,0,Winter,0,31,Medium,4.0,Chinese,Low,Available,189.1,Cinema,51,48,Medium,27.7,47.2,No,Window,Noisy
+Sunday,10,1,Normal,30.5,72.3,Sunny,0,0,1,Summer,0,36,Medium,4.4,Chinese,Medium,Available,114.9,Mall,128,53,Low,22.0,68.9,Yes,Outdoor,Moderate
+Thursday,11,0,Normal,30.9,68.9,Cloudy,0,0,0,Winter,0,29,Medium,3.7,FastFood,Low,Limited,121.7,Cinema,73,21,High,25.4,43.7,No,Booth,Moderate
+Friday,16,0,Normal,32.7,75.3,Cloudy,0,0,0,Summer,0,35,Medium,4.6,Bakery,Medium,Available,188.1,Office,65,13,High,26.5,54.4,Yes,Window,Noisy
+Saturday,14,1,Cloudy,20.9,62.8,Sunny,0,0,0,Monsoon,1,39,Medium,3.6,Italian,High,Available,49.9,Office,146,53,Low,25.2,53.0,Yes,Indoor,Noisy
+Tuesday,17,0,Rainy,21.3,66.2,Partly Cloudy,0,0,0,Summer,0,40,High,4.9,Chinese,Low,Limited,99.9,Cinema,52,59,Low,24.5,61.6,No,Indoor,Noisy
+Tuesday,18,0,Normal,26.5,76.6,Cloudy,0,0,0,Summer,1,30,Medium,4.9,Cafe,Low,Limited,16.4,Mall,73,40,Medium,27.3,57.6,Yes,Booth,Noisy
+Sunday,20,1,Rainy,26.8,87.9,Overcast,0,0,0,Summer,0,48,High,4.9,Italian,Medium,Available,39.7,None,183,33,Medium,25.5,34.5,Yes,Indoor,Overloaded
+Tuesday,10,0,Hot,29.1,47.7,Cloudy,1,0,0,Monsoon,0,33,Medium,4.4,SouthIndian,Low,Available,46.4,None,112,25,High,25.2,51.3,Yes,Booth,Moderate
+Sunday,10,1,Normal,24.6,40.6,Partly Cloudy,0,0,0,Summer,1,31,Medium,4.6,FastFood,Low,Full,22.6,Office,156,54,Medium,26.6,52.2,No,Indoor,Noisy
+Sunday,10,1,Cloudy,31.1,71.0,Partly Cloudy,0,0,0,Monsoon,1,27,Medium,4.2,Chinese,Medium,Available,16.0,Park,117,34,High,26.7,49.2,Yes,Booth,Moderate
+Tuesday,9,0,Hot,31.1,41.2,Overcast,0,0,0,Monsoon,0,17,Low,4.6,Bakery,Medium,Available,172.1,Office,175,54,Medium,29.4,53.1,No,Indoor,Calm
+Thursday,17,0,Hot,21.8,40.4,Sunny,0,0,0,Winter,1,34,Medium,4.6,Bakery,Low,Limited,57.9,Office,90,12,Low,29.1,51.3,Yes,Outdoor,Moderate
+Monday,21,0,Normal,30.6,60.8,Cloudy,1,1,0,Winter,0,52,High,4.6,Cafe,Medium,Available,45.4,Park,102,32,High,22.7,39.4,No,Booth,Noisy
+Tuesday,14,0,Normal,30.5,52.6,Sunny,0,0,0,Monsoon,1,24,Medium,4.6,SouthIndian,Medium,Available,104.5,None,191,17,High,28.5,67.2,Yes,Booth,Moderate
+Saturday,17,1,Rainy,22.5,55.7,Cloudy,1,0,0,Monsoon,0,49,High,4.4,FastFood,Medium,Limited,135.1,School,168,14,Low,25.1,58.4,Yes,Booth,Noisy
+Wednesday,18,0,Normal,34.3,63.4,Overcast,0,0,0,Winter,0,31,Medium,4.7,Cafe,Medium,Available,85.5,Office,138,40,Low,24.8,36.5,Yes,Outdoor,Moderate
+Sunday,11,1,Rainy,27.8,37.8,Sunny,0,0,0,Summer,0,32,Medium,4.3,SouthIndian,Low,Available,144.7,Mall,56,15,High,27.5,58.2,Yes,Indoor,Moderate
+Thursday,15,0,Normal,31.7,65.0,Cloudy,0,0,0,Summer,0,29,Medium,3.7,Chinese,Medium,Available,71.5,Park,186,37,Low,22.3,51.6,No,Indoor,Moderate
+Sunday,22,1,Rainy,30.8,45.3,Cloudy,0,0,1,Winter,0,60,Very High,3.5,FastFood,High,Available,35.3,Mall,92,53,Medium,28.9,46.4,No,Outdoor,Overloaded
+Saturday,17,1,Hot,22.5,49.8,Partly Cloudy,0,0,0,Monsoon,0,43,High,4.4,Bakery,Low,Available,72.1,None,170,56,High,22.3,50.9,Yes,Indoor,Comfortable
+Sunday,10,1,Normal,21.9,72.6,Partly Cloudy,1,0,0,Summer,1,33,Medium,4.5,Bakery,Medium,Limited,193.7,Mall,153,13,High,25.3,66.2,Yes,Outdoor,Moderate
+Saturday,11,1,Overcast,31.7,39.3,Cloudy,0,0,0,Summer,1,35,Medium,4.2,SouthIndian,Medium,Available,90.2,Mall,182,24,Medium,24.8,36.8,Yes,Indoor,Moderate
+Sunday,15,1,Rainy,24.0,39.2,Partly Cloudy,0,0,1,Monsoon,0,44,High,4.0,Italian,Medium,Available,69.8,Cinema,72,48,Low,27.6,41.8,Yes,Booth,Noisy
+Tuesday,18,0,Normal,33.3,49.4,Cloudy,0,0,0,Summer,1,37,Medium,3.8,Chinese,High,Limited,183.9,Cinema,166,44,Medium,25.8,41.1,No,Indoor,Noisy
+Wednesday,12,0,Overcast,31.6,33.1,Cloudy,0,0,0,Winter,0,35,Medium,4.6,Bakery,Medium,Limited,117.6,Park,95,58,Medium,22.3,67.5,Yes,Outdoor,Moderate
+Tuesday,15,0,Normal,20.4,85.9,Partly Cloudy,0,0,0,Monsoon,0,34,Medium,3.9,Cafe,Low,Available,143.0,School,96,59,High,27.9,61.1,No,Booth,Noisy
+Sunday,12,1,Hot,32.1,66.9,Partly Cloudy,1,0,0,Winter,0,39,Medium,4.7,FastFood,Medium,Limited,11.4,Park,139,45,Low,29.8,41.9,Yes,Outdoor,Moderate
+Saturday,18,1,Normal,24.1,69.7,Partly Cloudy,0,0,0,Monsoon,1,39,Medium,3.8,FastFood,Low,Available,158.8,Mall,172,35,High,26.5,60.0,Yes,Window,Moderate
+Monday,8,0,Cloudy,21.0,59.4,Sunny,0,0,1,Winter,0,26,Medium,4.2,Cafe,Medium,Limited,191.3,Park,168,23,Low,26.9,66.0,No,Window,Moderate
+Thursday,22,0,Hot,30.7,64.4,Overcast,0,0,0,Summer,0,36,Medium,3.6,Chinese,High,Limited,89.0,Cinema,132,36,Low,29.7,56.8,Yes,Window,Noisy
+Sunday,20,1,Normal,28.6,51.5,Cloudy,1,0,0,Winter,0,53,High,4.3,Bakery,Low,Available,102.5,Park,116,30,Low,25.5,59.0,Yes,Outdoor,Noisy
+Monday,15,0,Rainy,21.2,77.0,Overcast,0,0,0,Winter,0,35,Medium,4.3,FastFood,Low,Available,197.8,Cinema,142,25,High,22.9,53.3,Yes,Window,Noisy
+Sunday,22,1,Rainy,26.8,49.1,Sunny,0,1,0,Summer,0,59,High,4.3,Cafe,Medium,Available,38.2,None,193,36,Low,27.1,47.5,Yes,Booth,Overloaded
+Thursday,12,0,Normal,25.4,43.2,Sunny,0,0,1,Winter,0,32,Medium,4.9,Italian,Low,Available,178.0,Cinema,118,55,Low,27.2,52.4,No,Outdoor,Moderate
+Tuesday,18,0,Normal,27.5,41.0,Cloudy,0,0,0,Monsoon,1,40,High,3.9,Bakery,Medium,Available,55.6,Mall,173,51,Medium,23.1,65.1,Yes,Window,Noisy
+Tuesday,16,0,Normal,28.5,34.1,Cloudy,0,0,1,Winter,1,39,Medium,4.1,Chinese,High,Available,124.7,Mall,84,18,Medium,27.6,63.0,No,Window,Noisy
+Sunday,10,1,Normal,25.5,60.3,Overcast,1,1,0,Monsoon,0,42,High,4.6,Chinese,Medium,Limited,191.8,Office,147,16,High,23.8,65.6,No,Booth,Noisy
+Thursday,9,0,Normal,23.8,55.0,Overcast,1,0,0,Monsoon,1,25,Medium,4.9,Italian,Medium,Available,182.4,Office,89,42,Medium,23.6,43.1,No,Indoor,Moderate
+Wednesday,15,0,Rainy,21.5,62.2,Partly Cloudy,0,0,0,Monsoon,0,39,Medium,3.6,SouthIndian,High,Available,146.9,Mall,196,47,Low,27.6,58.4,No,Indoor,Noisy
+Wednesday,13,0,Rainy,28.6,35.5,Overcast,1,0,0,Winter,0,38,Medium,4.9,Italian,Medium,Limited,89.4,Mall,58,26,Low,26.7,43.9,No,Outdoor,Moderate
+Sunday,17,1,Normal,30.8,43.3,Overcast,0,0,0,Monsoon,1,36,Medium,4.8,SouthIndian,Medium,Available,156.5,Cinema,133,30,Low,27.8,50.8,No,Indoor,Moderate
+Sunday,12,1,Rainy,23.4,42.8,Sunny,1,0,0,Summer,0,46,High,4.6,Chinese,Medium,Available,130.0,Mall,86,33,Medium,23.4,67.8,Yes,Window,Noisy
+Sunday,18,1,Normal,27.6,49.9,Overcast,0,0,0,Summer,0,43,High,4.1,Italian,Medium,Available,145.2,School,73,48,High,24.8,59.7,Yes,Outdoor,Noisy
+Tuesday,14,0,Overcast,20.7,51.6,Partly Cloudy,1,0,0,Monsoon,0,37,Medium,3.9,Bakery,Low,Full,162.0,Park,180,13,Low,23.3,63.7,No,Window,Noisy
+Tuesday,19,0,Hot,32.9,43.1,Overcast,0,0,0,Monsoon,0,31,Medium,4.8,Italian,Medium,Limited,80.9,Mall,166,34,Low,23.3,32.1,Yes,Outdoor,Moderate
+Monday,12,0,Normal,23.7,75.2,Cloudy,0,0,0,Winter,0,30,Medium,4.0,SouthIndian,Low,Available,10.5,Cinema,147,41,Medium,25.3,35.7,No,Window,Noisy
+Saturday,15,1,Normal,27.1,61.8,Partly Cloudy,0,0,0,Summer,0,37,Medium,4.0,SouthIndian,High,Available,101.7,Office,191,10,Low,23.7,47.6,Yes,Outdoor,Noisy
+Tuesday,21,0,Hot,25.7,89.8,Cloudy,0,0,0,Monsoon,1,36,Medium,3.7,Italian,Low,Available,166.6,Cinema,111,13,Medium,24.4,53.4,Yes,Booth,Noisy
+Thursday,12,0,Rainy,22.3,79.4,Sunny,0,0,0,Winter,0,29,Medium,3.9,Cafe,High,Available,105.2,Cinema,76,11,Low,29.9,59.2,Yes,Indoor,Overloaded
+Wednesday,11,0,Hot,34.0,88.9,Partly Cloudy,0,0,0,Summer,1,25,Medium,4.2,Bakery,Medium,Available,50.1,Mall,150,48,High,28.8,54.4,No,Indoor,Noisy
+Wednesday,14,0,Normal,32.9,30.5,Partly Cloudy,1,0,0,Winter,0,30,Medium,3.8,Bakery,Medium,Limited,73.2,Office,63,51,Low,26.9,65.9,Yes,Outdoor,Moderate
+Sunday,21,1,Hot,28.3,70.1,Overcast,0,0,0,Winter,0,39,Medium,3.8,Bakery,Medium,Available,135.1,None,190,51,Medium,29.3,63.8,Yes,Outdoor,Moderate
+Monday,15,0,Normal,33.7,56.7,Partly Cloudy,0,0,0,Winter,0,33,Medium,4.9,Bakery,Low,Available,149.9,Park,96,46,High,27.0,63.5,No,Booth,Moderate
+Sunday,9,1,Rainy,31.1,84.3,Sunny,0,0,1,Summer,0,31,Medium,3.9,SouthIndian,Medium,Available,105.9,School,162,29,High,26.5,62.8,No,Window,Noisy
+Wednesday,11,0,Overcast,26.3,66.8,Sunny,0,0,0,Winter,1,33,Medium,4.4,FastFood,Low,Available,110.9,Park,80,18,High,26.6,42.0,No,Outdoor,Moderate
+Wednesday,14,0,Rainy,24.8,67.3,Sunny,1,0,0,Summer,1,36,Medium,3.7,SouthIndian,High,Available,179.0,None,170,29,High,24.7,51.6,No,Indoor,Noisy
+Saturday,17,1,Hot,26.2,87.5,Partly Cloudy,0,0,0,Summer,0,39,Medium,3.8,Chinese,Low,Available,198.8,None,94,43,Medium,25.1,55.6,Yes,Outdoor,Noisy
+Friday,13,0,Hot,30.8,71.0,Partly Cloudy,0,0,0,Monsoon,1,23,Medium,3.9,SouthIndian,Low,Limited,126.4,Park,66,47,Medium,29.4,66.3,No,Window,Comfortable
+Thursday,17,0,Rainy,24.1,49.3,Overcast,0,1,0,Summer,0,44,High,3.6,FastFood,Low,Limited,126.3,School,167,26,High,25.3,48.1,No,Booth,Noisy
+Saturday,12,1,Normal,21.2,85.0,Sunny,0,0,0,Summer,1,32,Medium,4.3,Italian,Low,Available,92.6,None,105,21,High,25.5,33.3,Yes,Booth,Noisy
+Sunday,19,1,Normal,25.6,86.7,Overcast,0,0,1,Summer,0,43,High,4.3,Chinese,High,Available,190.5,School,100,13,Medium,24.4,30.6,No,Indoor,Overloaded
+Friday,12,0,Overcast,27.5,53.2,Sunny,0,0,0,Winter,1,26,Medium,3.8,FastFood,Low,Available,162.1,Cinema,163,28,Low,24.6,43.1,No,Outdoor,Moderate
+Wednesday,8,0,Hot,33.5,62.4,Overcast,0,0,0,Summer,1,16,Low,4.4,Chinese,Medium,Available,96.4,Mall,105,34,Medium,24.1,53.2,Yes,Booth,Calm
+Monday,21,0,Hot,22.7,47.0,Cloudy,1,0,0,Monsoon,1,45,High,3.6,SouthIndian,Low,Limited,146.6,None,194,34,Medium,29.2,42.0,No,Booth,Noisy
+Monday,18,0,Rainy,32.1,84.7,Cloudy,0,0,0,Monsoon,0,40,High,4.8,Bakery,Medium,Limited,114.0,Park,199,53,Low,29.4,68.6,No,Indoor,Overloaded
+Wednesday,14,0,Hot,34.7,79.3,Sunny,0,1,0,Summer,1,34,Medium,4.3,SouthIndian,Medium,Limited,112.4,Mall,97,27,Medium,28.0,67.0,Yes,Outdoor,Noisy
+Tuesday,12,0,Rainy,34.3,52.5,Overcast,0,1,0,Monsoon,0,36,Medium,3.8,Cafe,Low,Available,153.6,Cinema,57,60,Low,24.5,62.4,Yes,Window,Moderate
+Friday,8,0,Normal,21.0,78.2,Partly Cloudy,0,0,0,Summer,0,22,Medium,4.2,Chinese,Low,Available,18.5,None,133,57,Medium,24.1,61.6,Yes,Outdoor,Noisy
+Wednesday,17,0,Rainy,27.0,56.7,Partly Cloudy,0,0,0,Monsoon,1,43,High,4.7,Italian,Low,Limited,73.2,Office,96,45,High,22.6,61.8,No,Booth,Noisy
+Monday,21,0,Rainy,24.2,32.6,Partly Cloudy,1,0,0,Summer,0,52,High,4.1,Cafe,Medium,Limited,87.4,Park,94,49,Low,29.2,38.2,No,Window,Overloaded
+Monday,18,0,Hot,32.7,83.9,Overcast,0,0,0,Winter,0,36,Medium,3.9,Chinese,Medium,Limited,129.1,School,89,37,Low,26.9,49.9,No,Outdoor,Noisy
+Friday,20,0,Normal,24.9,41.6,Cloudy,0,1,0,Winter,1,42,High,4.9,SouthIndian,High,Limited,160.4,Cinema,197,37,Medium,25.2,65.0,Yes,Window,Overloaded
+Thursday,19,0,Rainy,28.3,60.8,Partly Cloudy,0,0,0,Winter,0,41,High,4.1,Italian,Low,Limited,100.2,School,195,41,High,29.4,50.9,Yes,Indoor,Overloaded
+Wednesday,8,0,Normal,20.1,86.9,Sunny,0,0,0,Monsoon,0,22,Medium,4.2,Bakery,Medium,Available,176.9,Office,104,36,High,26.7,45.6,Yes,Window,Noisy
+Saturday,22,1,Cloudy,23.0,40.0,Cloudy,0,0,0,Monsoon,0,51,High,3.7,Cafe,Medium,Available,186.5,Mall,155,13,Low,28.0,50.9,No,Window,Noisy
+Sunday,17,1,Normal,28.5,87.4,Sunny,0,0,0,Winter,1,41,High,4.2,FastFood,Medium,Limited,183.7,Mall,93,30,Medium,23.9,33.3,No,Outdoor,Overloaded
+Wednesday,19,0,Normal,24.6,62.3,Overcast,0,0,0,Monsoon,1,37,Medium,4.9,Chinese,Low,Available,125.7,School,75,60,High,27.6,59.0,Yes,Booth,Moderate
+Thursday,15,0,Normal,29.3,30.4,Partly Cloudy,1,0,0,Winter,0,35,Medium,4.6,Italian,Medium,Limited,53.9,Cinema,159,37,High,28.9,55.5,No,Window,Moderate
+Friday,21,0,Normal,27.0,33.9,Sunny,0,0,0,Summer,0,39,Medium,4.9,Bakery,Low,Available,69.9,Mall,133,26,High,24.2,38.4,No,Indoor,Moderate
+Friday,22,0,Rainy,28.9,70.2,Overcast,0,1,0,Winter,1,51,High,3.7,Bakery,Medium,Available,122.3,Mall,199,20,High,25.6,50.1,No,Booth,Overloaded
+Monday,22,0,Normal,27.4,76.4,Partly Cloudy,0,1,0,Summer,0,48,High,4.8,Bakery,Medium,Available,95.4,Cinema,69,10,Medium,23.8,60.1,Yes,Window,Overloaded
+Thursday,12,0,Hot,31.6,81.9,Overcast,0,0,0,Summer,1,26,Medium,4.2,Bakery,Low,Available,67.1,None,127,60,High,29.0,64.0,No,Window,Noisy
+Friday,20,0,Cloudy,22.9,55.5,Sunny,1,0,0,Summer,0,39,Medium,3.6,SouthIndian,Low,Available,133.9,Cinema,110,29,Low,29.0,34.6,Yes,Indoor,Moderate
+Tuesday,20,0,Cloudy,33.5,36.2,Cloudy,0,0,0,Monsoon,0,35,Medium,3.7,Chinese,Low,Available,17.4,School,191,30,Low,24.1,33.3,No,Outdoor,Moderate
+Wednesday,11,0,Hot,31.4,62.3,Sunny,0,1,0,Monsoon,0,28,Medium,3.9,SouthIndian,Low,Available,53.6,Mall,190,37,High,26.2,39.8,Yes,Booth,Moderate
+Monday,17,0,Normal,23.7,72.2,Sunny,0,0,0,Monsoon,1,35,Medium,4.5,Cafe,Low,Limited,181.8,Cinema,86,33,Low,27.4,69.4,Yes,Window,Moderate
+Saturday,20,1,Normal,20.1,88.6,Cloudy,0,0,0,Winter,0,44,High,5.0,FastFood,Medium,Limited,58.3,School,110,41,Low,27.3,49.7,No,Outdoor,Overloaded
+Thursday,13,0,Normal,26.2,76.5,Overcast,0,0,0,Winter,0,26,Medium,4.7,Italian,Low,Available,60.4,Office,92,58,Low,26.5,51.6,Yes,Indoor,Noisy
+Monday,11,0,Normal,23.5,68.8,Overcast,1,0,0,Summer,1,24,Medium,4.6,Italian,Medium,Available,110.8,Office,133,38,Medium,23.2,41.0,Yes,Window,Moderate
+Friday,18,0,Rainy,25.2,86.4,Sunny,0,0,0,Monsoon,0,35,Medium,3.8,FastFood,High,Limited,17.7,Park,143,31,Medium,22.4,66.7,No,Booth,Overloaded
+Sunday,11,1,Rainy,32.6,74.8,Sunny,1,0,0,Summer,0,34,Medium,3.6,Italian,Medium,Full,190.9,Cinema,112,44,High,24.6,53.1,No,Booth,Noisy
+Friday,17,0,Normal,33.2,39.2,Overcast,0,0,1,Summer,0,39,Medium,3.7,Bakery,High,Available,95.4,Park,197,11,High,25.4,65.5,No,Outdoor,Noisy
+Saturday,12,1,Normal,34.3,57.6,Cloudy,0,0,0,Monsoon,0,34,Medium,4.0,Italian,Low,Available,85.4,School,188,46,Low,26.8,30.9,No,Window,Moderate
+Saturday,18,1,Cloudy,20.0,49.9,Partly Cloudy,0,0,0,Monsoon,0,42,High,4.2,SouthIndian,Low,Limited,91.7,Mall,102,38,Medium,25.8,61.8,No,Window,Noisy
+Saturday,20,1,Normal,29.9,35.3,Cloudy,0,1,0,Summer,0,48,High,4.6,SouthIndian,Medium,Limited,192.1,Cinema,131,60,High,29.5,56.3,No,Booth,Noisy
+Saturday,19,1,Normal,32.7,33.3,Sunny,1,1,0,Winter,0,54,High,4.5,Cafe,High,Full,162.5,Office,192,29,Low,29.9,64.7,No,Booth,Overloaded
+Saturday,20,1,Hot,30.9,77.7,Overcast,0,0,1,Monsoon,0,49,High,3.6,Bakery,Medium,Available,62.0,Park,128,59,Low,27.4,63.7,No,Outdoor,Overloaded
+Tuesday,18,0,Hot,21.6,63.5,Cloudy,0,0,0,Winter,0,38,Medium,4.5,Italian,Medium,Available,164.7,Office,118,30,High,26.3,52.9,Yes,Outdoor,Moderate
+Wednesday,18,0,Rainy,27.9,64.5,Sunny,0,0,0,Winter,1,37,Medium,4.8,Chinese,Medium,Available,113.8,Office,156,24,High,28.2,63.8,Yes,Outdoor,Noisy
+Thursday,21,0,Rainy,23.6,43.7,Partly Cloudy,0,0,0,Summer,1,43,High,3.6,SouthIndian,Medium,Available,89.2,None,81,22,Low,26.2,63.3,No,Outdoor,Overloaded
+Monday,10,0,Rainy,27.4,45.5,Partly Cloudy,1,0,0,Summer,0,38,Medium,3.7,FastFood,Low,Available,105.3,Office,175,60,Low,28.9,47.8,Yes,Booth,Comfortable
+Saturday,18,1,Normal,20.9,53.3,Cloudy,0,0,0,Monsoon,0,35,Medium,4.6,SouthIndian,Medium,Available,191.0,Office,168,42,Medium,24.2,53.1,No,Indoor,Moderate
+Wednesday,9,0,Normal,35.0,67.8,Sunny,0,0,0,Summer,1,21,Medium,4.3,Italian,Low,Available,161.0,Cinema,176,48,Medium,24.0,44.8,Yes,Booth,Moderate
+Friday,22,0,Rainy,30.7,56.0,Sunny,1,0,0,Winter,1,47,High,3.8,FastFood,Low,Available,131.6,Cinema,106,11,Low,22.8,35.9,Yes,Booth,Overloaded
+Wednesday,18,0,Normal,21.4,31.0,Partly Cloudy,0,0,0,Summer,0,36,Medium,4.3,SouthIndian,Medium,Available,68.2,Cinema,91,37,Low,22.1,64.5,No,Booth,Moderate
+Saturday,18,1,Overcast,33.8,70.4,Overcast,1,0,0,Summer,0,51,High,4.8,Italian,High,Limited,124.0,Office,150,18,Low,29.2,67.0,Yes,Booth,Overloaded
+Sunday,8,1,Normal,33.5,62.1,Overcast,0,0,0,Summer,0,25,Medium,4.4,Cafe,Low,Full,19.7,Mall,124,25,Medium,26.6,53.4,Yes,Window,Noisy
+Monday,12,0,Normal,27.8,68.5,Cloudy,0,0,0,Monsoon,1,25,Medium,4.9,Cafe,Low,Available,197.9,Office,113,60,Low,23.0,38.8,No,Indoor,Moderate
+Saturday,20,1,Normal,30.5,67.1,Cloudy,0,0,0,Summer,1,43,High,4.4,SouthIndian,Medium,Available,50.5,Park,55,33,High,27.5,61.6,Yes,Outdoor,Noisy
+Wednesday,15,0,Hot,25.6,75.4,Partly Cloudy,0,0,0,Monsoon,0,26,Medium,3.9,FastFood,Medium,Limited,135.6,School,196,26,High,22.9,33.6,No,Window,Noisy
+Friday,8,0,Normal,34.6,65.1,Sunny,0,1,0,Summer,0,22,Medium,4.4,FastFood,Low,Full,64.6,School,135,35,High,25.8,63.2,No,Window,Noisy
+Wednesday,17,0,Normal,21.3,72.1,Overcast,0,0,0,Monsoon,0,30,Medium,4.8,Cafe,High,Limited,32.0,School,116,34,Medium,22.3,42.5,No,Booth,Noisy
+Saturday,13,1,Cloudy,21.4,34.4,Overcast,0,1,0,Winter,0,36,Medium,3.8,Italian,Low,Available,54.6,Park,114,60,Low,24.6,50.2,No,Outdoor,Moderate
+Thursday,19,0,Hot,22.0,85.7,Overcast,0,0,1,Winter,0,40,High,3.8,Bakery,High,Available,198.0,Mall,197,18,Low,29.2,60.0,Yes,Outdoor,Overloaded
+Wednesday,10,0,Normal,32.3,36.4,Overcast,0,0,0,Monsoon,0,22,Medium,4.2,FastFood,Medium,Limited,116.5,Mall,177,50,High,26.1,60.2,No,Indoor,Moderate
+Thursday,9,0,Normal,21.1,77.2,Partly Cloudy,1,0,0,Monsoon,0,22,Medium,4.2,FastFood,High,Available,72.4,School,79,21,Medium,23.5,48.6,Yes,Window,Overloaded
+Saturday,22,1,Rainy,28.5,48.1,Overcast,0,0,0,Monsoon,1,54,High,3.8,Chinese,Low,Available,113.6,Mall,96,59,High,27.0,60.0,Yes,Outdoor,Overloaded
+Wednesday,12,0,Normal,26.5,35.2,Sunny,0,0,0,Summer,1,30,Medium,4.2,SouthIndian,Medium,Available,48.0,None,164,36,High,28.3,60.8,Yes,Booth,Moderate
+Friday,13,0,Overcast,34.5,75.9,Overcast,0,0,0,Winter,0,36,Medium,3.7,Italian,Low,Available,140.2,None,199,31,Low,25.0,56.8,No,Outdoor,Noisy
+Tuesday,19,0,Hot,23.6,56.3,Cloudy,1,0,0,Summer,1,43,High,4.5,SouthIndian,High,Available,25.1,None,162,54,Low,25.8,37.8,No,Outdoor,Overloaded
+Tuesday,14,0,Overcast,23.9,53.7,Sunny,0,0,0,Monsoon,0,33,Medium,3.6,Bakery,Low,Full,132.9,School,50,28,High,26.7,56.9,No,Booth,Noisy
+Thursday,10,0,Hot,24.7,69.6,Overcast,1,1,0,Monsoon,1,28,Medium,4.3,FastFood,Low,Full,189.8,Office,97,13,Medium,28.9,30.8,Yes,Outdoor,Noisy
+Saturday,11,1,Normal,32.0,58.4,Partly Cloudy,0,0,0,Summer,0,26,Medium,4.6,SouthIndian,Medium,Full,13.9,Cinema,196,16,High,23.0,59.8,Yes,Indoor,Noisy
+Thursday,10,0,Normal,30.5,62.0,Partly Cloudy,0,0,0,Summer,0,21,Medium,3.8,Italian,Medium,Available,34.7,Cinema,94,35,High,24.0,34.9,Yes,Booth,Moderate
+Saturday,20,1,Hot,31.0,38.2,Overcast,0,0,0,Monsoon,0,41,High,4.2,Bakery,Low,Limited,152.4,Park,162,50,Low,22.3,39.6,No,Booth,Noisy
+Saturday,16,1,Normal,24.8,53.5,Cloudy,0,0,0,Winter,0,40,High,4.2,Bakery,Low,Full,59.1,None,67,31,High,24.2,53.4,No,Booth,Overloaded
+Tuesday,22,0,Normal,24.1,77.8,Partly Cloudy,0,0,0,Monsoon,0,42,High,4.4,Bakery,Medium,Limited,134.9,Mall,91,48,Medium,25.5,30.4,Yes,Indoor,Overloaded
+Friday,13,0,Normal,21.1,62.7,Sunny,0,0,0,Winter,0,30,Medium,4.6,Chinese,High,Limited,137.6,School,64,48,Medium,24.4,68.3,No,Booth,Noisy
+Friday,16,0,Normal,23.0,87.6,Cloudy,0,0,0,Monsoon,0,33,Medium,3.6,Cafe,Low,Full,89.0,None,134,32,Low,29.4,51.3,No,Booth,Overloaded
+Wednesday,16,0,Normal,31.7,38.6,Partly Cloudy,0,0,0,Summer,0,27,Medium,4.5,Chinese,Low,Available,182.1,Mall,113,24,Medium,23.2,64.1,No,Outdoor,Moderate
+Thursday,22,0,Rainy,28.8,70.6,Cloudy,0,0,1,Monsoon,0,54,High,4.4,Chinese,Medium,Available,48.8,School,169,13,High,26.9,69.4,Yes,Outdoor,Overloaded
+Friday,12,0,Cloudy,22.3,84.9,Partly Cloudy,0,0,0,Monsoon,0,24,Medium,4.4,Chinese,Low,Limited,41.1,Office,184,10,High,26.5,42.3,No,Window,Noisy
+Sunday,21,1,Rainy,22.5,77.7,Partly Cloudy,0,0,0,Monsoon,0,49,High,3.9,Chinese,Low,Available,28.5,Park,177,54,Medium,28.6,55.9,Yes,Booth,Overloaded
+Monday,10,0,Normal,27.0,73.8,Cloudy,0,0,1,Summer,1,30,Medium,4.0,Bakery,Low,Limited,187.0,Park,78,53,Low,23.1,42.6,Yes,Outdoor,Moderate
+Wednesday,12,0,Rainy,26.1,52.4,Overcast,0,0,0,Summer,0,26,Medium,4.3,Italian,Low,Limited,68.8,Park,104,37,Low,27.9,34.9,Yes,Outdoor,Moderate
+Wednesday,22,0,Rainy,28.0,87.0,Overcast,0,0,0,Winter,0,42,High,4.9,Italian,Medium,Available,113.0,Park,175,20,Medium,24.8,58.9,No,Outdoor,Overloaded
+Tuesday,21,0,Normal,34.5,63.2,Cloudy,0,0,1,Monsoon,0,46,High,4.8,Italian,Medium,Available,114.2,None,133,21,Medium,23.1,31.7,No,Window,Noisy
+Thursday,15,0,Rainy,23.1,63.3,Partly Cloudy,0,0,0,Winter,1,30,Medium,4.8,SouthIndian,Low,Available,23.0,Mall,85,17,Low,22.9,32.4,No,Booth,Moderate
+Sunday,20,1,Rainy,24.6,37.4,Partly Cloudy,0,0,1,Monsoon,0,51,High,4.8,FastFood,Medium,Available,196.7,Cinema,198,21,Low,27.9,51.2,No,Booth,Overloaded
+Friday,12,0,Rainy,24.0,30.3,Partly Cloudy,0,1,0,Summer,1,37,Medium,4.5,SouthIndian,Medium,Limited,175.9,None,192,19,Low,25.7,63.1,Yes,Booth,Moderate
+Friday,19,0,Normal,21.8,65.8,Partly Cloudy,1,0,0,Monsoon,0,39,Medium,4.2,SouthIndian,Low,Available,172.1,Mall,182,28,Medium,28.9,61.9,No,Booth,Moderate
+Saturday,21,1,Normal,22.4,62.2,Partly Cloudy,1,0,1,Summer,0,49,High,4.4,SouthIndian,Medium,Available,10.6,Mall,112,21,Medium,28.9,64.2,Yes,Booth,Noisy
+Wednesday,13,0,Hot,30.3,86.8,Overcast,1,0,0,Monsoon,0,36,Medium,4.4,Bakery,Medium,Available,55.5,None,83,58,High,26.2,58.7,No,Outdoor,Noisy
+Thursday,20,0,Normal,32.4,48.3,Partly Cloudy,0,1,0,Summer,0,42,High,4.3,SouthIndian,Medium,Available,157.9,Office,88,38,High,26.8,31.7,Yes,Window,Noisy
+Thursday,9,0,Hot,30.5,74.9,Cloudy,1,0,0,Winter,0,25,Medium,3.9,FastFood,High,Available,160.9,Park,57,37,Low,23.5,43.1,No,Booth,Noisy
+Thursday,15,0,Normal,20.6,84.2,Partly Cloudy,0,0,0,Monsoon,1,27,Medium,3.8,FastFood,High,Available,189.4,Mall,75,40,High,26.7,65.2,No,Indoor,Overloaded
+Saturday,9,1,Rainy,32.5,50.6,Partly Cloudy,0,0,0,Winter,0,29,Medium,4.9,SouthIndian,Medium,Available,193.4,Mall,84,54,Low,27.0,42.0,No,Window,Moderate
+Tuesday,10,0,Cloudy,24.9,54.8,Overcast,1,0,0,Winter,1,31,Medium,4.8,Bakery,Medium,Available,31.5,Office,143,52,Medium,28.7,58.6,No,Indoor,Moderate
+Friday,20,0,Normal,21.4,68.8,Sunny,0,0,0,Monsoon,1,43,High,4.6,Cafe,High,Limited,95.7,Mall,151,40,High,29.7,38.3,Yes,Outdoor,Overloaded
+Thursday,11,0,Cloudy,23.7,60.8,Sunny,1,0,0,Winter,0,30,Medium,4.1,Italian,Medium,Limited,33.1,Cinema,63,29,Medium,26.4,32.8,Yes,Window,Moderate
+Sunday,21,1,Cloudy,25.3,39.7,Partly Cloudy,0,0,0,Monsoon,0,39,Medium,4.2,Bakery,Low,Full,155.5,Office,190,35,High,25.4,43.7,No,Outdoor,Noisy
+Sunday,18,1,Normal,27.7,43.2,Overcast,0,0,0,Summer,0,37,Medium,3.9,SouthIndian,Low,Limited,158.1,School,98,18,Low,28.4,57.9,No,Indoor,Moderate
+Saturday,19,1,Normal,30.2,80.1,Partly Cloudy,0,1,0,Winter,0,41,High,4.1,Chinese,High,Limited,98.4,Park,94,58,Low,29.4,61.5,Yes,Window,Overloaded
+Tuesday,18,0,Overcast,23.9,41.7,Sunny,0,0,0,Summer,1,40,High,3.8,FastFood,High,Limited,33.2,Park,59,30,High,26.9,49.8,Yes,Outdoor,Overloaded
+Saturday,14,1,Normal,34.9,40.9,Overcast,1,0,0,Winter,0,34,Medium,4.9,Chinese,Low,Available,136.9,Cinema,61,49,Medium,29.6,45.2,No,Indoor,Moderate
+Monday,21,0,Rainy,20.5,78.0,Cloudy,0,0,0,Summer,0,47,High,4.5,Cafe,Low,Available,62.9,Mall,117,14,High,24.1,46.1,Yes,Window,Overloaded
+Wednesday,20,0,Cloudy,26.1,81.1,Cloudy,0,0,1,Summer,0,47,High,4.0,SouthIndian,High,Limited,25.8,Mall,191,34,Medium,24.9,66.6,Yes,Outdoor,Overloaded
+Friday,16,0,Normal,26.8,81.1,Overcast,0,0,0,Summer,1,35,Medium,4.1,Italian,Low,Full,159.9,Park,175,11,Medium,24.4,33.2,No,Outdoor,Overloaded
+Saturday,13,1,Rainy,31.2,85.9,Cloudy,1,0,0,Summer,1,40,High,3.7,Chinese,High,Available,77.1,Office,169,16,Medium,24.1,57.6,Yes,Indoor,Overloaded
+Saturday,9,1,Rainy,23.7,89.7,Overcast,0,0,0,Summer,1,26,Medium,4.8,SouthIndian,High,Limited,83.7,None,182,15,Low,24.6,50.4,No,Outdoor,Overloaded
+Friday,20,0,Hot,26.9,57.7,Partly Cloudy,0,1,0,Summer,0,47,High,4.8,SouthIndian,Low,Limited,46.0,Park,178,21,High,25.1,54.0,No,Outdoor,Noisy
+Wednesday,14,0,Cloudy,32.1,63.0,Partly Cloudy,0,0,0,Winter,0,28,Medium,4.8,SouthIndian,Medium,Full,189.5,Mall,179,27,Low,22.7,52.7,No,Booth,Noisy
+Monday,8,0,Cloudy,22.1,47.4,Sunny,0,0,0,Monsoon,0,16,Low,4.4,FastFood,Low,Available,147.8,School,195,55,Medium,23.8,38.4,Yes,Indoor,Calm
+Sunday,12,1,Normal,20.2,34.0,Partly Cloudy,0,0,0,Summer,0,29,Medium,4.5,Chinese,High,Available,183.1,None,162,16,High,26.3,39.7,No,Indoor,Noisy
+Sunday,16,1,Cloudy,32.5,35.9,Partly Cloudy,0,0,0,Summer,0,36,Medium,3.5,Cafe,Medium,Limited,127.9,Office,139,15,Medium,25.0,54.7,Yes,Indoor,Moderate
+Tuesday,9,0,Normal,34.7,73.5,Sunny,0,0,0,Winter,0,26,Medium,3.9,Italian,Medium,Available,194.2,Mall,103,33,High,29.1,58.2,Yes,Indoor,Moderate
+Saturday,15,1,Cloudy,22.0,59.2,Overcast,1,0,0,Summer,0,44,High,3.8,FastFood,Low,Limited,155.6,Office,145,42,High,24.4,55.1,No,Window,Noisy
+Wednesday,13,0,Overcast,32.4,49.9,Partly Cloudy,0,0,0,Monsoon,0,27,Medium,4.8,FastFood,Low,Limited,198.5,Office,181,26,Low,23.5,51.8,No,Window,Moderate
+Tuesday,18,0,Normal,25.6,37.7,Partly Cloudy,1,0,0,Summer,1,44,High,4.1,Italian,Medium,Limited,40.8,School,141,44,High,28.6,69.0,Yes,Indoor,Noisy
+Sunday,19,1,Normal,29.5,69.3,Partly Cloudy,0,0,0,Winter,0,42,High,4.3,Italian,Medium,Limited,75.0,School,97,43,Low,23.3,69.1,No,Booth,Noisy
+Tuesday,18,0,Cloudy,29.7,36.0,Sunny,0,0,1,Winter,0,45,High,4.0,Italian,Medium,Available,109.2,School,110,50,High,27.4,63.7,Yes,Booth,Noisy
+Tuesday,12,0,Overcast,28.7,67.2,Overcast,0,0,0,Winter,1,27,Medium,4.5,Cafe,Medium,Available,141.0,Mall,186,34,Low,23.1,47.2,No,Outdoor,Moderate
+Monday,17,0,Cloudy,23.9,84.0,Sunny,0,0,1,Monsoon,0,42,High,4.1,Italian,Medium,Available,46.9,Park,150,13,High,28.9,44.7,No,Indoor,Overloaded
+Monday,14,0,Cloudy,32.2,49.1,Cloudy,0,0,0,Monsoon,1,31,Medium,4.7,Italian,Medium,Limited,198.3,Cinema,65,10,Medium,23.6,68.2,Yes,Window,Moderate
+Tuesday,21,0,Normal,20.3,57.0,Partly Cloudy,0,0,0,Monsoon,1,43,High,4.1,Chinese,High,Available,153.9,Cinema,60,58,Medium,25.7,48.0,Yes,Outdoor,Overloaded
+Thursday,18,0,Rainy,21.0,67.0,Cloudy,0,0,0,Summer,1,42,High,3.9,SouthIndian,Low,Available,76.8,Office,101,44,High,23.5,39.9,Yes,Indoor,Overloaded
+Friday,13,0,Normal,33.5,48.3,Overcast,1,1,0,Summer,0,41,High,3.6,Cafe,Medium,Full,74.6,Park,54,10,High,25.3,56.0,No,Window,Overloaded
+Sunday,9,1,Overcast,26.7,65.1,Partly Cloudy,0,0,0,Winter,0,33,Medium,4.2,Bakery,Low,Limited,84.0,Cinema,121,16,Medium,27.2,64.4,No,Indoor,Moderate
+Sunday,18,1,Normal,21.9,63.9,Cloudy,0,0,0,Winter,1,37,Medium,3.8,Italian,Medium,Available,153.8,Mall,127,40,Low,22.1,62.8,Yes,Outdoor,Comfortable
+Monday,11,0,Overcast,33.6,51.9,Cloudy,0,0,1,Monsoon,0,33,Medium,4.5,FastFood,Low,Available,29.7,Park,110,47,Low,23.9,39.6,No,Window,Moderate
+Thursday,15,0,Rainy,32.4,49.0,Cloudy,0,0,0,Monsoon,0,35,Medium,3.6,FastFood,Low,Limited,107.4,None,149,43,Low,25.6,49.5,Yes,Indoor,Moderate
+Thursday,8,0,Normal,25.0,55.7,Partly Cloudy,0,1,0,Summer,0,22,Medium,4.2,Italian,High,Available,164.2,Park,70,35,Medium,26.6,37.4,No,Indoor,Noisy
+Saturday,17,1,Cloudy,20.6,30.3,Partly Cloudy,0,0,0,Summer,0,41,High,3.8,Chinese,Low,Available,50.3,Park,196,40,Medium,26.0,43.9,Yes,Outdoor,Noisy
+Friday,22,0,Cloudy,26.9,44.8,Partly Cloudy,0,0,0,Summer,1,40,High,4.8,SouthIndian,Medium,Available,46.1,Cinema,196,55,Medium,27.5,65.1,Yes,Booth,Noisy
+Tuesday,16,0,Normal,22.5,43.3,Partly Cloudy,1,0,0,Monsoon,1,33,Medium,4.3,Chinese,Medium,Full,131.1,None,132,41,Medium,28.4,34.1,No,Window,Noisy
+Saturday,13,1,Normal,28.6,74.4,Sunny,0,1,0,Winter,0,35,Medium,4.7,Cafe,Low,Limited,157.0,Office,78,45,Low,25.2,41.6,Yes,Outdoor,Moderate
+Saturday,22,1,Normal,32.3,56.2,Cloudy,0,0,0,Monsoon,0,46,High,3.7,Bakery,Low,Available,152.1,Cinema,167,18,Medium,28.6,45.7,No,Booth,Noisy
+Thursday,17,0,Normal,25.9,80.4,Sunny,0,0,1,Winter,0,39,Medium,5.0,Cafe,High,Limited,22.7,Office,67,22,Medium,28.6,57.2,Yes,Outdoor,Overloaded
+Thursday,11,0,Normal,20.4,38.1,Overcast,0,0,0,Winter,1,28,Medium,4.4,Chinese,Low,Limited,198.7,Cinema,138,15,Low,22.3,31.7,No,Indoor,Moderate
+Thursday,18,0,Normal,30.2,74.0,Cloudy,0,0,0,Monsoon,0,34,Medium,3.7,Italian,Medium,Limited,53.1,School,91,21,Low,28.3,35.4,No,Booth,Moderate
+Tuesday,9,0,Normal,22.6,82.7,Partly Cloudy,1,0,0,Winter,0,29,Medium,4.3,Chinese,Low,Available,134.8,School,103,46,Low,29.9,50.3,No,Window,Noisy
+Tuesday,18,0,Hot,23.2,57.8,Partly Cloudy,0,0,0,Summer,1,30,Medium,4.9,SouthIndian,Medium,Full,183.4,None,196,48,High,27.2,39.6,No,Booth,Noisy
+Saturday,21,1,Hot,22.8,51.5,Partly Cloudy,0,0,0,Summer,0,43,High,3.5,Italian,Medium,Available,103.9,Mall,73,32,Medium,27.7,49.4,Yes,Window,Noisy
+Saturday,15,1,Rainy,24.2,48.3,Sunny,1,0,0,Summer,0,45,High,4.1,Italian,High,Available,156.5,Mall,55,38,Low,29.2,48.3,No,Outdoor,Overloaded
+Monday,22,0,Hot,33.3,63.1,Partly Cloudy,1,0,0,Winter,0,41,High,4.7,FastFood,Medium,Available,83.6,Office,88,60,Low,26.6,64.2,Yes,Outdoor,Noisy
+Sunday,19,1,Normal,20.5,40.5,Cloudy,0,0,0,Winter,0,43,High,4.0,FastFood,Medium,Full,132.1,School,197,10,Medium,24.2,51.8,No,Window,Overloaded
+Sunday,12,1,Cloudy,29.3,66.4,Cloudy,0,1,0,Winter,0,34,Medium,4.0,SouthIndian,Low,Limited,47.8,Cinema,92,27,Low,28.0,46.9,No,Indoor,Moderate
+Sunday,18,1,Cloudy,23.7,80.5,Overcast,0,0,0,Monsoon,0,40,High,4.6,Bakery,Medium,Available,18.0,Mall,200,38,Medium,29.7,60.6,No,Window,Overloaded
+Monday,14,0,Hot,24.4,81.5,Cloudy,0,0,0,Winter,1,30,Medium,3.6,Chinese,High,Available,96.1,Cinema,139,18,Medium,23.2,45.1,Yes,Outdoor,Overloaded
+Sunday,9,1,Rainy,26.2,38.4,Partly Cloudy,0,0,0,Monsoon,0,33,Medium,3.6,FastFood,High,Limited,10.7,Park,56,55,Medium,28.4,30.2,No,Indoor,Noisy
+Thursday,10,0,Normal,28.3,62.3,Cloudy,0,0,0,Winter,1,22,Medium,3.8,FastFood,Low,Limited,77.5,Office,73,36,Low,22.7,66.6,No,Outdoor,Moderate
+Tuesday,8,0,Rainy,20.9,45.8,Cloudy,0,0,0,Summer,0,28,Medium,4.3,SouthIndian,Low,Available,197.7,School,127,60,Medium,27.3,41.8,No,Outdoor,Moderate
+Tuesday,8,0,Normal,24.2,83.2,Sunny,0,0,0,Summer,0,15,Low,5.0,Chinese,Medium,Full,187.4,School,100,26,Low,25.9,50.8,No,Window,Noisy
+Sunday,12,1,Normal,22.1,34.6,Cloudy,0,1,0,Monsoon,0,40,High,4.8,FastFood,Medium,Full,133.3,Office,172,20,Medium,29.1,45.1,No,Outdoor,Overloaded
+Saturday,15,1,Normal,23.0,34.5,Overcast,0,0,0,Winter,0,35,Medium,4.1,Bakery,Low,Available,89.0,Park,120,50,Low,22.5,40.2,No,Indoor,Moderate
+Friday,9,0,Normal,33.3,31.1,Cloudy,0,0,0,Summer,0,23,Medium,4.6,FastFood,Medium,Available,169.1,None,180,37,Medium,24.1,32.7,Yes,Booth,Moderate
+Thursday,9,0,Normal,27.9,60.4,Sunny,0,0,1,Summer,0,31,Medium,3.9,Bakery,High,Limited,194.2,Cinema,99,14,High,29.9,58.2,No,Booth,Noisy
+Monday,11,0,Normal,29.5,31.9,Sunny,0,0,0,Summer,1,29,Medium,3.7,Cafe,High,Limited,173.8,None,64,19,Medium,24.4,46.5,Yes,Booth,Noisy
+Friday,22,0,Hot,32.0,64.9,Cloudy,0,0,0,Monsoon,0,39,Medium,4.1,Cafe,Low,Limited,26.2,Cinema,100,56,Low,28.7,31.4,Yes,Indoor,Moderate
+Tuesday,16,0,Overcast,31.9,54.3,Cloudy,0,0,0,Monsoon,0,41,High,4.1,FastFood,Medium,Available,170.2,Office,51,17,High,22.5,34.2,Yes,Window,Noisy
+Sunday,10,1,Normal,34.8,65.4,Sunny,0,0,0,Summer,0,27,Medium,4.3,Italian,Medium,Full,123.0,Park,197,20,Low,23.8,70.0,No,Booth,Noisy
+Monday,14,0,Hot,31.7,84.4,Partly Cloudy,0,1,0,Summer,0,39,Medium,3.9,SouthIndian,Low,Limited,116.7,Mall,156,13,High,28.4,48.5,Yes,Outdoor,Noisy
+Thursday,15,0,Normal,25.4,63.1,Cloudy,1,0,0,Winter,0,30,Medium,3.5,SouthIndian,Low,Limited,32.1,Office,170,23,Low,28.7,68.0,Yes,Indoor,Moderate
+Tuesday,13,0,Rainy,28.2,62.6,Sunny,0,0,0,Monsoon,1,32,Medium,4.8,FastFood,Medium,Available,35.8,Office,71,43,High,29.6,55.4,No,Window,Moderate
+Sunday,18,1,Rainy,27.3,89.9,Cloudy,0,0,0,Monsoon,1,49,High,4.6,Chinese,Medium,Limited,103.9,None,103,26,High,23.3,38.2,Yes,Booth,Overloaded
+Thursday,19,0,Normal,33.7,58.3,Sunny,0,0,0,Monsoon,0,41,High,4.3,Italian,Low,Limited,199.3,School,177,24,High,28.5,51.4,No,Outdoor,Noisy
+Saturday,19,1,Normal,27.5,76.5,Partly Cloudy,0,1,0,Summer,0,49,High,4.3,SouthIndian,Low,Full,147.9,Cinema,73,57,Low,26.9,62.7,Yes,Indoor,Overloaded
+Friday,16,0,Normal,25.8,51.9,Overcast,0,1,0,Summer,1,32,Medium,4.7,FastFood,High,Available,74.7,None,79,58,Low,24.2,66.8,No,Indoor,Noisy
+Friday,14,0,Normal,22.7,43.4,Cloudy,0,0,0,Monsoon,0,26,Medium,3.6,FastFood,Medium,Available,128.7,Mall,87,40,Low,25.1,46.4,Yes,Booth,Moderate
+Friday,17,0,Rainy,24.8,76.3,Cloudy,0,0,0,Summer,0,43,High,3.9,SouthIndian,Medium,Available,16.2,Mall,151,31,Medium,23.4,40.6,Yes,Window,Overloaded
+Wednesday,19,0,Cloudy,23.3,74.0,Overcast,1,0,0,Summer,1,42,High,3.5,Italian,Medium,Available,168.7,Mall,62,24,Medium,28.0,69.0,Yes,Outdoor,Noisy
+Sunday,19,1,Hot,33.4,47.5,Overcast,0,0,1,Winter,1,41,High,4.4,Chinese,Medium,Available,70.2,None,88,37,Low,27.8,68.5,Yes,Indoor,Noisy
+Thursday,10,0,Normal,31.7,57.9,Cloudy,0,0,0,Summer,0,20,Medium,4.5,Cafe,Low,Full,69.3,School,88,32,Low,28.0,31.5,Yes,Booth,Noisy
+Friday,22,0,Normal,20.9,60.6,Partly Cloudy,0,0,0,Winter,0,45,High,3.6,Italian,Medium,Limited,166.2,Park,79,54,Low,28.1,56.8,Yes,Booth,Noisy
+Sunday,14,1,Cloudy,34.9,53.8,Cloudy,0,0,0,Monsoon,1,33,Medium,4.6,Bakery,Medium,Limited,65.8,None,103,47,High,23.6,51.9,No,Booth,Moderate
+Saturday,18,1,Normal,27.9,60.1,Overcast,1,0,0,Monsoon,1,44,High,4.7,FastFood,Low,Limited,173.1,None,90,56,Low,23.1,35.4,Yes,Indoor,Noisy
+Friday,9,0,Rainy,31.5,69.8,Sunny,1,0,0,Winter,1,28,Medium,4.1,FastFood,Low,Available,20.4,Mall,80,34,High,30.0,69.2,Yes,Booth,Comfortable
+Thursday,21,0,Normal,35.0,80.9,Partly Cloudy,0,0,0,Summer,0,44,High,4.1,SouthIndian,Medium,Available,67.0,Cinema,167,58,Low,27.0,30.3,Yes,Window,Overloaded
+Sunday,15,1,Normal,34.6,78.4,Cloudy,0,0,0,Monsoon,0,30,Medium,4.7,Chinese,Low,Limited,193.2,Mall,154,44,High,23.9,35.7,No,Booth,Noisy
+Friday,17,0,Normal,21.5,66.8,Cloudy,0,0,0,Summer,1,31,Medium,4.8,Cafe,Low,Available,36.0,Cinema,169,13,Medium,23.1,46.8,No,Outdoor,Moderate
+Thursday,14,0,Hot,29.9,40.0,Sunny,1,0,0,Monsoon,1,30,Medium,4.8,Cafe,Low,Full,59.1,School,85,39,High,23.1,46.9,No,Window,Noisy
+Tuesday,12,0,Rainy,24.0,60.8,Sunny,0,0,0,Summer,1,31,Medium,3.6,Chinese,High,Available,82.1,Cinema,63,45,Low,25.2,67.3,No,Indoor,Noisy
+Saturday,8,1,Normal,32.2,56.8,Partly Cloudy,0,0,0,Summer,0,28,Medium,4.3,Cafe,Medium,Limited,39.1,Cinema,79,32,Medium,29.9,50.4,Yes,Window,Moderate
+Sunday,19,1,Rainy,33.8,40.7,Partly Cloudy,0,0,0,Summer,1,50,High,4.6,Chinese,High,Available,74.6,None,72,50,Low,23.7,34.1,No,Outdoor,Overloaded
+Thursday,13,0,Normal,20.8,86.9,Cloudy,1,0,1,Winter,0,34,Medium,4.6,Chinese,Low,Available,88.3,Mall,79,20,Low,29.0,55.4,Yes,Window,Noisy
+Thursday,11,0,Rainy,34.9,69.6,Cloudy,0,0,0,Winter,0,29,Medium,3.5,SouthIndian,Low,Available,24.1,School,78,33,High,23.8,57.1,No,Booth,Moderate
+Wednesday,15,0,Rainy,23.3,88.1,Overcast,0,0,0,Monsoon,1,38,Medium,4.6,Italian,Medium,Limited,110.9,School,147,26,High,23.8,48.1,Yes,Window,Noisy
+Sunday,15,1,Normal,32.7,74.2,Cloudy,0,0,0,Summer,1,34,Medium,4.3,SouthIndian,Low,Available,24.3,Cinema,153,42,High,24.0,51.2,Yes,Indoor,Moderate
+Tuesday,11,0,Normal,32.0,59.0,Sunny,0,0,0,Winter,0,28,Medium,4.9,SouthIndian,Low,Limited,68.6,Office,76,21,Medium,25.7,53.2,No,Outdoor,Moderate
+Sunday,21,1,Hot,25.3,51.5,Partly Cloudy,1,0,0,Winter,0,44,High,3.6,Cafe,Low,Available,67.0,Mall,83,29,High,22.5,53.7,Yes,Window,Noisy
+Saturday,13,1,Cloudy,32.6,43.1,Cloudy,0,0,0,Summer,1,34,Medium,4.4,SouthIndian,Low,Limited,14.3,None,96,18,Medium,27.5,61.8,No,Outdoor,Moderate
+Wednesday,9,0,Normal,32.7,59.3,Partly Cloudy,0,0,0,Summer,0,19,Low,4.1,Bakery,Medium,Limited,196.4,Park,60,17,Low,27.4,67.1,Yes,Indoor,Calm
+Sunday,18,1,Normal,22.6,33.8,Cloudy,0,0,0,Summer,1,39,Medium,4.7,Chinese,High,Available,72.3,School,80,52,Low,25.4,53.0,No,Outdoor,Noisy
+Sunday,13,1,Hot,28.9,52.2,Sunny,0,0,0,Summer,0,29,Medium,4.8,Italian,Low,Available,145.2,Cinema,58,45,Low,25.7,53.0,No,Booth,Moderate
+Friday,16,0,Normal,32.1,32.6,Overcast,0,0,0,Monsoon,0,27,Medium,4.7,Cafe,Low,Limited,175.2,Office,164,54,Low,29.5,31.8,No,Window,Moderate
+Thursday,22,0,Rainy,30.5,42.4,Overcast,0,0,0,Winter,1,44,High,4.1,Chinese,Low,Available,187.0,Park,84,58,Low,22.1,49.8,Yes,Booth,Overloaded
+Saturday,18,1,Normal,33.7,84.5,Partly Cloudy,1,0,0,Monsoon,1,41,High,4.6,Italian,Low,Available,124.6,Cinema,137,24,Medium,28.8,40.4,Yes,Indoor,Overloaded
+Tuesday,13,0,Rainy,20.4,51.7,Sunny,0,0,0,Monsoon,0,36,Medium,4.0,Chinese,High,Available,171.8,None,185,42,Medium,23.1,60.2,No,Indoor,Noisy
+Wednesday,8,0,Rainy,30.5,58.2,Sunny,0,1,0,Monsoon,0,32,Medium,4.2,Italian,Medium,Available,78.9,Cinema,162,30,Medium,25.8,66.7,Yes,Indoor,Moderate
+Thursday,14,0,Rainy,34.2,57.3,Sunny,0,0,0,Winter,0,39,Medium,3.6,Chinese,Low,Full,28.1,Cinema,113,26,Low,26.9,64.4,Yes,Booth,Noisy
+Monday,12,0,Normal,28.5,32.8,Cloudy,0,0,0,Monsoon,0,28,Medium,5.0,Cafe,Medium,Available,60.2,None,100,33,Low,28.0,55.1,No,Booth,Moderate
+Saturday,11,1,Normal,28.4,88.8,Overcast,0,0,0,Winter,0,31,Medium,4.4,SouthIndian,Medium,Available,73.4,Park,104,58,High,24.5,57.7,Yes,Booth,Noisy
+Wednesday,9,0,Rainy,22.8,49.4,Sunny,0,0,1,Monsoon,1,30,Medium,4.1,SouthIndian,Low,Limited,178.8,Cinema,59,27,Low,29.2,30.1,Yes,Outdoor,Moderate
+Tuesday,21,0,Normal,34.8,72.2,Cloudy,0,0,1,Winter,0,47,High,4.1,Chinese,Medium,Available,44.7,Cinema,125,13,Medium,22.5,36.9,Yes,Outdoor,Noisy
+Wednesday,21,0,Normal,33.2,61.3,Partly Cloudy,0,0,1,Monsoon,0,45,High,3.8,Cafe,High,Available,50.3,Park,196,12,High,24.2,50.2,Yes,Indoor,Overloaded
+Wednesday,15,0,Rainy,27.4,79.8,Cloudy,0,1,0,Monsoon,1,42,High,4.1,Bakery,Low,Limited,162.1,None,99,53,Medium,25.0,60.5,Yes,Booth,Overloaded
+Wednesday,9,0,Normal,24.6,80.1,Cloudy,0,0,0,Monsoon,1,21,Medium,3.9,SouthIndian,Low,Available,54.0,School,160,37,Medium,22.4,41.1,Yes,Window,Noisy
+Friday,18,0,Rainy,27.4,45.8,Sunny,1,0,0,Monsoon,0,49,High,3.9,Chinese,Low,Available,62.5,Cinema,147,26,Medium,29.5,54.5,No,Indoor,Overloaded
+Monday,11,0,Hot,21.4,62.7,Partly Cloudy,1,1,0,Summer,0,34,Medium,4.6,Cafe,High,Available,169.9,None,136,29,High,23.4,48.2,Yes,Outdoor,Noisy
+Tuesday,18,0,Normal,23.5,40.4,Overcast,0,0,0,Monsoon,0,31,Medium,4.3,Bakery,Medium,Available,114.5,Cinema,103,51,High,23.8,40.8,Yes,Booth,Comfortable
+Tuesday,18,0,Rainy,23.3,69.2,Partly Cloudy,0,0,0,Monsoon,0,45,High,4.1,SouthIndian,Low,Limited,112.8,Cinema,187,33,High,26.7,42.8,No,Indoor,Overloaded
+Tuesday,17,0,Normal,27.9,51.9,Partly Cloudy,1,0,1,Winter,1,42,High,5.0,Chinese,Low,Available,173.3,None,53,28,Medium,28.2,68.4,Yes,Outdoor,Noisy
+Thursday,8,0,Normal,20.0,69.2,Partly Cloudy,0,0,0,Monsoon,0,16,Low,4.6,Italian,Low,Available,164.2,None,95,51,Medium,28.5,34.5,No,Indoor,Calm
+Saturday,8,1,Normal,33.8,80.1,Partly Cloudy,0,0,0,Winter,0,28,Medium,4.9,Chinese,High,Full,114.3,None,166,39,High,23.4,58.3,No,Outdoor,Overloaded
+Tuesday,20,0,Hot,23.0,61.0,Sunny,0,1,0,Winter,0,44,High,4.6,Chinese,Medium,Available,119.7,None,127,31,Low,22.2,63.2,No,Window,Noisy
+Saturday,13,1,Hot,22.0,52.6,Cloudy,0,0,0,Winter,1,31,Medium,4.6,SouthIndian,High,Available,141.2,Park,183,57,Low,24.2,60.7,Yes,Indoor,Noisy
+Tuesday,11,0,Normal,30.8,84.4,Overcast,1,0,0,Monsoon,0,34,Medium,4.2,SouthIndian,High,Available,66.5,Mall,76,19,Low,29.3,51.5,Yes,Outdoor,Overloaded
+Monday,10,0,Hot,33.8,61.0,Overcast,1,0,1,Summer,1,36,Medium,4.4,Cafe,Low,Limited,114.9,Cinema,88,22,High,28.3,65.7,No,Booth,Moderate
+Thursday,20,0,Hot,32.7,51.2,Cloudy,0,0,0,Monsoon,0,35,Medium,3.5,Cafe,Medium,Available,66.5,School,122,14,High,22.4,35.4,Yes,Outdoor,Moderate
+Thursday,17,0,Rainy,24.9,82.1,Overcast,0,0,0,Winter,0,36,Medium,4.7,FastFood,Low,Available,180.1,Office,95,17,High,26.3,49.6,Yes,Outdoor,Noisy
+Wednesday,11,0,Normal,20.3,59.2,Partly Cloudy,0,0,0,Winter,1,19,Low,4.2,Bakery,Low,Available,152.9,Cinema,75,18,Medium,25.7,48.1,No,Booth,Calm
+Friday,9,0,Normal,28.8,58.9,Sunny,1,0,0,Winter,0,29,Medium,4.2,Italian,Low,Available,17.7,School,73,22,Medium,29.6,65.5,No,Indoor,Moderate
+Thursday,21,0,Normal,33.8,66.3,Partly Cloudy,1,0,0,Winter,1,47,High,3.7,Cafe,High,Available,184.6,Cinema,122,19,Low,28.4,30.9,Yes,Outdoor,Overloaded
+Thursday,20,0,Overcast,31.6,60.1,Partly Cloudy,0,0,0,Summer,0,40,High,4.0,Chinese,High,Available,89.8,Park,55,55,Medium,28.5,68.7,Yes,Window,Overloaded
+Monday,16,0,Cloudy,32.7,38.3,Sunny,1,0,1,Summer,1,46,High,3.7,FastFood,Medium,Limited,135.0,None,192,38,Low,28.4,62.2,Yes,Outdoor,Noisy
+Tuesday,11,0,Normal,32.9,39.9,Overcast,1,0,0,Monsoon,1,29,Medium,4.4,Bakery,Medium,Available,61.1,Cinema,151,28,Low,29.3,68.4,No,Window,Moderate
+Sunday,17,1,Cloudy,34.4,34.6,Sunny,0,1,0,Summer,0,48,High,3.6,SouthIndian,High,Available,19.9,Office,184,59,Low,22.1,69.4,Yes,Window,Overloaded
+Thursday,11,0,Normal,25.6,68.6,Cloudy,1,0,0,Winter,1,32,Medium,4.3,Chinese,Medium,Available,23.1,Office,85,44,Medium,25.6,61.6,No,Window,Moderate
+Thursday,21,0,Normal,34.1,42.7,Cloudy,0,0,0,Summer,0,40,High,3.8,Bakery,High,Available,190.3,School,136,49,High,23.3,60.3,Yes,Booth,Overloaded
+Sunday,21,1,Hot,25.9,41.2,Cloudy,0,0,0,Monsoon,0,47,High,4.9,FastFood,Low,Available,121.8,Cinema,52,58,Low,23.3,63.6,No,Window,Noisy
+Friday,11,0,Hot,21.5,51.7,Sunny,0,1,0,Monsoon,1,28,Medium,4.4,FastFood,Low,Limited,30.3,Mall,197,57,Low,28.4,62.8,Yes,Indoor,Moderate
+Saturday,13,1,Overcast,24.5,73.0,Cloudy,0,0,0,Summer,0,33,Medium,3.6,SouthIndian,Medium,Limited,100.6,School,133,56,High,24.3,61.0,Yes,Window,Moderate
+Monday,20,0,Rainy,22.0,37.1,Partly Cloudy,0,0,0,Summer,1,47,High,4.1,FastFood,Low,Available,99.2,Mall,84,41,Low,29.0,60.6,No,Booth,Overloaded
+Sunday,10,1,Normal,22.4,43.8,Partly Cloudy,1,0,0,Winter,0,34,Medium,4.8,Bakery,Low,Available,78.6,Cinema,88,53,Medium,22.5,31.4,Yes,Booth,Moderate
+Sunday,20,1,Overcast,34.2,78.7,Cloudy,1,0,0,Winter,0,50,High,4.3,Cafe,Medium,Available,113.0,School,123,49,Medium,28.5,42.2,Yes,Indoor,Overloaded
+Friday,22,0,Normal,31.9,73.2,Cloudy,0,0,0,Winter,0,39,Medium,4.8,Bakery,High,Limited,60.2,Cinema,146,56,Medium,27.8,38.3,Yes,Booth,Noisy
+Thursday,17,0,Cloudy,34.4,58.9,Cloudy,1,0,0,Monsoon,0,43,High,4.6,Chinese,High,Limited,122.3,Cinema,82,15,High,29.3,50.2,No,Booth,Overloaded
+Thursday,8,0,Cloudy,29.7,58.7,Cloudy,0,0,0,Monsoon,0,18,Low,3.6,Chinese,Medium,Available,116.6,Office,54,38,Low,24.1,50.9,No,Outdoor,Calm
+Monday,12,0,Normal,22.6,42.6,Sunny,0,1,1,Summer,1,33,Medium,4.2,Cafe,Low,Full,160.9,Office,99,38,Low,29.1,32.6,Yes,Outdoor,Noisy
+Wednesday,21,0,Rainy,34.5,39.7,Sunny,0,0,0,Winter,0,45,High,4.1,SouthIndian,Low,Available,25.6,Office,143,59,Medium,25.7,49.7,No,Window,Overloaded
+Wednesday,10,0,Rainy,30.4,80.0,Partly Cloudy,1,0,0,Summer,1,28,Medium,4.6,Chinese,Low,Available,42.0,Mall,139,35,Medium,28.2,51.9,No,Indoor,Noisy
+Sunday,10,1,Rainy,33.9,31.3,Overcast,0,0,0,Summer,1,38,Medium,4.8,SouthIndian,Low,Available,133.2,Office,147,58,Medium,22.8,47.7,No,Indoor,Moderate
+Thursday,16,0,Rainy,31.8,32.6,Partly Cloudy,0,0,0,Monsoon,0,37,Medium,3.6,FastFood,Medium,Available,118.1,Office,66,23,Low,29.3,59.9,Yes,Booth,Moderate
+Sunday,12,1,Normal,23.3,64.4,Sunny,0,0,1,Winter,0,39,Medium,4.5,Bakery,High,Full,174.7,School,50,25,High,27.1,68.5,Yes,Booth,Overloaded
+Sunday,20,1,Normal,28.8,39.7,Partly Cloudy,0,0,0,Summer,0,44,High,4.4,Bakery,Low,Available,129.9,Office,104,52,High,27.5,38.9,No,Window,Comfortable
+Thursday,10,0,Rainy,22.6,67.8,Partly Cloudy,0,0,0,Monsoon,1,32,Medium,4.8,Bakery,Medium,Available,13.2,Park,195,28,Low,24.6,39.4,Yes,Indoor,Moderate
+Friday,9,0,Rainy,24.6,32.4,Sunny,0,0,1,Winter,0,30,Medium,3.9,Chinese,High,Available,51.5,Park,138,51,Low,24.1,46.2,No,Indoor,Noisy
+Saturday,18,1,Hot,30.3,64.3,Overcast,0,0,0,Winter,1,37,Medium,3.8,SouthIndian,High,Limited,144.6,Cinema,82,51,Medium,22.8,60.4,No,Booth,Noisy
+Saturday,21,1,Normal,21.9,33.4,Sunny,0,1,0,Winter,0,51,High,4.3,Bakery,High,Limited,42.2,Cinema,199,53,Low,28.3,48.0,No,Indoor,Overloaded
+Friday,8,0,Normal,30.9,45.5,Partly Cloudy,0,0,0,Monsoon,0,21,Medium,4.2,SouthIndian,High,Full,191.9,Mall,177,57,Low,26.8,63.2,Yes,Window,Overloaded
+Sunday,10,1,Normal,34.2,40.8,Sunny,1,0,0,Winter,0,35,Medium,4.2,Chinese,Medium,Available,174.1,Park,54,20,Medium,28.9,33.8,Yes,Indoor,Moderate
+Friday,8,0,Normal,34.2,87.5,Overcast,1,0,0,Summer,0,24,Medium,4.9,Bakery,Low,Limited,106.8,Cinema,74,41,Low,29.4,58.7,Yes,Booth,Noisy
+Tuesday,13,0,Rainy,25.9,66.0,Overcast,0,0,0,Monsoon,0,35,Medium,3.9,Italian,Low,Available,198.0,None,108,20,Low,22.4,54.2,Yes,Outdoor,Moderate
+Thursday,20,0,Rainy,34.9,63.8,Sunny,0,0,1,Winter,1,46,High,4.2,Bakery,Low,Full,11.0,Mall,166,11,High,24.9,54.9,No,Outdoor,Overloaded
+Tuesday,20,0,Rainy,34.5,31.1,Sunny,0,0,0,Monsoon,0,39,Medium,4.2,Italian,Medium,Available,109.4,Cinema,80,22,High,26.3,34.5,No,Window,Noisy
+Wednesday,11,0,Hot,20.5,73.2,Sunny,0,0,0,Monsoon,0,26,Medium,4.3,Cafe,Low,Available,61.9,Park,86,45,Low,26.3,68.1,No,Indoor,Moderate
+Thursday,17,0,Normal,29.0,69.7,Cloudy,0,0,0,Monsoon,0,31,Medium,4.6,FastFood,Low,Limited,161.0,Office,120,44,Low,29.4,37.7,Yes,Window,Moderate
+Thursday,13,0,Normal,33.8,47.0,Partly Cloudy,0,0,0,Winter,0,22,Medium,4.6,FastFood,Low,Limited,157.5,Park,98,34,Low,23.2,63.0,Yes,Window,Moderate
+Monday,8,0,Normal,34.5,35.1,Partly Cloudy,1,0,0,Monsoon,0,26,Medium,4.9,Italian,Medium,Available,45.6,None,158,53,Medium,27.4,64.9,No,Booth,Moderate
+Thursday,10,0,Cloudy,23.3,57.0,Overcast,1,0,0,Monsoon,1,29,Medium,4.1,Bakery,Low,Available,114.0,Mall,141,20,High,27.0,68.8,No,Outdoor,Moderate
+Wednesday,12,0,Hot,28.5,89.6,Partly Cloudy,0,0,0,Monsoon,0,23,Medium,3.6,Cafe,Low,Available,21.3,Park,190,14,Low,24.7,37.5,Yes,Window,Noisy
+Saturday,8,1,Normal,34.1,82.0,Cloudy,0,1,0,Summer,0,34,Medium,3.7,FastFood,Low,Available,50.1,Park,133,40,Low,29.0,35.1,Yes,Indoor,Noisy
+Saturday,10,1,Hot,22.1,40.2,Overcast,1,0,0,Summer,0,31,Medium,3.5,Bakery,High,Limited,136.7,Mall,188,32,High,22.5,35.3,Yes,Indoor,Comfortable
+Sunday,19,1,Normal,31.2,79.8,Sunny,0,0,0,Winter,0,46,High,4.3,Italian,High,Limited,46.6,None,143,55,High,23.2,40.6,Yes,Window,Overloaded
+Thursday,14,0,Hot,23.6,66.1,Sunny,0,0,0,Winter,0,34,Medium,3.7,Bakery,Medium,Full,110.3,Park,149,10,High,26.8,36.7,No,Indoor,Noisy
+Saturday,16,1,Cloudy,34.7,77.7,Overcast,0,0,0,Winter,1,42,High,3.8,Chinese,High,Available,75.4,Office,128,51,High,28.4,31.6,Yes,Window,Overloaded
+Tuesday,9,0,Normal,22.5,79.2,Overcast,0,0,1,Monsoon,0,22,Medium,4.8,Bakery,Medium,Available,86.9,None,83,44,Low,26.7,40.5,No,Window,Noisy
+Sunday,19,1,Normal,33.3,40.9,Overcast,0,0,0,Winter,0,41,High,3.7,Bakery,Medium,Available,122.2,Office,104,13,Low,27.5,56.2,Yes,Indoor,Noisy
+Thursday,9,0,Normal,21.3,69.6,Cloudy,0,0,0,Summer,1,17,Low,4.8,Chinese,Low,Limited,183.0,School,56,14,Medium,25.1,36.8,Yes,Indoor,Calm
+Tuesday,15,0,Normal,30.6,45.9,Sunny,1,0,1,Monsoon,0,43,High,4.2,FastFood,Medium,Available,64.7,Cinema,116,48,High,28.1,64.8,Yes,Window,Noisy
+Friday,15,0,Rainy,29.6,73.5,Cloudy,0,0,0,Monsoon,0,31,Medium,4.4,Italian,Medium,Full,57.3,None,69,60,Low,24.3,65.8,Yes,Booth,Noisy
+Friday,20,0,Hot,33.3,50.6,Sunny,0,0,0,Winter,1,40,High,4.3,Chinese,Low,Limited,172.7,Office,89,34,High,24.0,54.4,No,Window,Noisy
+Monday,13,0,Normal,26.7,57.2,Overcast,0,0,0,Monsoon,0,30,Medium,3.7,Bakery,Medium,Available,33.7,Cinema,56,25,High,26.1,59.0,Yes,Window,Moderate
+Thursday,16,0,Hot,24.0,65.4,Cloudy,0,1,0,Monsoon,0,40,High,4.8,SouthIndian,Medium,Available,89.8,Cinema,86,12,Medium,27.9,44.2,No,Booth,Noisy
+Friday,17,0,Normal,23.7,43.8,Partly Cloudy,1,0,0,Summer,0,35,Medium,4.1,Chinese,Medium,Limited,133.2,Office,173,26,High,29.6,48.5,Yes,Window,Moderate
+Friday,9,0,Normal,21.0,53.1,Sunny,0,1,0,Summer,0,25,Medium,3.5,SouthIndian,Low,Available,104.6,School,63,31,Low,25.9,30.3,No,Outdoor,Moderate
+Saturday,15,1,Normal,23.8,36.5,Overcast,0,0,0,Monsoon,0,32,Medium,3.7,Chinese,Medium,Full,195.8,None,158,55,High,27.0,60.3,No,Indoor,Noisy
+Monday,16,0,Cloudy,21.6,42.1,Overcast,0,1,0,Winter,1,38,Medium,5.0,Bakery,Low,Available,87.1,None,81,50,Medium,25.6,32.7,Yes,Booth,Moderate
+Monday,11,0,Normal,20.0,81.6,Cloudy,0,0,0,Summer,1,24,Medium,4.6,FastFood,Low,Available,46.3,Cinema,142,22,High,28.2,32.3,Yes,Indoor,Noisy
+Saturday,17,1,Rainy,25.8,60.3,Partly Cloudy,0,0,0,Monsoon,1,43,High,4.8,Chinese,Low,Available,58.1,School,91,12,Low,22.6,57.6,No,Booth,Noisy
+Thursday,8,0,Normal,31.0,55.2,Partly Cloudy,0,0,0,Winter,1,24,Medium,3.9,Chinese,Low,Available,34.4,None,172,34,Medium,23.5,57.6,No,Booth,Moderate
+Tuesday,19,0,Hot,34.5,39.0,Sunny,1,0,0,Summer,0,40,High,4.0,FastFood,High,Available,45.0,Office,109,48,Low,23.0,63.6,No,Indoor,Overloaded
+Sunday,20,1,Hot,33.3,35.8,Sunny,0,0,1,Winter,0,49,High,4.8,FastFood,Low,Available,131.8,Cinema,192,60,Low,22.7,40.9,No,Indoor,Noisy
+Thursday,22,0,Normal,27.4,58.6,Sunny,0,0,0,Monsoon,1,45,High,4.3,Italian,Low,Limited,32.8,Office,176,24,High,22.4,52.6,No,Window,Noisy
+Tuesday,21,0,Rainy,25.7,66.9,Cloudy,0,0,0,Winter,0,47,High,3.7,Bakery,Low,Available,137.5,None,121,30,Medium,26.2,36.4,Yes,Indoor,Overloaded
+Monday,18,0,Rainy,28.2,32.3,Overcast,1,0,0,Winter,1,49,High,3.9,SouthIndian,Low,Available,35.2,Cinema,65,56,Low,29.7,44.8,No,Outdoor,Overloaded
+Wednesday,16,0,Normal,21.5,77.0,Cloudy,0,0,0,Winter,0,27,Medium,4.5,Bakery,Low,Available,17.6,Mall,92,44,High,22.3,61.2,Yes,Indoor,Noisy
+Thursday,12,0,Normal,27.2,60.2,Overcast,0,0,0,Summer,0,27,Medium,4.7,Chinese,Medium,Limited,199.6,School,65,42,Medium,27.6,63.6,No,Window,Comfortable
+Wednesday,15,0,Normal,33.0,37.1,Overcast,0,0,0,Monsoon,0,27,Medium,4.9,FastFood,Medium,Limited,151.5,Mall,163,19,Medium,29.9,55.7,No,Window,Moderate
+Tuesday,18,0,Rainy,29.8,58.9,Overcast,0,0,0,Monsoon,0,38,Medium,4.1,Cafe,Low,Full,148.9,School,71,27,High,26.4,32.4,Yes,Window,Overloaded
+Thursday,8,0,Normal,30.3,37.8,Partly Cloudy,1,0,1,Monsoon,1,27,Medium,4.4,FastFood,High,Limited,140.0,Park,160,49,High,28.5,49.3,No,Indoor,Noisy
+Wednesday,8,0,Normal,22.4,66.2,Cloudy,0,0,0,Summer,0,22,Medium,4.2,Italian,Medium,Available,35.3,None,159,24,Low,27.9,54.6,No,Window,Moderate
+Wednesday,15,0,Normal,21.1,79.7,Cloudy,0,0,0,Monsoon,0,27,Medium,3.8,Bakery,Medium,Available,51.4,Mall,55,31,High,22.4,34.0,No,Indoor,Noisy
+Sunday,21,1,Cloudy,32.7,83.8,Cloudy,0,0,0,Summer,0,42,High,4.0,FastFood,Medium,Available,192.3,Office,155,24,High,29.3,55.4,Yes,Outdoor,Overloaded
+Thursday,14,0,Cloudy,24.4,76.5,Partly Cloudy,1,0,0,Monsoon,1,39,Medium,4.6,Italian,Medium,Limited,119.2,None,108,29,Medium,29.8,35.8,No,Outdoor,Noisy
+Wednesday,14,0,Cloudy,24.8,69.0,Partly Cloudy,0,0,0,Summer,0,31,Medium,5.0,Cafe,Low,Limited,133.9,Cinema,83,10,High,22.6,60.0,Yes,Outdoor,Moderate
+Sunday,18,1,Rainy,34.3,61.3,Overcast,0,0,0,Summer,1,41,High,4.9,Bakery,High,Available,146.3,Cinema,82,12,High,28.8,51.8,No,Indoor,Overloaded
+Sunday,9,1,Normal,21.1,52.2,Partly Cloudy,0,0,0,Monsoon,1,28,Medium,3.7,Bakery,Low,Available,167.7,Park,122,54,Medium,28.9,48.6,No,Indoor,Moderate
+Thursday,15,0,Normal,22.6,32.6,Sunny,0,1,0,Winter,1,39,Medium,4.6,Chinese,Medium,Limited,12.6,School,185,60,High,25.9,53.5,Yes,Outdoor,Moderate
+Wednesday,19,0,Overcast,25.6,61.8,Sunny,0,0,0,Summer,0,44,High,4.2,Italian,High,Full,30.3,Mall,77,50,Medium,27.5,59.4,No,Booth,Overloaded
+Sunday,22,1,Cloudy,31.0,43.8,Sunny,0,0,0,Summer,1,50,High,4.0,Chinese,Medium,Available,49.2,Cinema,137,57,Low,28.4,49.0,No,Booth,Noisy
+Monday,15,0,Rainy,28.2,78.1,Cloudy,1,0,0,Monsoon,0,35,Medium,3.8,Italian,Medium,Available,37.4,Office,131,16,High,29.5,59.8,No,Outdoor,Noisy
+Thursday,9,0,Hot,33.5,77.4,Sunny,1,0,0,Monsoon,1,23,Medium,4.2,SouthIndian,Medium,Limited,147.6,Park,116,42,High,26.8,69.3,No,Indoor,Noisy
+Monday,22,0,Normal,21.4,52.9,Partly Cloudy,0,0,0,Summer,0,38,Medium,5.0,SouthIndian,Medium,Full,159.3,Cinema,90,14,Low,24.8,64.6,Yes,Outdoor,Noisy
+Saturday,9,1,Normal,28.9,65.3,Cloudy,0,0,0,Monsoon,1,24,Medium,3.5,Italian,Low,Available,175.1,School,51,55,Medium,26.7,53.0,Yes,Window,Moderate
+Friday,13,0,Normal,29.2,74.5,Cloudy,0,0,0,Monsoon,0,29,Medium,4.6,FastFood,Low,Available,71.8,Cinema,106,35,High,27.0,38.2,Yes,Booth,Moderate
+Monday,17,0,Normal,27.2,75.7,Sunny,0,0,0,Winter,1,38,Medium,3.8,Bakery,Low,Available,88.1,None,123,38,High,24.0,37.1,Yes,Window,Noisy
+Wednesday,10,0,Hot,20.5,71.8,Overcast,0,0,0,Summer,0,27,Medium,3.6,Chinese,High,Limited,135.3,Office,58,40,Low,24.8,33.1,Yes,Indoor,Noisy
+Tuesday,9,0,Normal,34.1,35.9,Overcast,0,0,1,Summer,1,21,Medium,4.2,FastFood,Low,Available,139.3,Park,113,42,High,26.8,49.8,Yes,Booth,Moderate
+Saturday,10,1,Hot,22.5,38.0,Partly Cloudy,1,0,0,Monsoon,0,28,Medium,3.6,Italian,Medium,Available,94.2,None,65,28,Low,27.9,41.9,Yes,Indoor,Moderate
+Monday,12,0,Normal,33.3,58.6,Sunny,0,1,0,Summer,0,32,Medium,4.4,Italian,High,Limited,48.3,School,81,42,Medium,29.2,35.8,Yes,Outdoor,Noisy
+Sunday,17,1,Hot,22.4,44.0,Partly Cloudy,0,0,0,Monsoon,1,38,Medium,4.4,Bakery,Medium,Limited,130.7,Mall,54,14,Low,22.9,41.6,Yes,Booth,Moderate
+Saturday,18,1,Hot,21.5,81.5,Overcast,0,1,0,Monsoon,0,44,High,3.6,Italian,Medium,Available,49.3,Cinema,142,37,Medium,22.8,40.6,Yes,Window,Overloaded
+Monday,17,0,Cloudy,23.1,47.0,Overcast,0,0,1,Winter,1,41,High,4.5,Bakery,Low,Available,77.1,Park,153,32,High,23.4,65.6,No,Outdoor,Noisy
+Sunday,16,1,Rainy,22.8,82.6,Sunny,0,0,0,Winter,1,47,High,4.8,SouthIndian,Low,Available,175.3,Cinema,177,21,High,29.2,55.8,No,Window,Overloaded
+Monday,19,0,Overcast,30.5,54.5,Overcast,1,0,1,Winter,0,56,High,4.0,SouthIndian,Medium,Available,173.0,Park,194,27,High,29.6,38.6,Yes,Indoor,Overloaded
+Tuesday,13,0,Rainy,30.8,41.3,Overcast,0,0,0,Summer,0,34,Medium,3.5,Chinese,High,Available,135.8,School,165,26,Low,28.0,46.8,Yes,Booth,Noisy
+Tuesday,14,0,Normal,30.9,72.5,Overcast,0,0,0,Summer,0,24,Medium,3.8,FastFood,Low,Available,103.1,Park,144,26,Low,24.0,34.3,No,Window,Moderate
+Sunday,17,1,Normal,24.0,77.4,Sunny,0,0,0,Winter,0,43,High,3.9,Italian,High,Available,190.3,None,158,52,High,26.5,63.1,No,Booth,Overloaded
+Monday,16,0,Normal,24.2,64.7,Sunny,0,1,0,Monsoon,0,40,High,4.9,SouthIndian,High,Full,93.1,Mall,128,33,Medium,23.5,32.1,Yes,Outdoor,Overloaded
+Friday,12,0,Rainy,23.6,37.1,Overcast,1,0,0,Summer,0,35,Medium,4.1,FastFood,Medium,Available,57.9,Office,66,26,High,22.2,37.7,Yes,Outdoor,Moderate
+Tuesday,15,0,Cloudy,20.7,30.4,Overcast,0,0,1,Winter,0,37,Medium,4.6,SouthIndian,Low,Available,92.3,Mall,144,26,Low,28.9,45.3,Yes,Outdoor,Moderate
+Tuesday,16,0,Hot,28.6,69.3,Cloudy,1,0,0,Summer,1,39,Medium,4.1,SouthIndian,Low,Full,40.1,Cinema,163,37,High,23.2,47.3,Yes,Window,Noisy
+Tuesday,17,0,Normal,32.6,71.3,Sunny,0,0,1,Monsoon,0,42,High,4.7,Cafe,Low,Full,158.5,Park,139,13,High,22.9,57.5,No,Booth,Overloaded
+Thursday,14,0,Hot,22.3,49.0,Partly Cloudy,0,1,0,Winter,1,34,Medium,4.9,Chinese,Medium,Limited,168.4,Park,145,44,Medium,23.4,38.6,Yes,Outdoor,Moderate
+Saturday,9,1,Normal,25.4,51.7,Partly Cloudy,0,0,0,Summer,0,25,Medium,4.3,Cafe,Low,Available,152.2,Mall,122,23,Low,27.4,49.0,Yes,Outdoor,Moderate
+Monday,20,0,Normal,26.4,39.3,Overcast,0,1,0,Monsoon,1,39,Medium,4.5,Bakery,High,Available,109.6,None,158,44,High,27.5,36.0,Yes,Indoor,Comfortable
+Friday,19,0,Rainy,24.4,69.1,Overcast,0,0,0,Summer,1,46,High,3.8,FastFood,Low,Available,48.7,None,94,33,Medium,24.1,46.0,Yes,Outdoor,Overloaded
+Tuesday,9,0,Rainy,29.9,45.2,Cloudy,0,0,0,Summer,0,28,Medium,4.4,Bakery,Medium,Limited,31.0,Office,113,54,Medium,29.0,57.8,Yes,Booth,Moderate
+Thursday,21,0,Cloudy,29.0,81.3,Cloudy,0,0,0,Monsoon,0,40,High,3.7,FastFood,High,Available,64.6,Office,114,14,Medium,25.1,36.8,Yes,Window,Overloaded
+Saturday,18,1,Normal,23.0,55.4,Sunny,1,0,0,Monsoon,0,47,High,3.8,FastFood,Low,Full,63.9,Cinema,172,40,Low,29.7,67.4,Yes,Window,Overloaded
+Wednesday,18,0,Hot,20.4,51.9,Partly Cloudy,1,0,0,Summer,1,40,High,3.8,FastFood,Low,Available,43.6,School,77,48,High,29.3,36.1,No,Indoor,Noisy
+Sunday,22,1,Hot,22.6,46.5,Cloudy,0,0,0,Winter,0,46,High,4.3,Bakery,Medium,Available,156.1,Cinema,85,49,Low,27.9,31.4,Yes,Indoor,Noisy
+Wednesday,20,0,Rainy,24.4,70.8,Partly Cloudy,0,0,0,Winter,0,41,High,3.7,Italian,Medium,Available,99.9,School,114,23,High,22.0,53.8,Yes,Booth,Overloaded
+Tuesday,16,0,Normal,21.2,75.3,Cloudy,0,1,0,Monsoon,0,41,High,4.3,Chinese,High,Limited,154.9,Mall,168,38,Low,26.3,61.2,Yes,Booth,Overloaded
+Friday,19,0,Cloudy,32.7,54.8,Overcast,1,0,0,Monsoon,0,44,High,4.5,Cafe,High,Available,22.4,School,161,55,Low,23.6,39.5,No,Indoor,Overloaded
+Friday,21,0,Normal,24.6,77.0,Cloudy,1,0,0,Monsoon,0,40,High,4.1,Chinese,Medium,Available,96.3,Office,50,60,High,29.8,65.7,No,Booth,Overloaded
+Saturday,11,1,Overcast,26.0,58.9,Cloudy,0,0,0,Summer,1,37,Medium,4.4,FastFood,Low,Available,67.6,School,78,45,Medium,24.4,46.6,No,Indoor,Moderate
+Saturday,14,1,Normal,27.3,52.2,Sunny,0,0,0,Monsoon,0,37,Medium,4.8,Bakery,Medium,Available,52.6,Park,61,16,Low,25.5,35.4,Yes,Outdoor,Moderate
+Monday,15,0,Cloudy,29.9,63.3,Overcast,0,0,0,Monsoon,0,34,Medium,4.4,SouthIndian,Low,Available,48.2,Cinema,192,10,Low,29.2,52.8,Yes,Indoor,Moderate
+Sunday,22,1,Overcast,21.4,45.2,Overcast,0,0,0,Winter,0,56,High,4.9,SouthIndian,Low,Available,174.1,Office,65,51,Low,22.1,37.9,Yes,Indoor,Overloaded
+Sunday,11,1,Normal,28.2,48.4,Sunny,0,1,0,Monsoon,1,29,Medium,4.6,Italian,Low,Limited,169.5,Office,80,53,Low,26.0,68.3,No,Indoor,Moderate
+Tuesday,14,0,Overcast,22.8,50.7,Partly Cloudy,1,1,0,Summer,0,46,High,4.4,Chinese,Medium,Available,193.1,Cinema,181,51,High,26.1,53.3,No,Window,Noisy
+Wednesday,13,0,Normal,33.3,72.3,Overcast,0,0,0,Winter,0,25,Medium,4.9,Cafe,High,Available,61.2,School,81,58,Low,26.1,30.4,No,Outdoor,Noisy
+Monday,21,0,Normal,25.5,74.1,Overcast,1,0,0,Monsoon,0,46,High,3.8,Chinese,Low,Limited,101.3,Cinema,59,56,High,26.6,48.6,Yes,Indoor,Noisy
+Friday,15,0,Rainy,26.7,81.3,Sunny,0,0,0,Winter,0,38,Medium,3.5,Italian,Medium,Available,93.2,School,103,52,Medium,24.6,54.2,Yes,Indoor,Noisy
+Monday,14,0,Normal,23.9,69.6,Partly Cloudy,0,0,1,Monsoon,0,30,Medium,3.8,FastFood,High,Limited,35.4,None,56,30,High,24.2,31.2,No,Outdoor,Noisy
+Wednesday,14,0,Cloudy,27.0,74.9,Overcast,0,0,1,Winter,1,34,Medium,3.8,Chinese,Medium,Available,158.4,Mall,155,25,Low,22.2,33.8,No,Outdoor,Moderate
+Friday,19,0,Rainy,23.4,56.8,Sunny,0,1,0,Summer,0,50,High,4.9,FastFood,Low,Available,132.6,Mall,191,51,High,23.3,39.7,Yes,Booth,Overloaded
+Saturday,9,1,Hot,24.0,72.0,Overcast,0,0,0,Winter,1,22,Medium,4.4,Bakery,High,Limited,83.1,Office,108,48,Low,28.9,43.3,Yes,Booth,Noisy
+Thursday,13,0,Normal,20.9,39.7,Cloudy,0,0,0,Summer,1,27,Medium,3.7,Chinese,Medium,Available,197.4,Park,75,17,Low,26.9,61.9,Yes,Indoor,Moderate
+Thursday,14,0,Rainy,31.3,42.9,Partly Cloudy,0,0,0,Monsoon,0,36,Medium,4.2,Cafe,Low,Full,114.8,Office,165,19,High,25.0,68.6,Yes,Indoor,Noisy
+Saturday,13,1,Normal,30.0,54.0,Cloudy,0,1,0,Summer,0,41,High,3.5,SouthIndian,Medium,Limited,132.0,Mall,152,44,Low,26.1,31.0,Yes,Window,Noisy
+Tuesday,18,0,Normal,21.3,50.3,Partly Cloudy,0,0,0,Monsoon,1,30,Medium,3.6,Chinese,Low,Limited,37.5,Mall,120,39,Low,24.8,48.5,No,Window,Moderate
+Monday,12,0,Rainy,25.2,63.0,Sunny,0,0,0,Winter,1,34,Medium,5.0,Cafe,Low,Available,60.9,None,73,42,Medium,26.9,54.6,Yes,Window,Moderate
+Friday,13,0,Normal,28.1,71.8,Overcast,0,0,0,Summer,0,31,Medium,3.7,Bakery,Low,Available,80.5,Cinema,175,42,Low,29.0,33.6,No,Indoor,Moderate
+Saturday,10,1,Normal,34.6,72.4,Overcast,0,0,0,Monsoon,0,27,Medium,4.7,Italian,High,Available,58.4,Park,91,52,Medium,23.5,60.1,Yes,Window,Noisy
+Sunday,18,1,Overcast,28.8,39.6,Sunny,0,0,0,Monsoon,0,45,High,4.1,Cafe,Medium,Available,28.8,Cinema,158,26,Medium,27.5,31.4,No,Outdoor,Overloaded
+Saturday,22,1,Normal,28.3,87.9,Overcast,0,0,0,Summer,0,49,High,4.2,Bakery,Low,Available,173.8,Park,182,44,Medium,26.0,48.1,Yes,Booth,Overloaded
+Tuesday,15,0,Hot,32.6,30.3,Cloudy,0,0,0,Monsoon,1,34,Medium,4.0,Italian,Medium,Limited,108.1,Park,60,57,Medium,27.0,36.4,Yes,Outdoor,Moderate
+Monday,9,0,Cloudy,32.3,35.5,Sunny,0,0,1,Winter,0,31,Medium,4.6,Italian,Medium,Available,68.9,Mall,189,34,High,29.2,34.4,Yes,Outdoor,Moderate
+Saturday,9,1,Normal,26.3,38.7,Cloudy,0,0,1,Winter,0,32,Medium,3.9,Chinese,Low,Limited,86.7,Mall,53,49,Low,25.2,51.6,No,Indoor,Moderate
+Sunday,21,1,Normal,28.0,85.6,Partly Cloudy,0,1,1,Monsoon,0,51,High,4.1,Italian,Medium,Available,22.0,Mall,182,46,High,27.1,45.2,Yes,Indoor,Overloaded
+Wednesday,9,0,Rainy,33.0,56.1,Overcast,0,0,0,Winter,1,27,Medium,4.7,Cafe,Low,Available,191.9,Park,74,47,Low,23.7,31.7,Yes,Booth,Moderate
+Sunday,9,1,Normal,27.1,33.8,Cloudy,0,0,1,Summer,0,34,Medium,4.6,Cafe,Medium,Available,30.4,Cinema,143,37,High,29.6,50.4,Yes,Indoor,Moderate
+Saturday,14,1,Normal,33.2,43.3,Overcast,0,0,0,Monsoon,1,32,Medium,4.0,SouthIndian,Low,Limited,180.8,Office,164,47,High,26.8,65.4,No,Window,Moderate
+Friday,9,0,Normal,27.1,34.8,Partly Cloudy,1,0,0,Monsoon,0,29,Medium,4.8,Italian,Medium,Available,57.9,Mall,77,43,High,24.5,56.2,No,Booth,Moderate
+Sunday,19,1,Cloudy,21.2,32.3,Overcast,0,0,0,Summer,1,40,High,4.0,Italian,Low,Available,56.4,Mall,87,42,Low,23.9,49.8,Yes,Outdoor,Noisy
+Monday,19,0,Rainy,33.5,53.1,Partly Cloudy,1,0,0,Summer,0,49,High,3.6,FastFood,High,Full,192.0,None,57,59,Low,23.5,37.4,Yes,Outdoor,Overloaded
+Sunday,13,1,Normal,30.7,89.1,Sunny,0,0,0,Winter,0,35,Medium,4.4,FastFood,Low,Available,187.0,Office,77,19,Medium,29.4,31.0,Yes,Indoor,Noisy
+Friday,20,0,Normal,27.5,66.8,Overcast,0,1,0,Monsoon,0,45,High,3.8,Bakery,Low,Available,172.6,Cinema,137,58,Medium,25.8,62.9,No,Window,Comfortable
+Sunday,10,1,Normal,33.5,61.3,Sunny,0,1,0,Winter,0,34,Medium,3.7,Chinese,Low,Limited,119.1,School,65,54,High,28.4,42.6,No,Outdoor,Moderate
+Monday,16,0,Normal,32.0,72.7,Partly Cloudy,1,0,0,Monsoon,0,35,Medium,4.5,FastFood,High,Limited,185.6,Mall,168,48,High,23.3,66.9,No,Booth,Noisy
+Wednesday,8,0,Hot,30.2,65.8,Sunny,1,0,0,Winter,0,28,Medium,3.9,Chinese,Low,Available,185.1,Mall,71,13,High,24.9,60.9,No,Indoor,Moderate
+Friday,17,0,Normal,29.3,86.7,Cloudy,1,1,0,Winter,0,38,Medium,3.7,Chinese,Medium,Available,129.2,Mall,100,29,Low,23.2,59.7,Yes,Booth,Noisy
+Thursday,16,0,Rainy,21.8,79.2,Sunny,0,0,0,Winter,0,34,Medium,4.2,FastFood,High,Available,195.7,Park,180,30,High,25.3,61.7,Yes,Booth,Overloaded
+Saturday,16,1,Rainy,31.4,68.4,Cloudy,0,0,0,Monsoon,0,37,Medium,4.2,FastFood,Low,Available,10.6,Cinema,60,40,Low,29.1,70.0,Yes,Window,Moderate
+Wednesday,13,0,Normal,22.6,56.3,Partly Cloudy,0,0,0,Monsoon,1,32,Medium,4.5,Chinese,Medium,Available,192.1,Mall,154,47,High,24.8,34.4,Yes,Window,Moderate
+Monday,18,0,Hot,34.8,42.1,Partly Cloudy,0,0,0,Monsoon,0,37,Medium,3.9,Chinese,Low,Limited,72.2,Cinema,165,54,Low,22.7,36.7,Yes,Window,Moderate
+Friday,9,0,Overcast,34.6,69.4,Overcast,0,0,0,Monsoon,0,27,Medium,3.7,SouthIndian,Medium,Limited,141.0,None,76,18,High,28.5,62.3,No,Window,Moderate
+Saturday,14,1,Rainy,32.1,78.2,Cloudy,0,0,0,Monsoon,1,35,Medium,4.8,FastFood,Low,Available,115.2,School,113,40,High,23.1,68.6,No,Booth,Noisy
+Wednesday,13,0,Normal,21.9,47.2,Overcast,0,0,0,Monsoon,1,24,Medium,4.5,Cafe,Low,Limited,117.9,Mall,63,16,High,27.2,49.0,Yes,Indoor,Moderate
+Monday,21,0,Normal,26.4,32.0,Overcast,0,0,0,Monsoon,1,37,Medium,3.8,Italian,Medium,Full,10.3,School,168,27,Low,26.6,30.3,Yes,Outdoor,Noisy
+Sunday,18,1,Hot,34.8,66.0,Partly Cloudy,0,0,0,Monsoon,1,44,High,4.8,Bakery,High,Available,46.7,None,108,38,Low,29.4,40.3,No,Outdoor,Overloaded
+Thursday,20,0,Normal,26.5,60.9,Sunny,0,0,0,Summer,0,39,Medium,4.8,Italian,High,Limited,30.6,Cinema,135,53,Low,23.2,39.8,No,Indoor,Noisy
+Sunday,14,1,Hot,35.0,43.9,Partly Cloudy,0,0,0,Winter,0,39,Medium,4.7,Bakery,Medium,Limited,68.2,Mall,70,18,High,24.3,32.2,No,Booth,Moderate
+Thursday,21,0,Normal,29.4,40.2,Partly Cloudy,0,0,0,Summer,0,35,Medium,4.0,Cafe,Low,Limited,155.2,None,62,26,Low,22.6,69.1,No,Indoor,Moderate
+Monday,22,0,Cloudy,32.5,32.2,Sunny,1,0,0,Monsoon,1,43,High,4.1,Chinese,Low,Available,57.7,School,123,34,Low,29.4,63.0,No,Window,Noisy
+Thursday,19,0,Rainy,23.9,44.4,Cloudy,0,0,0,Summer,0,37,Medium,4.4,FastFood,High,Limited,162.9,Mall,142,24,Medium,29.6,60.4,Yes,Booth,Overloaded
+Wednesday,8,0,Rainy,33.7,30.0,Cloudy,1,1,0,Summer,1,40,High,4.8,Chinese,Low,Limited,121.4,Park,185,12,High,28.1,41.7,Yes,Indoor,Noisy
+Saturday,12,1,Normal,33.7,39.4,Sunny,0,0,0,Winter,0,36,Medium,4.9,Cafe,Low,Limited,129.5,Park,120,15,High,23.7,61.5,Yes,Window,Moderate
+Sunday,17,1,Normal,21.0,89.8,Sunny,0,1,1,Monsoon,0,52,High,3.8,FastFood,Low,Limited,137.3,Office,175,56,Low,23.2,66.1,No,Outdoor,Overloaded
+Thursday,12,0,Hot,25.8,76.8,Overcast,0,0,1,Summer,0,26,Medium,4.1,Italian,Medium,Limited,192.5,None,126,48,Low,24.5,37.3,Yes,Window,Noisy
+Saturday,13,1,Cloudy,26.0,51.2,Sunny,0,0,0,Winter,0,37,Medium,4.9,Bakery,Low,Available,117.4,Cinema,101,44,Low,28.1,35.8,No,Booth,Moderate
+Tuesday,9,0,Rainy,24.9,53.7,Sunny,0,0,0,Winter,0,26,Medium,5.0,Cafe,Medium,Available,77.8,Office,152,57,Low,27.6,55.9,Yes,Booth,Moderate
+Thursday,17,0,Hot,24.1,65.2,Overcast,0,0,0,Monsoon,0,29,Medium,3.8,FastFood,Medium,Available,82.2,Cinema,94,34,High,25.2,30.6,Yes,Booth,Moderate
+Tuesday,16,0,Normal,26.9,61.1,Cloudy,0,0,0,Summer,0,35,Medium,4.0,FastFood,Low,Limited,128.7,Park,79,55,Medium,25.5,43.7,No,Booth,Moderate
+Saturday,11,1,Hot,33.1,74.2,Sunny,1,1,0,Winter,0,42,High,3.8,FastFood,Medium,Available,179.1,None,100,26,Medium,25.7,38.6,No,Outdoor,Noisy
+Friday,10,0,Normal,31.8,34.1,Sunny,0,0,0,Winter,0,19,Low,4.4,Italian,Low,Available,71.7,Park,56,21,Medium,27.8,53.5,Yes,Booth,Calm
+Saturday,18,1,Hot,29.3,35.4,Overcast,0,0,0,Winter,0,37,Medium,4.0,Italian,Low,Available,173.0,None,54,27,Low,23.2,60.2,Yes,Outdoor,Moderate
+Wednesday,15,0,Normal,27.8,47.1,Sunny,0,0,0,Monsoon,1,34,Medium,4.9,SouthIndian,Medium,Available,77.8,Office,194,18,High,25.3,35.7,Yes,Outdoor,Moderate
