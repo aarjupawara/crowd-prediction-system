@@ -127,3 +127,111 @@ The target variable, **Comfort**, was generated using a rule-based decision proc
 Designing the dataset from scratch gave me complete control over the problem definition while also helping me understand the importance of feature engineering, data quality, and realistic data generation in machine learning.
 
 ---
+
+
+## Machine Learning Pipeline
+
+The project follows a complete end-to-end machine learning workflow:
+
+```
+Dataset Generation
+      ↓
+Data Preprocessing
+      ↓
+Feature Engineering
+      ↓
+Encoding & Scaling
+      ↓
+SMOTE (Class Balancing)
+      ↓
+Random Forest Training
+      ↓
+Model Evaluation
+      ↓
+Prediction
+```
+
+### Key Implementation
+
+- Performed feature engineering by creating **Footfall per Hour**, **Crowd Pressure**, **Special Event Score**, and cyclic time features.
+- Applied **StandardScaler** for numerical features and **One-Hot Encoding** for categorical features.
+- Used **SMOTE** to address class imbalance during training.
+- Trained a **Random Forest Classifier** within a Scikit-learn Pipeline for consistent preprocessing and prediction.
+- Evaluated the model using cross-validation, classification metrics, confusion matrix, and feature importance analysis.
+
+---
+
+The model was evaluated using cross-validation and an independent test dataset to measure its reliability and generalization performance.
+
+| Metric | Result |
+|---------|--------|
+| Model | Random Forest Classifier |
+| Cross Validation | 5-Fold Stratified Cross Validation |
+| Cross Validation F1 Score | **0.8661** |
+| Test Accuracy | **98%** |
+| Weighted F1 Score | **0.98** |
+
+### Evaluation & Analysis
+
+The trained model includes multiple evaluation techniques to better understand its performance:
+
+- **Classification Report** – Precision, Recall, and F1-Score for each comfort level.
+- **Confusion Matrix** – Visualizes correct and incorrect predictions across all classes.
+- **Feature Importance Analysis** – Identifies the most influential features affecting crowd comfort prediction.
+- **Prediction Distribution** – Shows how predictions are distributed among different comfort categories.
+
+These analyses not only validate the model's predictive performance but also improve its interpretability by highlighting the factors that most influence crowd comfort predictions.
+
+---
+
+
+
+## Tech Stack
+
+### Programming & Machine Learning
+
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- Imbalanced-learn (SMOTE)
+- Joblib
+
+### Data Visualization
+
+- Matplotlib
+- Seaborn
+
+### Development
+
+- Visual Studio Code
+- Git & GitHub
+
+---
+
+
+
+## Project Structure
+
+```text
+crowd-prediction-system/
+│
+├── app/
+│   └── app.py                    # Application interface
+│
+├── data/
+│   └── dataset.py                # Custom dataset generation
+│
+├── model/
+│   ├── train.py                  # Model training pipeline
+│   └── test.py                   # Model evaluation
+│
+├── saved_models/
+│   └── comfort_model_improved.pkl
+│
+├── context_crowd_comfort.csv     # Custom generated dataset
+│
+└── README.md
+```
+
+---
