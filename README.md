@@ -18,7 +18,17 @@ The system classifies crowd situations into five categories:
 - Overloaded
 
 
-The goal of this project is to explore how machine learning can be applied to understand crowd conditions and provide intelligent insights that can help in crowd management, event planning, and improving user experiences in public spaces.
+## Problem Statement
+
+Crowd management is a complex challenge because crowd conditions are influenced by multiple dynamic factors such as footfall, weather, traffic, time, events, and environmental conditions.
+
+Traditional crowd monitoring methods often depend on manual observation, which can be difficult to scale and may not provide predictive insights.
+
+This project explores how Machine Learning can be used to analyze different crowd-related factors and predict the expected comfort level of a crowd environment.
+
+The goal is to build a data-driven system that can help understand crowd behavior and support better planning for events, public spaces, and smart environments.
+
+---
 
 
 
@@ -26,24 +36,27 @@ The goal of this project is to explore how machine learning can be applied to un
 
 I created this project as part of my journey to learn and understand Machine Learning by solving a real-world inspired problem.
 
-Crowd management is an important challenge in places like festivals, events, restaurants, public areas, and tourist locations. Crowd comfort depends on many factors such as:
-- Number of people
-- Weather conditions
-- Traffic
-- Noise level
-- Parking availability
-- Time of day
-- User preferences
+While exploring different applications of AI, I wanted to understand how machine learning could be used to analyze situations where multiple factors affect human experience and decision-making.
 
-This project explores how these factors can be combined with machine learning to predict the overall crowd comfort level.
+Crowd comfort is influenced by several changing conditions such as:
 
-Through this project, I learned about:
-- Dataset creation
-- Data preprocessing
-- Feature engineering
-- Handling categorical and numerical data
-- Machine learning pipelines
-- Model evaluation
-- Feature importance analysis
-- Model saving and testing
+- Number of people present
+- Weather and environmental conditions
+- Traffic and accessibility
+- Time-based patterns
+- Events and special occasions
+- Individual user preferences
 
+
+Instead of building only a prediction model, I wanted to understand the complete machine learning lifecycle:
+
+- Defining a real-world problem
+- Creating and designing a custom dataset
+- Performing data preprocessing
+- Engineering meaningful features
+- Training and evaluating machine learning models
+- Understanding model decisions through feature importance
+
+This project represents my practical learning experience in Machine Learning and my attempt to build something that can be extended into a real-world intelligent crowd monitoring system.
+
+-----
